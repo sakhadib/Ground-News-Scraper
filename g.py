@@ -17,7 +17,7 @@ def fetch_article_data(url):
 
     try:
         driver.get(url)
-        time.sleep(3)  # Wait for the page to load completely
+        time.sleep(1)  # Wait for the page to load completely
 
         # Print completion message
         print("Page loaded successfully.")
