@@ -90,22 +90,22 @@ def fetch_article_data(url):
                 # Extract news title from the h4 element
                 news_title_element = source_element.find_element(By.XPATH, ".//h4")
                 source['news_title'] = news_title_element.text
-                print(f"  - News title: {source['news_title']}")
+                # print(f"  - News title: {source['news_title']}")
                 
                 # Extract news link from the h4's parent anchor tag
                 news_link_element = source_element.find_element(By.XPATH, ".//a[h4]")
                 source['news_link'] = news_link_element.get_attribute('href')
-                print(f"  - News link: {source['news_link']}")
+                # print(f"  - News link: {source['news_link']}")
                 
                 # Extract bias from the bias button
                 bias_element = source_element.find_element(By.XPATH, ".//a[contains(@id, 'article-source-bias')]/div")
                 source['bias'] = bias_element.text
-                print(f"  - Bias: {source['bias']}")
+                # print(f"  - Bias: {source['bias']}")
                 
                 # Extract source name for reference
                 source_name_element = source_element.find_element(By.XPATH, ".//a[contains(@id, 'article-source-info')]//span")
                 source['source_name'] = source_name_element.text
-                print(f"  - Source: {source['source_name']}")
+                # print(f"  - Source: {source['source_name']}")
                 
                 article_data['sources'].append(source)
                 
