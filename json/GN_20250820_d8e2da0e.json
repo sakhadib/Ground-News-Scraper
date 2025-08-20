@@ -1,0 +1,78 @@
+{
+  "story_id": "GN_20250820_d8e2da0e",
+  "metadata": {
+    "title": "Trump raises topic of Ukraine's EU membership with Orban, Bloomberg reports",
+    "timestamp": "2025-08-20T23:35:57.292219",
+    "url": "https://ground.news/article/trump-raises-topic-of-ukraines-eu-membership-with-orban-bloomberg-reports_10d0ca"
+  },
+  "bias_distribution": {
+    "total_sources": "56",
+    "leaning_left": "6",
+    "center": "6",
+    "leaning_right": "10"
+  },
+  "perspective_summaries": {
+    "left": [
+      "President Donald Trump called Hungarian Prime Minister Viktor Orban after discussing Ukraine with President Volodymyr Zelensky and European leaders in Washington D.C.",
+      "European leaders urged Trump to push Orban to drop his opposition to Ukraine’s EU accession talks.",
+      "During the call, Hungary expressed interest in hosting future talks between Russian President Vladimir Putin and Zelensky.",
+      "Orban stated that linking Ukraine’s EU membership with security guarantees was 'unnecessary and dangerous' on Facebook."
+    ],
+    "center": [
+      "President Donald Trump called Hungarian Prime Minister Viktor Orban after discussing Ukraine with President Volodymyr Zelensky and European leaders in Washington D.C.",
+      "European leaders urged Trump to push Orban to drop his opposition to Ukraine’s EU accession talks.",
+      "During the call, Hungary expressed interest in hosting future talks between Russian President Vladimir Putin and Zelensky.",
+      "Orban stated that linking Ukraine’s EU membership with security guarantees was 'unnecessary and dangerous' on Facebook."
+    ],
+    "right": [
+      "US President Donald Trump spoke with Viktor Orbán on August 18 to discuss Hungary's opposition to Ukraine's EU accession, after meetings with Ukrainian President Volodymyr Zelensky and European leaders.",
+      "Trump announced he is seeking a leader-level summit between Russia and Ukraine after his discussions on August 18.",
+      "European leaders encouraged Trump to persuade Orbán to support Ukraine's EU membership amidst Hungary's strong criticism of it.",
+      "The EU has a pattern of disregarding referendum results related to itself."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "European leaders ‘asked Trump to pressure Orbán’ on EU membership for Ukraine",
+      "news_link": "https://brusselssignal.eu/2025/08/european-leaders-asked-trump-to-pressure-orban-on-eu-membership-for-ukraine/",
+      "bias": "Lean Right",
+      "source_name": "brusselssignal.eu"
+    },
+    {
+      "news_title": "Trump Reportedly Calls Hungarian PM Orban to Persuade Support for Ukraine’s EU Membership",
+      "news_link": "https://united24media.com/latest-news/trump-reportedly-calls-hungarian-pm-orban-to-persuade-support-for-ukraines-eu-membership-10908",
+      "bias": "Lean Left",
+      "source_name": "united24media.com"
+    },
+    {
+      "news_title": "Trump called Orban to win his support for Ukraine joining EU: Report",
+      "news_link": "https://thehill.com/homenews/administration/5460805-trump-orban-ukraine-eu-call/",
+      "bias": "Center",
+      "source_name": "The Hill"
+    },
+    {
+      "news_title": "EU leaders have told: Trump called Orban after a conversation with Putin — Bloomberg: EADaily",
+      "news_link": "https://eadaily.com/en/news/2025/08/19/eu-leaders-have-told-trump-called-orban-after-a-conversation-with-putin-bloomberg",
+      "bias": "Lean Right",
+      "source_name": "EADaily"
+    },
+    {
+      "news_title": "Trump raises topic of Ukraine's EU membership with Orban, Bloomberg reports",
+      "news_link": "https://kyivindependent.com/trump-raises-topic-of-ukraines-eu-membership-with-orban-bloomberg-reports/",
+      "bias": "Lean Left",
+      "source_name": "The Kyiv Independent"
+    },
+    {
+      "news_title": "After Putin call, Trump rang Hungary’s Orban over Ukraine’s EU membership",
+      "news_link": "https://www.straitstimes.com/world/europe/after-putin-call-trump-rang-hungarys-orban-over-ukraines-eu-membership",
+      "bias": "Lean Right",
+      "source_name": "The Straits Times"
+    },
+    {
+      "news_title": "After Putin Call, Trump Rang Orban Over Ukraine EU Membership",
+      "news_link": "https://www.bloomberg.com/news/articles/2025-08-19/after-putin-call-trump-rang-orban-over-ukraine-eu-membership",
+      "bias": "Lean Left",
+      "source_name": "Bloomberg"
+    }
+  ]
+}

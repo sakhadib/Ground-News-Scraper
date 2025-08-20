@@ -1,0 +1,91 @@
+{
+  "story_id": "GN_20250820_deb6e030",
+  "metadata": {
+    "title": "Canada's annual inflation rate eases to 1.7% in July, core measures stay firm",
+    "timestamp": "2025-08-20T23:43:06.042261",
+    "url": "https://ground.news/article/canadas-annual-inflation-rate-eases-to-17-in-july-core-measures-stay-firm_bfba3f"
+  },
+  "bias_distribution": {
+    "total_sources": "31",
+    "leaning_left": "7",
+    "center": "6",
+    "leaning_right": "3"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Canada's annual inflation rate decreased to 1.7% in July, down from 1.9% in June, according to Statistics Canada.",
+      "Gas prices fell by 16.1% year-over-year, largely due to the removal of the consumer carbon price earlier this year.",
+      "Food inflation rose to 3.4% in July, up from 2.8% in June, with major contributions from confections and coffee.",
+      "Shelter inflation increased to 3% in July, while lower mortgage costs continue to moderate overall increases."
+    ],
+    "center": [
+      "On Aug. 19, 2025, Statistics Canada said Canada’s annual inflation rate eased to 1.7% in July from 1.9% in June.",
+      "Gasoline prices eased by 16.1% year-over-year in July, a larger drop than June's 13.4%, while carbon levy removal keeps pressure down on the CPI basket for eight months.",
+      "Beyond energy, food prices rose 3.3%, shelter costs climbed 3%, and the CPI-median core measure increased to 3.1% in July from June.",
+      "Money markets are betting the odds of a rate cut on Sept. 17 at 32%, two-year government bond yields fell 0.3 basis points to 2.735%, and the Canadian dollar weakened 0.11% to 72.37 U.S. cents.",
+      "Ahead of its Sept. 17 rate decision, the Bank of Canada will parse the inflation figures closely, informing BoC policymakers’ assessment of changing inflation trends last month."
+    ],
+    "right": [
+      "Canada's inflation rate decreased to 1.7 percent in July, down from 1.9 percent in June, according to Statistics Canada.",
+      "The decline in the Consumer Price Index was primarily driven by a 16.1 percent drop in gasoline prices year over year in July, as reported by Statistics Canada.",
+      "Core inflation measures showed slight relief, as mentioned by Statistics Canada.",
+      "Markets increased expectations for a potential quarter-point rate cut by the central bank in September due to these changes."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Canada's inflation slows to 1.7 pct in July",
+      "news_link": "https://www.thestar.com.my/news/world/2025/08/20/canada039s-inflation-slows-to-17-pct-in-july",
+      "bias": "Right",
+      "source_name": "The Star Kuala Lumpur"
+    },
+    {
+      "news_title": "Economists split on BoC's next rate move after July inflation data (Business)",
+      "news_link": "https://www.castanet.net/news/Business/567455/Economists-split-on-BoC-s-next-rate-move-after-July-inflation-data",
+      "bias": "Center",
+      "source_name": "castanet.net"
+    },
+    {
+      "news_title": "Canada’s Inflation Slows to 1.7% in July as Fuel Costs Fall, Core Pressures Hold",
+      "news_link": "https://www.riotimesonline.com/canadas-inflation-slows-to-1-7-in-july-as-fuel-costs-fall-core-pressures-hold/",
+      "bias": "Lean Right",
+      "source_name": "The Rio Times"
+    },
+    {
+      "news_title": "Economists split on BoC’s next rate move after July inflation data",
+      "news_link": "https://www.ctvnews.ca/business/article/inflation-cools-to-17-in-july-thanks-to-lower-gas-prices-statcan/",
+      "bias": "Center",
+      "source_name": "CTV News"
+    },
+    {
+      "news_title": "Canada’s inflation rate slows to 1.7% in July, raising odds of BoC rate cut",
+      "news_link": "https://www.theglobeandmail.com/business/article-canadas-inflation-rate-slows-to-17-in-july-led-by-falling-gasoline/",
+      "bias": "Center",
+      "source_name": "The Globe & Mail"
+    },
+    {
+      "news_title": "Inflation Slows to 1.7 Percent in July: StatCan",
+      "news_link": "https://www.theepochtimes.com/world/canadas-annual-inflation-rate-eases-to-1-7-in-july-core-measures-stay-firm-5903064",
+      "bias": "Lean Right",
+      "source_name": "The Epoch Times"
+    },
+    {
+      "news_title": "Here's a list of July inflation rates for selected Canadian cities",
+      "news_link": "https://www.winnipegfreepress.com/business/2025/08/19/heres-a-list-of-july-inflation-rates-for-selected-canadian-cities-6",
+      "bias": "Center",
+      "source_name": "Winnipeg Free Press"
+    },
+    {
+      "news_title": "Here's a list of July inflation rates for Canadian provinces",
+      "news_link": "https://www.bowenislandundercurrent.com/the-mix/heres-a-list-of-july-inflation-rates-for-canadian-provinces-11094741",
+      "bias": "Lean Left",
+      "source_name": "Bowen Island Undercurrent"
+    },
+    {
+      "news_title": "Statistics Canada to release July inflation report this morning",
+      "news_link": "https://www.niagarafallsreview.ca/business/statistics-canada-to-release-july-inflation-report-this-morning/article_e9054119-55fc-54e2-ac24-3dfba019e644.html",
+      "bias": "Lean Left",
+      "source_name": "NiagaraFallsReview.ca"
+    }
+  ]
+}
