@@ -1,5 +1,5 @@
 import time
-import csv
+import json
 import sys
 import os
 import uuid
@@ -122,51 +122,44 @@ def fetch_article_data(url):
         story_id = f"GN_{datetime.now().strftime('%Y%m%d')}_{str(uuid.uuid4())[:8]}"
         print(f"Generated Story ID: {story_id}")
 
-        # Save to CSV with improved error handling
-        csv_filename = 'dataset.csv'
+        # Prepare structured data for JSON
+        structured_data = {
+            'story_id': story_id,
+            'metadata': {
+                'title': article_data.get('title', ''),
+                'timestamp': datetime.now().isoformat(),
+                'url': url
+            },
+            'bias_distribution': {
+                'total_sources': article_data.get('total_source', ''),
+                'leaning_left': article_data.get('leaning_left', ''),
+                'center': article_data.get('center', ''),
+                'leaning_right': article_data.get('leaning_right', '')
+            },
+            'perspective_summaries': {
+                'left': article_data.get('left_points', []),
+                'center': article_data.get('center_points', []),
+                'right': article_data.get('right_points', [])
+            },
+            'sources': article_data.get('sources', [])
+        }
+
+        # Save to JSON file in json/ directory
+        json_filename = os.path.join('json', f"{story_id}.json")
         
         try:
-            # Check if file exists and if we can write to it
-            file_exists = os.path.exists(csv_filename)
+            # Ensure json directory exists
+            os.makedirs('json', exist_ok=True)
             
-            # Flatten the sources data for CSV with Story ID as first column
-            flattened_data = {
-                'story_id': story_id,
-                'title': article_data.get('title', ''),
-                'total_source': article_data.get('total_source', ''),
-                'leaning_left': article_data.get('leaning_left', ''),
-                'leaning_right': article_data.get('leaning_right', ''),
-                'center': article_data.get('center', ''),
-                'left_points': ' | '.join(article_data.get('left_points', [])),
-                'center_points': ' | '.join(article_data.get('center_points', [])),
-                'right_points': ' | '.join(article_data.get('right_points', [])),
-                'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            }
-            
-            # Add sources data
-            for i, source in enumerate(article_data.get('sources', []), 1):
-                flattened_data[f'source_{i}_name'] = source.get('source_name', '')
-                flattened_data[f'source_{i}_title'] = source.get('news_title', '')
-                flattened_data[f'source_{i}_link'] = source.get('news_link', '')
-                flattened_data[f'source_{i}_bias'] = source.get('bias', '')
-            
-            # Open file and write data
-            mode = 'a' if file_exists else 'w'
-            with open(csv_filename, mode, newline='', encoding='utf-8') as file:
-                writer = csv.DictWriter(file, fieldnames=flattened_data.keys())
-                
-                # Write header only if file is new
-                if not file_exists:
-                    writer.writeheader()
-                    print("CSV header written.")
-                
-                writer.writerow(flattened_data)
-                print("Data successfully saved to CSV.")
+            # Write JSON data with proper formatting
+            with open(json_filename, 'w', encoding='utf-8') as file:
+                json.dump(structured_data, file, indent=2, ensure_ascii=False)
+                print(f"Data successfully saved to {json_filename}")
                 
         except PermissionError:
-            print(f"Permission denied: Cannot write to '{csv_filename}'. Please close the file if it's open in Excel or another application.")
+            print(f"Permission denied: Cannot write to '{json_filename}'. Please check file permissions.")
         except Exception as e:
-            print(f"Error saving to CSV: {e}")
+            print(f"Error saving to JSON: {e}")
 
     except Exception as e:
         print(f"An error occurred: {e}")
