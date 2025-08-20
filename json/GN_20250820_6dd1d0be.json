@@ -1,0 +1,143 @@
+{
+  "story_id": "GN_20250820_6dd1d0be",
+  "metadata": {
+    "title": "Israel demands release of all hostages after Hamas backs new truce offer",
+    "timestamp": "2025-08-20T21:58:57.556099",
+    "url": "https://ground.news/article/israel-demands-release-of-all-hostages-after-hamas-backs-new-truce-offer_db0000"
+  },
+  "bias_distribution": {
+    "total_sources": "117",
+    "leaning_left": "6",
+    "center": "19",
+    "leaning_right": "24"
+  },
+  "perspective_summaries": {
+    "left": [
+      "A senior Israeli official stated that Israel demands the release of all hostages in any future deal related to Gaza after Hamas agreed to a new truce proposal.",
+      "Mediators are currently waiting for an official response from Israel to Hamas's readiness for further talks aimed at ending nearly two years of conflict.",
+      "Israeli Prime Minister Benjamin Netanyahu previously indicated that Israel would accept an agreement involving the simultaneous release of all hostages.",
+      "The new proposal arrives amid concerns that Israel's security cabinet has approved plans to capture Gaza City, which may worsen the humanitarian crisis in the area."
+    ],
+    "center": [
+      "After Hamas accepted a new truce proposal, a senior Israeli official demanded the release of all hostages in any future Gaza deal.",
+      "Mediators await Israel's official response to the proposal, which offers a 60-day truce, partial hostage release, freeing of Palestinian prisoners, and aid provisions.",
+      "Israeli Prime Minister Benjamin Netanyahu faces pressure to end the war as protests call for hostages' release, with 49 of 251 hostages still held by Hamas."
+    ],
+    "right": [
+      "Israel demands the release of all hostages in any ceasefire deal, rejecting the current proposal to free only 10 hostages while keeping the majority captive.",
+      "The current proposal would allow the release of 10 living hostages and 18 deceased hostages in exchange for 140 Palestinian prisoners, but this deal leaves 10 hostages still held in Gaza.",
+      "During a truce, the proposal mandates an IDF withdrawal from certain areas, while humanitarian aid is set to flow into Gaza immediately if the deal is executed.",
+      "Prime Minister Benjamin Netanyahu emphasized that military actions against Hamas continue, stating, 'Hamas is under immense pressure' and remains dedicated to the defeat of Hamas."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Israel insists on full hostage release in any Gaza truce deal after Hamas accepts new proposal",
+      "news_link": "https://www.malaymail.com/news/world/2025/08/20/israel-insists-on-full-hostage-release-in-any-gaza-truce-deal-after-hamas-accepts-new-proposal/188317",
+      "bias": "Lean Right",
+      "source_name": "Malay Mail"
+    },
+    {
+      "news_title": "News24 | Israel official demands release of all hostages in Gaza following Hamas ceasefire agreement",
+      "news_link": "https://www.news24.com/world/israel-official-demands-release-of-all-hostages-in-gaza-following-hamas-ceasefire-agreement-20250820-0301",
+      "bias": "Center",
+      "source_name": "News24"
+    },
+    {
+      "news_title": "Israel demands release of all hostages from Hamas",
+      "news_link": "https://tribune.com.pk/story/2562170/israel-demands-release-of-all-hostages-from-hamas",
+      "bias": "Center",
+      "source_name": "The Express Tribune"
+    },
+    {
+      "news_title": "Israel Insists on Hostage Release as Hamas Accepts New Truce Offer",
+      "news_link": "https://www.deccanchronicle.com/world/middle-east/israel-insists-on-hostage-release-as-hamas-accepts-new-truce-offer-1898563",
+      "bias": "Lean Right",
+      "source_name": "Deccan Chronicle"
+    },
+    {
+      "news_title": "Israel demands release of all hostages at once, casting doubt on new Hamas-backed truce proposal",
+      "news_link": "https://www.thejournal.ie/israel-release-hostages-truce-proposal-hamas-gaza-6794215-Aug2025/",
+      "bias": "Lean Left",
+      "source_name": "The Journal"
+    },
+    {
+      "news_title": "A Path to Peace? Israel Demands All Hostages Release In New Truce Deal",
+      "news_link": "https://www.ndtv.com/world-news/a-path-to-peace-israel-demands-all-hostages-released-in-new-truce-deal-9118605",
+      "bias": "Lean Right",
+      "source_name": "NDTV"
+    },
+    {
+      "news_title": "Report: Israel Rejects Hamas' Partial Hostage Deal, Wants Release of All Captives",
+      "news_link": "https://legalinsurrection.com/2025/08/report-israel-rejects-hamas-partial-hostage-deal-wants-release-of-all-captives/",
+      "bias": "Right",
+      "source_name": "Le·gal In·sur·rec·tion"
+    },
+    {
+      "news_title": "A look at Gaza ceasefire talks after Hamas accepts a new proposal",
+      "news_link": "https://halifax.citynews.ca/2025/08/19/hamas-says-it-has-accepted-a-new-arab-proposal-in-gaza-ceasefire-talks/",
+      "bias": "Center",
+      "source_name": "City News"
+    },
+    {
+      "news_title": "A limited Gaza hostage deal is better than no deal – but a full one is still possible",
+      "news_link": "https://www.haaretz.com/israel-news/2025-08-19/ty-article/.premium/a-limited-gaza-hostage-deal-is-better-than-no-deal-but-a-full-one-is-still-possible/00000198-c2ad-dcce-a5bf-cbbf85a70000",
+      "bias": "Lean Left",
+      "source_name": "Haaretz"
+    },
+    {
+      "news_title": "Israel says its policy to end Gaza war ‘unchanged,’ demands release of all hostages",
+      "news_link": "https://www.aa.com.tr/en/middle-east/israel-says-its-policy-to-end-gaza-war-unchanged-demands-release-of-all-hostages/3663810",
+      "bias": "Right",
+      "source_name": "Anadolu Ajansı"
+    },
+    {
+      "news_title": "Israel demands release of all 50 hostages held in Gaza",
+      "news_link": "https://english.alarabiya.net/News/middle-east/2025/08/19/israel-demands-release-of-all-50-hostages-held-in-gaza",
+      "bias": "Lean Right",
+      "source_name": "Al Arabiya"
+    },
+    {
+      "news_title": "Israel demands release of all hostages as it reviews Hamas ceasefire response",
+      "news_link": "https://www.france24.com/en/middle-east/20250819-israel-demands-release-of-all-hostages-as-it-reviews-hamas-ceasefire-response",
+      "bias": "Center",
+      "source_name": "France24"
+    },
+    {
+      "news_title": "Israel demands full hostage release after Hamas backs new Gaza truce",
+      "news_link": "https://www.scmp.com/news/world/middle-east/article/3322420/gaza-war-israel-demands-full-hostage-release-after-hamas-backs-new-truce",
+      "bias": "Center",
+      "source_name": "South China Morning Post"
+    },
+    {
+      "news_title": "Israel says truce must include release of all hostages",
+      "news_link": "https://www.bangkokpost.com/world/3089577/israel-says-truce-must-include-release-of-all-hostages",
+      "bias": "Lean Right",
+      "source_name": "Bangkok Post"
+    },
+    {
+      "news_title": "Israel Demands Release Of All Hostages In Any Gaza Deal: Govt Source To AFP",
+      "news_link": "https://www.barrons.com/news/israel-demands-release-of-all-hostages-in-any-gaza-deal-govt-source-to-afp-8bd0f8e0",
+      "bias": "Center",
+      "source_name": "Barron's"
+    },
+    {
+      "news_title": "Israel demands release of all hostages after Hamas backs new truce offer",
+      "news_link": "https://www.channelnewsasia.com/world/gaza-war-israel-demands-release-hostages-hamas-truce-offer-5302386",
+      "bias": "Center",
+      "source_name": "Channel News Asia"
+    },
+    {
+      "news_title": "Israeli source: 'Israel's demand for the release of all hostages unchanged'",
+      "news_link": "https://www.israelnationalnews.com/news/413484",
+      "bias": "Lean Right",
+      "source_name": "Arutz Sheva"
+    },
+    {
+      "news_title": "Israeli officials: all hostages must be released in any ceasefire deal",
+      "news_link": "https://worldisraelnews.com/israeli-officials-all-hostages-must-be-released-in-any-ceasefire-deal/",
+      "bias": "Right",
+      "source_name": "WIN"
+    }
+  ]
+}

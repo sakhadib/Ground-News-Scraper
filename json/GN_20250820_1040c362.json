@@ -1,0 +1,138 @@
+{
+  "story_id": "GN_20250820_1040c362",
+  "metadata": {
+    "title": "Fire Breaks Out Aboard USS New Orleans Off Okinawa",
+    "timestamp": "2025-08-20T21:38:33.646593",
+    "url": "https://ground.news/article/fire-breaks-out-aboard-uss-new-orleans-off-okinawa"
+  },
+  "bias_distribution": {
+    "total_sources": "25",
+    "leaning_left": "6",
+    "center": "6",
+    "leaning_right": "7"
+  },
+  "perspective_summaries": {
+    "left": [
+      "A fire has broken out on the US Naval Ship New Orleans off Japan’s Okinawa Prefecture.",
+      "Dramatic footage shows flames raging as the vessel was moored near the American military port in Uruma City.",
+      "Multiple self-defense force vessels were deployed to extinguish the flames, and no injuries among the crew were reported.",
+      "The extent of the damage and the ship’s future status remain uncertain until the US Navy issues a formal statement."
+    ],
+    "center": [
+      "A fire has broken out on the US Naval Ship New Orleans off Japan’s Okinawa Prefecture.",
+      "Dramatic footage shows flames raging as the vessel was moored near the American military port in Uruma City.",
+      "Multiple self-defense force vessels were deployed to extinguish the flames, and no injuries among the crew were reported.",
+      "The extent of the damage and the ship’s future status remain uncertain until the US Navy issues a formal statement."
+    ],
+    "right": [
+      "A fire has broken out on the US naval ship New Orleans off the coast of Okinawa, prompting firefighting operations, reports say.",
+      "The fire occurred on a US military vessel near the US military port known as 'White Beach' in Uruma City, Okinawa.",
+      "Currently, there are no reports of injuries or fatalities, as the crew engages in firefighting efforts.",
+      "The Japan Coast Guard has been requested to provide assistance, while flames have been seen coming from the vessel, reported NHK."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Fire breaks out on US navy ship New Orleans in Japan’s Okinawa, firefighting ops underway – VIDEO",
+      "news_link": "https://www.financialexpress.com/world-news/us-news/fire-breaks-out-on-us-navy-ship-new-orleans-in-japans-okinawa-firefighting-ops-underway-video/3952538/",
+      "bias": "Lean Right",
+      "source_name": "Financial Express"
+    },
+    {
+      "news_title": "Fire breaks out on US naval ship off Japan's Okinawa",
+      "news_link": "https://www.canberratimes.com.au/story/9046147/fire-breaks-out-on-us-naval-ship-off-japans-okinawa/",
+      "bias": "Lean Left",
+      "source_name": "The Canberra Times"
+    },
+    {
+      "news_title": "Fire breaks out on US naval ship off Japan's Okinawa, NHK says",
+      "news_link": "https://denvergazette.com/news/nation-world/fire-breaks-out-on-us-naval-ship-off-japans-okinawa-nhk-says/article_b1f0cc1d-61f2-529d-ad9f-b84ef171882f.html",
+      "bias": "Center",
+      "source_name": "Denver Gazette"
+    },
+    {
+      "news_title": "UPDATE 1-Fire breaks out on US naval ship off Japan's Okinawa, no injuries reported",
+      "news_link": "https://www.devdiscourse.com/article/law-order/3547982-update-1-fire-breaks-out-on-us-naval-ship-off-japans-okinawa-no-injuries-reported",
+      "bias": "Center",
+      "source_name": "Devdiscourse"
+    },
+    {
+      "news_title": "Sailors fight back and contain fire aboard USS New Orleans, Navy says",
+      "news_link": "https://taskandpurpose.com/news/navy-new-orleans-fire/",
+      "bias": "Lean Left",
+      "source_name": "Task & Purpose"
+    },
+    {
+      "news_title": "Fire erupts aboard USS New Orleans near Okinawa, Japan Coast Guard joins US Navy crews as damage & cause remain uncertain",
+      "news_link": "https://www.indiatimes.com/trending/fire-erupts-aboard-uss-new-orleans-near-okinawa-japan-coast-guard-joins-us-navy-crews-as-damage-cause-remain-uncertain-667351.html",
+      "bias": "Lean Right",
+      "source_name": "Times of India"
+    },
+    {
+      "news_title": "US Navy ship catches fire at allied port",
+      "news_link": "https://www.newsweek.com/us-navy-ship-fire-japan-okinawa-uss-new-orleans-2116217",
+      "bias": "Center",
+      "source_name": "Newsweek"
+    },
+    {
+      "news_title": "Fire breaks out on US Navy amphib New Orleans, operating near Japan - Breaking Defense",
+      "news_link": "https://breakingdefense.com/2025/08/fire-breaks-out-on-us-navy-amphib-new-orleans-operating-near-japan/",
+      "bias": "Lean Right",
+      "source_name": "Breaking Defense"
+    },
+    {
+      "news_title": "Fire Breaks Out on US Naval Ship off Japan's Okinawa, NHK Says",
+      "news_link": "https://www.usnews.com/news/world/articles/2025-08-20/fire-breaks-out-on-us-naval-ship-off-japans-okinawa-nhk-says",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "USS New Orleans catches fire off Japan's Okinawa",
+      "news_link": "https://www.jpost.com/international/article-864780",
+      "bias": "Center",
+      "source_name": "Jerusalem Post"
+    },
+    {
+      "news_title": "Fire breaks out on US vessel deployed in southwestern Japan",
+      "news_link": "https://www.aa.com.tr/en/asia-pacific/fire-breaks-out-on-us-vessel-deployed-in-southwestern-japan/3664620",
+      "bias": "Right",
+      "source_name": "Anadolu Ajansı"
+    },
+    {
+      "news_title": "Fire breaks out onboard US Navy warship off coast of Japan",
+      "news_link": "https://metro.co.uk/2025/08/20/us-navy-ship-uss-new-orleans-catches-fire-docked-okinawa-japan-23957835/",
+      "bias": "Lean Left",
+      "source_name": "Metro News"
+    },
+    {
+      "news_title": "Fire breaks out on U.S. Navy ship off Japan's Okinawa",
+      "news_link": "http://www.xinhuanet.com/english/20250820/18f99d88c03843ba9b69ccbe4339e08d/c.html",
+      "bias": "Left",
+      "source_name": "Xinhua News"
+    },
+    {
+      "news_title": "Amphib USS New Orleans Suffers Fire Off Okinawa",
+      "news_link": "https://news.usni.org/2025/08/20/breaking-amphib-uss-new-orleans-suffers-fire-off-okinawa",
+      "bias": "Center",
+      "source_name": "USNI News"
+    },
+    {
+      "news_title": "Fire breaks out on US naval ship off Japan’s coast",
+      "news_link": "https://english.alarabiya.net/News/united-states/2025/08/20/fire-breaks-out-on-us-naval-ship-off-japan-s-coast",
+      "bias": "Lean Right",
+      "source_name": "Al Arabiya"
+    },
+    {
+      "news_title": "Fire erupts on US warship as firefighters scrambled to fight blaze",
+      "news_link": "https://www.express.co.uk/news/world/2097771/us-mlitary-ship-fire-japan-okinawa",
+      "bias": "Lean Right",
+      "source_name": "Daily Express"
+    },
+    {
+      "news_title": "Blaze breaks out aboard US Navy ship off Okinawa, report says",
+      "news_link": "https://www.stripes.com/theaters/asia_pacific/2025-08-20/uss-new-orleans-fire-okinawa-18822804.html",
+      "bias": "Center",
+      "source_name": "Stars and Stripes"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "story_id": "GN_20250820_581a9c03",
+  "metadata": {
+    "title": "Israeli Military Will Call up 50,000 Reservists as It Plans New Phase of War in Gaza",
+    "timestamp": "2025-08-20T21:44:18.887251",
+    "url": "https://ground.news/article/israeli-military-will-call-up-50-000-reservists-as-it-plans-new-phase-of-war-in-gaza_1a0308"
+  },
+  "bias_distribution": {
+    "total_sources": "154",
+    "leaning_left": "27",
+    "center": "33",
+    "leaning_right": "24"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Israel's Defence Minister has approved a plan to conquer Gaza City and called up around 60,000 reservists, as confirmed by his ministry.",
+      "A senior Hamas official stated they had 'opened the door wide to the possibility of reaching an agreement', questioning Netanyahu's reliability.",
+      "The civil defence agency in Gaza reported that Israeli strikes killed 48 people across the territory on Tuesday.",
+      "The Israeli military stated it was 'operating to dismantle Hamas military capabilities' and taking 'feasible precautions to mitigate civilian harm'."
+    ],
+    "center": [
+      "Israel's Defence Minister has approved a plan to conquer Gaza City and called up around 60,000 reservists, as confirmed by his ministry.",
+      "A senior Hamas official stated they had 'opened the door wide to the possibility of reaching an agreement', questioning Netanyahu's reliability.",
+      "The civil defence agency in Gaza reported that Israeli strikes killed 48 people across the territory on Tuesday.",
+      "The Israeli military stated it was 'operating to dismantle Hamas military capabilities' and taking 'feasible precautions to mitigate civilian harm'."
+    ],
+    "right": [
+      "The IDF will issue approximately 60,000 reservist call-up orders on Wednesday for a planned operation in Gaza, bringing the total to 130,000 reservists in active duty.",
+      "The Knesset's Foreign Affairs and Defense Committee approved Defense Minister Israel Katz's request to extend reservist mobilization until September 4, 2025.",
+      "Defense Minister Israel Katz approved a plan to march through Gaza in a final push to eliminate the terror group and secure hostages.",
+      "Experts warn that the plan has received international condemnation, as it threatens to drastically worsen the humanitarian crisis in Gaza."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Israel calls up 60,000 soldiers as it prepares devastating Gaza offensive",
+      "news_link": "https://www.the-express.com/news/world-news/180957/israel-call-up-60-000-reservists-prepares-expand-gaza-offensive",
+      "bias": "Right",
+      "source_name": "Express US"
+    },
+    {
+      "news_title": "Israeli military says 60,000 reservists called up for next phase of Gaza war",
+      "news_link": "https://www.cbsnews.com/news/israeli-military-says-60000-reservists-called-up-for-next-phase-of-gaza-war/",
+      "bias": "Lean Left",
+      "source_name": "CBS News"
+    },
+    {
+      "news_title": "Gideon's Chariots 2: 60,000 reservists receive orders ahead of Gaza City op.",
+      "news_link": "https://www.israelnationalnews.com/news/413572",
+      "bias": "Lean Right",
+      "source_name": "Arutz Sheva"
+    },
+    {
+      "news_title": "Israel calls up 60,000 reservists ahead of planned Gaza City offensive",
+      "news_link": "https://rocketnews.com/2025/08/israel-calls-up-60000-reservists-ahead-of-planned-gaza-city-offensive/",
+      "bias": "Lean Left",
+      "source_name": "RocketNews"
+    },
+    {
+      "news_title": "Israel says IDF camp in Gaza’s Khan Yunus attacked, at least 8 attackers killed in gunfire",
+      "news_link": "https://www.firstpost.com/world/israel-says-idf-camp-in-gazas-khan-yunus-attacked-at-least-8-attackers-killed-in-gunfire-13926461.html",
+      "bias": "Lean Right",
+      "source_name": "Firstpost News"
+    },
+    {
+      "news_title": "Israel to call up 60,000 reservists in plan to expand war, seize Gaza City",
+      "news_link": "https://www.aljazeera.com/news/2025/8/20/israel-to-call-up-60000-reservists-in-plan-to-expand-war-seize-gaza-city",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "Israel begins calling up 60,000 reservists ahead of Gaza offensive",
+      "news_link": "https://www.upi.com/Top_News/World-News/2025/08/20/military-reservists-recalled-for-Gaza-operation/9321755690585/",
+      "bias": "Center",
+      "source_name": "UPI"
+    },
+    {
+      "news_title": "Israel approves plan to conquer Gaza City, calls up reservists",
+      "news_link": "https://www.insidenova.com/news/national/israel-approves-plan-to-conquer-gaza-city-calls-up-reservists/article_f50efc67-395e-5f4e-a97f-22a7d7cda57c.html",
+      "bias": "Center",
+      "source_name": "InsideNoVA.com"
+    },
+    {
+      "news_title": "Israel plans a new phase of war in Gaza",
+      "news_link": "https://www.dailysentinel.com/anpa/international/israel-plans-a-new-phase-of-war-in-gaza/article_42c0b4cd-6705-5d19-8192-4ccc3042b79b.html",
+      "bias": "Center",
+      "source_name": "The Daily Sentinel"
+    },
+    {
+      "news_title": "Israeli army to call up 60,000 reservist soldiers for Gaza occupation plan, local media reports",
+      "news_link": "https://www.aa.com.tr/en/middle-east/israeli-army-to-call-up-60-000-reservist-soldiers-for-gaza-occupation-plan-local-media-reports/3664285",
+      "bias": "Right",
+      "source_name": "Anadolu Ajansı"
+    },
+    {
+      "news_title": "Israeli strikes kill 30 as Gaza City braces for major offensive",
+      "news_link": "https://www.newarab.com/news/israeli-strikes-kill-30-gaza-city-braces-major-offensive",
+      "bias": "Lean Left",
+      "source_name": "The New Arab"
+    },
+    {
+      "news_title": "Israel mobilises 60,000 reservists to seize Gaza City, piling pressure on Hamas",
+      "news_link": "https://www.scmp.com/news/world/middle-east/article/3322501/israel-mobilises-60000-reservists-seize-gaza-city-heaping-pressure-hamas",
+      "bias": "Center",
+      "source_name": "South China Morning Post"
+    },
+    {
+      "news_title": "Israeli defence minister approves plan to conquer Gaza City",
+      "news_link": "https://www.euractiv.com/section/politics/news/israeli-defence-minister-approves-plan-to-conquer-gaza-city/",
+      "bias": "Lean Left",
+      "source_name": "EURACTIV"
+    },
+    {
+      "news_title": "Israel to call up 60,000 reservists for new Gaza offensive",
+      "news_link": "https://www.afr.com/world/middle-east/israel-to-call-up-60-000-reservists-for-new-gaza-offensive-20250820-p5mojo",
+      "bias": "Lean Right",
+      "source_name": "Australian Financial Review"
+    },
+    {
+      "news_title": "Israeli minister approves plan to conquer Gaza, call-up 60,000 reservists",
+      "news_link": "https://www.nzherald.co.nz/world/israeli-defence-minister-approves-plan-to-conquer-gaza-city-call-up-of-60000-reservists/JUPAEVPATNAOHJMBEZNCLS3KPU/",
+      "bias": "Center",
+      "source_name": "NZ Herald"
+    },
+    {
+      "news_title": "IDF announces immediate mobilization of 60,000 reservists ahead of Gaza City offensiv",
+      "news_link": "https://www.ynetnews.com/article/hyv2slxfll",
+      "bias": "Lean Left",
+      "source_name": "Ynet News"
+    },
+    {
+      "news_title": "Israel approves plan to conquer Gaza City, despite Hamas accepting truce proposal",
+      "news_link": "https://www.thejournal.ie/hamas-accepts-new-truce-proposal-but-israel-holds-back-from-agreement-6794324-Aug2025/",
+      "bias": "Lean Left",
+      "source_name": "The Journal"
+    },
+    {
+      "news_title": "Israel approves plan to conquer Gaza City",
+      "news_link": "https://www.bangkokpost.com/world/3090044/israel-defence-minister-approves-plan-to-conquer-gaza-city",
+      "bias": "Lean Right",
+      "source_name": "Bangkok Post"
+    },
+    {
+      "news_title": "Israeli military to call up 50,000 reservists as it plans new phase of Gaza war",
+      "news_link": "https://www.irishnews.com/news/world/israeli-military-to-call-up-50000-reservists-as-it-plans-new-phase-of-gaza-war-6CCKLGSOMRNLJBNQ35HY5RHD4A/",
+      "bias": "Lean Left",
+      "source_name": "Irish News"
+    },
+    {
+      "news_title": "Israel’s Defense Minister Approves Plan to Occupy Gaza City - Quds News Network",
+      "news_link": "https://qudsnen.co/israels-defense-minister-approves-plan-to-occupy-gaza-city/",
+      "bias": "Lean Left",
+      "source_name": "Quds News Network"
+    },
+    {
+      "news_title": "Israel defense minister approves plan to seize Gaza City",
+      "news_link": "https://english.alarabiya.net/News/middle-east/2025/08/20/israel-defense-minister-approves-plan-to-seize-gaza-city",
+      "bias": "Lean Right",
+      "source_name": "Al Arabiya"
+    },
+    {
+      "news_title": "Israel to Call Up 60,000 Reservists for Gaza Takeover",
+      "news_link": "https://politicalwire.com/2025/08/20/israel-to-call-up-60000-reservists-for-gaza-takeover/",
+      "bias": "Center",
+      "source_name": "Political Wire"
+    },
+    {
+      "news_title": "Israeli Regime Finalizes Gaza Occupation Plan, Calls Up 60,000 Reservists - World news - Tasnim News Agency",
+      "news_link": "https://www.tasnimnews.com/en/news/2025/08/20/3380042/israeli-regime-finalizes-gaza-occupation-plan-calls-up-60-000-reservists",
+      "bias": "Right",
+      "source_name": "Tasnim News Agency"
+    },
+    {
+      "news_title": "Israeli military will call up 50,000 reservists as it plans new phase of war in Gaza",
+      "news_link": "https://www.kob.com/ap-top-news/israeli-military-will-call-up-50000-reservists-as-it-plans-new-phase-of-war-in-gaza/",
+      "bias": "Center",
+      "source_name": "KOB 4"
+    },
+    {
+      "news_title": "Four soldiers injured in Syria, troops thwart terror attack on IDF post in Khan Yunis",
+      "news_link": "https://www.jpost.com/israel-news/defense-news/2025-08-20/live-updates-864725",
+      "bias": "Center",
+      "source_name": "Jerusalem Post"
+    },
+    {
+      "news_title": "Israel defence minister approves plan to conquer Gaza City",
+      "news_link": "https://www.kake.com/israel-defence-minister-approves-plan-to-conquer-gaza-city/article_dc11f9ca-4de3-5a45-84c6-6d073a6bd6fa.html",
+      "bias": "Center",
+      "source_name": "KAKE News"
+    },
+    {
+      "news_title": "60,000 reservists to be called up for 'Operation Gideon's Chariots B'",
+      "news_link": "https://www.i24news.tv/en/news/israel-at-war/artc-60-000-reservists-to-be-called-up-for-operation-gideon-s-chariots-b",
+      "bias": "Lean Right",
+      "source_name": "i24NEWS"
+    },
+    {
+      "news_title": "Israel’s military leaders have preliminarily approved next phase of war in Gaza, focusing on Gaza City, official says",
+      "news_link": "https://denvergazette.com/ap/international/israel-s-military-leaders-have-preliminarily-approved-next-phase-of-war-in-gaza-focusing-on/article_58854c5c-e36d-5212-9070-086f91561a2e.html",
+      "bias": "Center",
+      "source_name": "Denver Gazette"
+    },
+    {
+      "news_title": "Israel to Double Army Reservists in Gaza to Boost Campaign",
+      "news_link": "https://www.bloomberg.com/news/articles/2025-08-20/israel-to-start-call-up-of-60-000-reservists-for-gaza-offensive",
+      "bias": "Lean Left",
+      "source_name": "Bloomberg"
+    },
+    {
+      "news_title": "Israel's Katz approves plan to take over Gaza City",
+      "news_link": "https://www.rte.ie/news/world/2025/0820/1529253-israel-gaza/",
+      "bias": "Center",
+      "source_name": "RTÉ"
+    },
+    {
+      "news_title": "Israel approves Gaza City conquest plan, calls up 60k reservists",
+      "news_link": "https://www.dailysabah.com/world/mid-east/israel-approves-gaza-city-conquest-plan-calls-up-60k-reservists",
+      "bias": "Right",
+      "source_name": "Daily Sabah"
+    },
+    {
+      "news_title": "Israel Prepares Major Gaza City Offensive, Mobilizes 50,000 Reservists - Novinite.com - Sofia News Agency",
+      "news_link": "https://www.novinite.com/articles/234010/Israel+Prepares+Major+Gaza+City+Offensive%2C+Mobilizes+50%2C000+Reservists",
+      "bias": "Center",
+      "source_name": "Novinite.com"
+    },
+    {
+      "news_title": "Israel to call up 50,000 reservists before Gaza City offensive, military official says",
+      "news_link": "https://www.reuters.com/world/middle-east/israel-call-up-50000-reservists-before-gaza-city-offensive-military-official-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "Israel calls up 60k troops to take over Gaza City as defence chiefs approve plan",
+      "news_link": "https://www.the-sun.com/news/15007344/israel-troops-gaza-city-hamas/",
+      "bias": "Lean Right",
+      "source_name": "The US Sun"
+    },
+    {
+      "news_title": "Defense Minister Approves IDF Gaza Operation as Netanyahu Sends Scathing Letter to Australian PM",
+      "news_link": "https://cbn.com/news/israel/defense-minister-approves-idf-gaza-operation-netanyahu-sends-scathing-letter-australian",
+      "bias": "Right",
+      "source_name": "CBN"
+    },
+    {
+      "news_title": "IDF launches 60000-reservist call-up for Gaza City operation",
+      "news_link": "https://www.israelhayom.com/2025/08/20/idf-launches-60000-reservist-call-up-for-gaza-city-operation/",
+      "bias": "Right",
+      "source_name": "Israel Hayom"
+    },
+    {
+      "news_title": "Israeli Military Will Call up 50,000 Reservists as It Plans New Phase of War in Gaza",
+      "news_link": "https://www.usnews.com/news/world/articles/2025-08-20/israeli-military-will-call-up-50-000-reservists-as-it-plans-new-phase-of-war-in-gaza",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "Israel approves plans for Gaza offensive: reports",
+      "news_link": "https://www.newsweek.com/israel-gaza-city-offensive-katz-gideons-chariots-netanyahu-2116058",
+      "bias": "Center",
+      "source_name": "Newsweek"
+    },
+    {
+      "news_title": "Israel Moves Forward With Massive Reservist Mobilization Ahead Of Gaza City Offensive - Worthy Christian News",
+      "news_link": "https://www.worthynews.com/107890-israel-moves-forward-with-massive-reservist-mobilization-ahead-of-gaza-city-offensive",
+      "bias": "Center",
+      "source_name": "Worthy Christian News"
+    },
+    {
+      "news_title": "US Discusses Gaza Hostage Proposal as Israel Calls Up Troops for Gaza City Operation - The Media Line",
+      "news_link": "https://themedialine.org/headlines/us-discusses-gaza-hostage-proposal-as-israel-calls-up-troops-for-gaza-city-operation/",
+      "bias": "Lean Right",
+      "source_name": "The Media Line"
+    },
+    {
+      "news_title": "Israel yet to respond as mediators push for Gaza ceasefire",
+      "news_link": "https://presstv.ir/Detail/2025/08/19/753401/Israeli-regime-yet-to-respond-as-mediators-push-for-Gaza-ceasefire",
+      "bias": "Right",
+      "source_name": "PressTV"
+    }
+  ]
+}

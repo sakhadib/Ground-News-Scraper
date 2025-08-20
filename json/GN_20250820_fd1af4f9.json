@@ -1,0 +1,138 @@
+{
+  "story_id": "GN_20250820_fd1af4f9",
+  "metadata": {
+    "title": "Mexico Rejects DEA 'Project Portero' Claim as US Embassy Says Cooperation Exists",
+    "timestamp": "2025-08-20T21:40:51.795778",
+    "url": "https://ground.news/article/daf2bdfb-bf80-40b9-b9bd-f6d72a06fc49"
+  },
+  "bias_distribution": {
+    "total_sources": "130",
+    "leaning_left": "21",
+    "center": "46",
+    "leaning_right": "13"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Mexico has stated that there is no agreement with the DEA for new border enforcement collaboration, according to an official source.",
+      "Claudia Sheinbaum clarified that the only event mentioned was a workshop in Texas attended by four members of Mexico's police force.",
+      "Sheinbaum indicated that any official announcements will come from her administration, not individual agencies.",
+      "Sheinbaum requested the DEA to respect Mexico and follow agreed-upon protocols for announcements."
+    ],
+    "center": [
+      "Mexico has stated that there is no agreement with the DEA for new border enforcement collaboration, according to an official source.",
+      "Claudia Sheinbaum clarified that the only event mentioned was a workshop in Texas attended by four members of Mexico's police force.",
+      "Sheinbaum indicated that any official announcements will come from her administration, not individual agencies.",
+      "Sheinbaum requested the DEA to respect Mexico and follow agreed-upon protocols for announcements."
+    ],
+    "right": [
+      "Mexico's President Claudia Sheinbaum stated that her government does not have an agreement with the U.S. Drug Enforcement Administration regarding Project Portero.",
+      "Sheinbaum emphasized during a press conference, 'There is no agreement with the DEA.'",
+      "The DEA described Project Portero as a major initiative to combat cartels, but Sheinbaum clarified that there is no agreement with the DEA.",
+      "Sheinbaum urged the DEA to respect Mexico's protocols, asserting that agreements are signed with the U.S. government, not individual agencies."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Tensions Rise Over DEA's 'Project Portero'",
+      "news_link": "https://www.devdiscourse.com/article/law-order/3547053-tensions-rise-over-deas-project-portero",
+      "bias": "Center",
+      "source_name": "Devdiscourse"
+    },
+    {
+      "news_title": "Mexico: No Agreement With DEA on New Border Enforcement",
+      "news_link": "https://www.newsmax.com/newsfront/mexico-dea-us/2025/08/19/id/1223118",
+      "bias": "Right",
+      "source_name": "Newsmax"
+    },
+    {
+      "news_title": "Mexico’s President Claudia Sheinbaum denies knowledge of US drug initiative",
+      "news_link": "https://www.aljazeera.com/news/2025/8/19/mexicos-president-claudia-sheinbaum-denies-knowledge-of-us-drug-initiative",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "US-Mexico Tensions Flare Over DEA's 'Project Portero' Initiative | Here's Why",
+      "news_link": "https://www.republicworld.com/world-news/us-mexico-tensions-flare-over-dea-project-portero-initiative-here-why",
+      "bias": "Lean Right",
+      "source_name": "Republic World"
+    },
+    {
+      "news_title": "Mexico: No border enforcement collaboration deal with DEA",
+      "news_link": "https://thehill.com/policy/international/5460220-mexico-president-denies-dea-collaboration/",
+      "bias": "Center",
+      "source_name": "The Hill"
+    },
+    {
+      "news_title": "Mexico denies it has a DEA agreement after U.S. agency announced border collaboration",
+      "news_link": "https://www.kjzz.org/fronteras-desk/2025-08-19/mexico-denies-it-has-a-dea-agreement-after-u-s-agency-announced-border-collaboration",
+      "bias": "Lean Left",
+      "source_name": "KJZZ"
+    },
+    {
+      "news_title": "Sheinbaum says there is 'no agreement' with US on cartels despite DEA memo",
+      "news_link": "https://www.washingtonexaminer.com/news/3760327/sheinbaum-cartels-mexico-agreement-us-dea/",
+      "bias": "Lean Right",
+      "source_name": "Washington Examiner"
+    },
+    {
+      "news_title": "Sheinbaum denies DEA agreement on anti-cartel operation, calls agency statement unauthorized",
+      "news_link": "https://mexiconewsdaily.com/news/sheinbaum-denies-dea-agreement-anti-cartel-operation/",
+      "bias": "Lean Left",
+      "source_name": "Mexico News Daily"
+    },
+    {
+      "news_title": "Mexico denies an agreement was made with the US following DEA announcement of joint initiative",
+      "news_link": "https://www.khq.com/national/mexico-denies-an-agreement-was-made-with-the-us-following-dea-announcement-of-joint-initiative/article_10a43ba1-169e-43ce-a570-1d1c50e9e027.html",
+      "bias": "Center",
+      "source_name": "KHQ Right Now"
+    },
+    {
+      "news_title": "Mexico not going after cartel 'plaza' bosses with DEA",
+      "news_link": "https://www.cenlanow.com/news/border-report-tour/mexico-not-going-after-cartel-plaza-bosses-with-dea/",
+      "bias": "Center",
+      "source_name": "WNTZ FOX 48"
+    },
+    {
+      "news_title": "Mexico not going after cartel ‘plaza’ bosses with DEA",
+      "news_link": "https://www.borderreport.com/hot-topics/mexico-not-going-after-cartel-plaza-bosses-with-dea/",
+      "bias": "Center",
+      "source_name": "BorderReport"
+    },
+    {
+      "news_title": "DEA Announces New US–Mexico Partnership in Fighting Cartels - The Thinking Conservative",
+      "news_link": "https://www.thethinkingconservative.com/dea-announces-new-us-mexico-partnership-in-fighting-cartels/",
+      "bias": "Far Right",
+      "source_name": "The Thinking Conservative"
+    },
+    {
+      "news_title": "Mexico denies it agreed to a border enforcement collaboration deal with DEA",
+      "news_link": "https://justthenews.com/government/diplomacy/mexico-denies-it-agreed-border-enforcement-collaboration-deal-dea",
+      "bias": "Lean Right",
+      "source_name": "Just the News"
+    },
+    {
+      "news_title": "DEA Announces New US–Mexico Partnership in Fighting Cartels",
+      "news_link": "https://www.theepochtimes.com/us/dea-announces-new-us-mexico-partnership-in-fighting-cartels-5903147",
+      "bias": "Lean Right",
+      "source_name": "The Epoch Times"
+    },
+    {
+      "news_title": "Mexican President Claudia Sheinbaum rebukes Donald Trump's DEA project",
+      "news_link": "https://www.newsweek.com/donald-trump-dea-project-portero-mexico-claudia-sheinbaum-2115827",
+      "bias": "Center",
+      "source_name": "Newsweek"
+    },
+    {
+      "news_title": "Mexico's Sheinbaum Says No Agreement Exists With DEA on 'Project Portero'",
+      "news_link": "https://www.usnews.com/news/top-news/articles/2025-08-19/mexicos-sheinbaum-says-no-agreement-exists-with-dea-on-project-portero",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "Mexico's Sheinbaum says no agreement exists with DEA on 'Project Portero'",
+      "news_link": "https://gazette.com/news/us-world/mexicos-sheinbaum-says-no-agreement-exists-with-dea-on-project-portero/article_c21836db-6fc2-5430-8140-fd2af16a14dc.html",
+      "bias": "Center",
+      "source_name": "Colorado Springs Gazette"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "story_id": "GN_20250820_50ae7963",
+  "metadata": {
+    "title": "Six Human Heads Found on a Highway in Central Mexico",
+    "timestamp": "2025-08-20T21:45:26.206880",
+    "url": "https://ground.news/article/six-human-heads-found-on-a-highway-in-central-mexico"
+  },
+  "bias_distribution": {
+    "total_sources": "51",
+    "leaning_left": "7",
+    "center": "12",
+    "leaning_right": "5"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Authorities found six severed heads along a road in central Mexico, where such violence is rare, according to prosecutors.",
+      "Local media reported a pamphlet blaming the violence on gang disputes over fuel theft.",
+      "The Tlaxcala Prosecutor's Office confirmed the heads belonged to men and has started an investigation.",
+      "This discovery occurs during a crackdown on fentanyl trafficking by President Claudia Sheinbaum's administration."
+    ],
+    "center": [
+      "Authorities found six severed heads along a road in central Mexico, where such violence is rare, according to prosecutors.",
+      "Local media reported a pamphlet blaming the violence on gang disputes over fuel theft.",
+      "The Tlaxcala Prosecutor's Office confirmed the heads belonged to men and has started an investigation.",
+      "This discovery occurs during a crackdown on fentanyl trafficking by President Claudia Sheinbaum's administration."
+    ],
+    "right": [
+      "Authorities found six severed heads along a road in central Mexico, where such violence is rare, according to prosecutors.",
+      "Local media reported a pamphlet blaming the violence on gang disputes over fuel theft.",
+      "The Tlaxcala Prosecutor's Office confirmed the heads belonged to men and has started an investigation.",
+      "This discovery occurs during a crackdown on fentanyl trafficking by President Claudia Sheinbaum's administration."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Six severed heads found on busy city street alongside ominous message - The Mirror",
+      "news_link": "https://www.mirror.co.uk/news/world-news/six-severed-heads-found-city-35763476",
+      "bias": "Lean Left",
+      "source_name": "Daily Mirror"
+    },
+    {
+      "news_title": "Mexico: Six severed heads found on road with warning message left - signed by group called 'the sweeper'",
+      "news_link": "https://www.nationalworld.com/news/world/mexico-six-severed-heads-found-on-road-with-warning-message-left-5280730",
+      "bias": "Lean Left",
+      "source_name": "nationalworld.com"
+    },
+    {
+      "news_title": "6 severed heads found by drivers on road in Mexico; message about revenge reportedly left at scene",
+      "news_link": "https://www.cbsnews.com/news/severed-heads-found-road-mexico-message-revenge/",
+      "bias": "Lean Left",
+      "source_name": "CBS News"
+    },
+    {
+      "news_title": "Mexico: Six severed heads found on road",
+      "news_link": "https://www.bbc.com/news/articles/c8ry1m202nro",
+      "bias": "Center",
+      "source_name": "BBC News"
+    },
+    {
+      "news_title": "Six severed human heads discovered in central Mexico",
+      "news_link": "https://www.cnn.com/2025/08/19/americas/severed-heads-mexico-intl-latam",
+      "bias": "Lean Left",
+      "source_name": "CNN"
+    },
+    {
+      "news_title": "Horror as six severed heads found on road",
+      "news_link": "https://www.news.com.au/world/north-america/investigation-underway-after-severed-heads-and-human-remains-found-in-mexico/news-story/d5b2a2c4c24873ed3566264296e96299?from=rss-basic",
+      "bias": "Lean Right",
+      "source_name": "News"
+    }
+  ]
+}

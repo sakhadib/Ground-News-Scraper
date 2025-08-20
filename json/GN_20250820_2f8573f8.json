@@ -1,0 +1,186 @@
+{
+  "story_id": "GN_20250820_2f8573f8",
+  "metadata": {
+    "title": "China Details Sept. 3 Military Parade With Joint Formations and New Strategic, Hypersonic Weapons",
+    "timestamp": "2025-08-20T21:42:36.596007",
+    "url": "https://ground.news/article/china-to-unveil-new-military-hardware-at-major-parade-next-month_14188f"
+  },
+  "bias_distribution": {
+    "total_sources": "67",
+    "leaning_left": "14",
+    "center": "16",
+    "leaning_right": "6"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Taiwan's Mainland Affairs Council announced a ban on current and certain former government officials from traveling to China for a military parade on September 3, marking the 80th anniversary of the end of the Second Sino-Japanese War.",
+      "The ban includes officials responsible for national defense, foreign affairs, and military officers ranked major general or above to prevent Beijing's united front efforts targeting Taiwan, according to Liang Wen-chieh.",
+      "Violating the travel ban may lead to penalties like fines or suspension of pensions under the Cross-Strait Act, Liang stated while urging the public not to participate in the parade.",
+      "China's Xinhua News Agency reported that President Xi Jinping will review the troops and address a gathering during the parade."
+    ],
+    "center": [
+      "Taiwan's Mainland Affairs Council announced a ban on current and certain former government officials from traveling to China for a military parade on September 3, marking the 80th anniversary of the end of the Second Sino-Japanese War.",
+      "The ban includes officials responsible for national defense, foreign affairs, and military officers ranked major general or above to prevent Beijing's united front efforts targeting Taiwan, according to Liang Wen-chieh.",
+      "Violating the travel ban may lead to penalties like fines or suspension of pensions under the Cross-Strait Act, Liang stated while urging the public not to participate in the parade.",
+      "China's Xinhua News Agency reported that President Xi Jinping will review the troops and address a gathering during the parade."
+    ],
+    "right": [
+      "China will hold a military parade in September to mark 80 years since the end of World War II, featuring new military hardware.",
+      "Hundreds of aircraft along with ground equipment will be displayed for the first time, according to military officials.",
+      "President Xi Jinping will oversee the 70-minute parade in Beijing, attended by foreign leaders including Vladimir Putin.",
+      "Beijing authorities have increased security measures, including checkpoints and traffic diversions, ahead of the parade rehearsals."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "China holds press conference on V-Day military parade preparations",
+      "news_link": "https://english.news.cn/20250820/36d8d9214852410fbfe1be4d6d36d1f5/c.html",
+      "bias": "Left",
+      "source_name": "Xinhua"
+    },
+    {
+      "news_title": "China holds press conference on V-Day military parade preparations - People's Daily Online",
+      "news_link": "https://en.people.cn/n3/2025/0820/c90000-20355106.html",
+      "bias": "Center",
+      "source_name": "People's Daily"
+    },
+    {
+      "news_title": "Chinese troops swelter through rehearsal for major military parade",
+      "news_link": "https://www.kake.com/chinese-troops-swelter-through-rehearsal-for-major-military-parade/article_706f53b0-ee73-5d8d-88d0-c7fb0cd21979.html",
+      "bias": "Center",
+      "source_name": "KAKE News"
+    },
+    {
+      "news_title": "China set to debut new advanced weaponry at massive military parade",
+      "news_link": "https://www.independent.co.uk/asia/china/china-victory-day-parade-military-submarines-tanks-b2810778.html",
+      "bias": "Lean Left",
+      "source_name": "The Independent"
+    },
+    {
+      "news_title": "China’s massive military parade to debut hypersonic, nuke missiles",
+      "news_link": "https://interestingengineering.com/military/china-to-debut-hypersonic-nuclear-missiles",
+      "bias": "Center",
+      "source_name": "Interesting Engineering"
+    },
+    {
+      "news_title": "China to show off massive troops, never-seen-before weapons at WW2 parade",
+      "news_link": "https://nypost.com/2025/08/20/world-news/china-to-show-off-massive-troops-high-tech-weapons-at-ww2-parade/",
+      "bias": "Lean Right",
+      "source_name": "New York Post"
+    },
+    {
+      "news_title": "China Teases Glimpse of Advanced New Weaponry at Military Parade",
+      "news_link": "https://www.bloomberg.com/news/articles/2025-08-20/china-teases-glimpse-of-advanced-new-weaponry-at-military-parade",
+      "bias": "Lean Left",
+      "source_name": "Bloomberg"
+    },
+    {
+      "news_title": "V-Day parade to feature China's new-generation weaponry",
+      "news_link": "https://www.chinadaily.com.cn/a/202508/20/WS68a52e54a310b236346f2906.html",
+      "bias": "Lean Left",
+      "source_name": "China Daily"
+    },
+    {
+      "news_title": "China's military parade to unveil new weapons and equipment",
+      "news_link": "https://news.cgtn.com/news/2025-08-20/China-s-military-parade-to-unveil-new-weapons-and-equipment-1FZr8iXWHG8/p.html",
+      "bias": "Lean Left",
+      "source_name": "CGTN"
+    },
+    {
+      "news_title": "China to showcase latest military hardware at parade",
+      "news_link": "https://english.alarabiya.net/News/world/2025/08/20/china-to-showcase-latest-military-hardware-at-parade",
+      "bias": "Lean Right",
+      "source_name": "Al Arabiya"
+    },
+    {
+      "news_title": "China to showcase latest military hardware at September parade",
+      "news_link": "https://globalnation.inquirer.net/288668/china-to-showcase-latest-military-hardware-at-september-parade",
+      "bias": "Lean Left",
+      "source_name": "Inquirer"
+    },
+    {
+      "news_title": "China to show off massive troops, high-tech weapons at WW2 parade - Asia & Pacific - The Jakarta Post",
+      "news_link": "https://www.thejakartapost.com/world/2025/08/20/china-to-show-off-massive-troops-high-tech-weapons-at-ww2-parade.html",
+      "bias": "Lean Left",
+      "source_name": "The Jakarta Post"
+    },
+    {
+      "news_title": "China To Showcase New Military Hardware At September Parade",
+      "news_link": "https://www.ndtv.com/world-news/china-to-showcase-new-military-hardware-at-september-parade-9121197",
+      "bias": "Lean Right",
+      "source_name": "NDTV"
+    },
+    {
+      "news_title": "China to unveil new military hardware at major parade next month",
+      "news_link": "https://www.nzherald.co.nz/world/china-to-unveil-new-military-hardware-at-parade-marking-wwii-anniversary/7RANWMDUVRDTFP6KDJR4JW4DAM/",
+      "bias": "Center",
+      "source_name": "NZ Herald"
+    },
+    {
+      "news_title": "China to show off massive troops, high-tech weapons at WWII parade",
+      "news_link": "https://www.channelnewsasia.com/east-asia/china-stage-massive-military-parade-wwii-japan-surrender-5303806",
+      "bias": "Center",
+      "source_name": "Channel News Asia"
+    },
+    {
+      "news_title": "China to unveil advanced weapons at huge military parade to mark WWII end",
+      "news_link": "https://www.aljazeera.com/news/2025/8/20/china-to-unveil-advanced-weapons-at-huge-military-parade-to-mark-wwii-end",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "China to stage massive military parade marking WWII surrender of Japan",
+      "news_link": "https://www.straitstimes.com/asia/east-asia/china-to-stage-massive-military-parade-marking-wwii-surrender-of-japan",
+      "bias": "Lean Right",
+      "source_name": "The Straits Times"
+    },
+    {
+      "news_title": "China says it will highlight joint combat groups in next month’s military parade",
+      "news_link": "https://www.scmp.com/news/china/military/article/3322448/china-says-it-will-highlight-joint-combat-groups-next-months-military-parade",
+      "bias": "Center",
+      "source_name": "South China Morning Post"
+    },
+    {
+      "news_title": "China Is Planning a Drone Parade in September",
+      "news_link": "https://nationalinterest.org/blog/buzz/china-planning-drone-parade-september-sa-081925",
+      "bias": "Lean Right",
+      "source_name": "The National Interest"
+    },
+    {
+      "news_title": "China To Unveil New Extra-Large Underwater Drones At September Military Parade - Worthy Christian News",
+      "news_link": "https://www.worthynews.com/107877-china-to-unveil-new-extra-large-underwater-drones-at-september-military-parade",
+      "bias": "Center",
+      "source_name": "Worthy Christian News"
+    },
+    {
+      "news_title": "China to show off massive troops, high-tech weapons at WW2 parade",
+      "news_link": "https://www.reuters.com/world/china/china-show-off-massive-troops-high-tech-weapons-ww2-parade-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "China's military prepares to show off huge submarine drones",
+      "news_link": "https://www.newsweek.com/china-military-showcase-submarine-drones-2114928",
+      "bias": "Center",
+      "source_name": "Newsweek"
+    },
+    {
+      "news_title": "China to unveil new airborne vehicles at military parade",
+      "news_link": "https://defence-blog.com/china-to-unveil-new-airborne-vehicles-at-military-parade/",
+      "bias": "Center",
+      "source_name": "Defence Blog"
+    },
+    {
+      "news_title": "CCP’s August dream: Trump’s attendance at its coercive Sept. 3 military parade",
+      "news_link": "https://www.worldtribune.com/ccps-august-dream-trumps-attendance-at-its-coercive-sept-3-military-parade/",
+      "bias": "Right",
+      "source_name": "World Tribune: Window on the Real World"
+    },
+    {
+      "news_title": "Taiwan bars officials from China military parade marking end of war with Japan - Focus Taiwan",
+      "news_link": "https://focustaiwan.tw/cross-strait/202508140028",
+      "bias": "Lean Left",
+      "source_name": "Focus Taiwan"
+    }
+  ]
+}
