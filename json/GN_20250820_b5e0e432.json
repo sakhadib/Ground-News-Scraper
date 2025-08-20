@@ -1,0 +1,48 @@
+{
+  "story_id": "GN_20250820_b5e0e432",
+  "metadata": {
+    "title": "German foreign minister backs Israel and Palestine two-state solution during Indonesia visit",
+    "timestamp": "2025-08-20T23:03:41.260378",
+    "url": "https://ground.news/article/wadephul-hopes-to-adopt-eu-free-trade-agreements-with-indonesia-in-september"
+  },
+  "bias_distribution": {
+    "total_sources": "11",
+    "leaning_left": "6",
+    "center": "1",
+    "leaning_right": "2"
+  },
+  "perspective_summaries": {
+    "left": [
+      "The foreign minister of Germany called for an immediate ceasefire in Gaza and the release of hostages held by Hamas after a meeting in Indonesia.",
+      "Germany, as a special friend and partner of Israel, also has a responsibility, which was acknowledged during discussions on alleviating suffering in Gaza.",
+      "The goal for all is clear: a two-state solution, which must be negotiated, as stated by the foreign minister of Germany.",
+      "The foreign minister mentioned that there is now a very acute opportunity for conflict resolution with contributions from neighboring countries."
+    ],
+    "center": [
+      "The foreign minister of Germany called for an immediate ceasefire in Gaza and the release of hostages held by Hamas after a meeting in Indonesia.",
+      "Germany, as a special friend and partner of Israel, also has a responsibility, which was acknowledged during discussions on alleviating suffering in Gaza.",
+      "The goal for all is clear: a two-state solution, which must be negotiated, as stated by the foreign minister of Germany.",
+      "The foreign minister mentioned that there is now a very acute opportunity for conflict resolution with contributions from neighboring countries."
+    ],
+    "right": [
+      "The foreign minister of Germany called for an immediate ceasefire in Gaza and the release of hostages held by Hamas after a meeting in Indonesia.",
+      "Germany, as a special friend and partner of Israel, also has a responsibility, which was acknowledged during discussions on alleviating suffering in Gaza.",
+      "The goal for all is clear: a two-state solution, which must be negotiated, as stated by the foreign minister of Germany.",
+      "The foreign minister mentioned that there is now a very acute opportunity for conflict resolution with contributions from neighboring countries."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "German foreign minister backs Israel-Palestine two-state solution ...",
+      "news_link": "https://english.alarabiya.net/News/world/2025/08/20/german-foreign-minister-backs-israelpalestine-twostate-solution-during-indonesia-visit-",
+      "bias": "Lean Right",
+      "source_name": "Al Arabiya"
+    },
+    {
+      "news_title": "German foreign minister backs Israel and Palestine two-state solution during Indonesia visit",
+      "news_link": "https://apnews.com/article/indonesia-germany-foreign-ministers-israel-palestine-f8712d5596e5fae8cfb417ebe65102de",
+      "bias": "Lean Left",
+      "source_name": "Associated Press News"
+    }
+  ]
+}

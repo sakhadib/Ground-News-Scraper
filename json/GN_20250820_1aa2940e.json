@@ -1,0 +1,162 @@
+{
+  "story_id": "GN_20250820_1aa2940e",
+  "metadata": {
+    "title": "Suspected Drone Explodes Near Osiny in Eastern Poland",
+    "timestamp": "2025-08-20T23:18:11.281098",
+    "url": "https://ground.news/article/b8461dc9-af0b-4649-90d7-8649f3b6ffa6"
+  },
+  "bias_distribution": {
+    "total_sources": "95",
+    "leaning_left": "16",
+    "center": "20",
+    "leaning_right": "15"
+  },
+  "perspective_summaries": {
+    "left": [
+      "An unidentified flying object crashed into a cornfield and exploded in eastern Poland, as reported by the country’s news agency PAP.",
+      "Damage included broken windows in some houses, but no injuries were reported, according to PAP.",
+      "Defense Minister Wladyslaw Kosiniak-Kamysz stated that the object was likely a drone and analysis is ongoing.",
+      "Investigators, both civilian and military, are examining the crash site near the village of Osiny, where debris was found."
+    ],
+    "center": [
+      "An unidentified flying object crashed into a cornfield and exploded in eastern Poland, as reported by the country’s news agency PAP.",
+      "Damage included broken windows in some houses, but no injuries were reported, according to PAP.",
+      "Defense Minister Wladyslaw Kosiniak-Kamysz stated that the object was likely a drone and analysis is ongoing.",
+      "Investigators, both civilian and military, are examining the crash site near the village of Osiny, where debris was found."
+    ],
+    "right": [
+      "An unidentified object fell into a cornfield and exploded overnight in the village of Osiny in eastern Poland's Lublin province, according to police.",
+      "Local media reports suggest the object was likely a Russia Shahed loitering drone, often used to bombard Ukrainian cities.",
+      "CCTV footage captured the moment of the explosion in the small village in eastern Poland.",
+      "Defense Minister Wladyslaw Kosiniak-Kamysz stated that an analysis is underway to determine whether it was a military or smuggling drone."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Alleged Russian Drone Explodes in Poland",
+      "news_link": "https://www.kyivpost.com/post/58648",
+      "bias": "Lean Left",
+      "source_name": "Kyiv Post"
+    },
+    {
+      "news_title": "Russian military drone crashes and explodes in eastern Poland",
+      "news_link": "https://www.euronews.com/2025/08/20/suspected-military-drone-crashes-and-explodes-in-eastern-poland-officials-say",
+      "bias": "Center",
+      "source_name": "Euronews"
+    },
+    {
+      "news_title": "Poland Slams Russian 'Provocation' After Drone Blast",
+      "news_link": "https://www.barrons.com/news/poland-slams-russian-provocation-after-drone-blast-ab850689",
+      "bias": "Center",
+      "source_name": "Barron's"
+    },
+    {
+      "news_title": "Military drone suspected in overnight blast near Warsaw",
+      "news_link": "http://www.naharnet.com/stories/en/314813",
+      "bias": "Center",
+      "source_name": "Naharnet"
+    },
+    {
+      "news_title": "Russian drone crashed and exploded in Poland, 40 kilometres from Warsaw, probably \"Shahed\". VIDEO",
+      "news_link": "https://censor.net/en/videonews/3569622/a-drone-probably-a-russian-shahed-exploded-40-km-from-warsaw-and-shattered-windows-in-houses",
+      "bias": "Lean Left",
+      "source_name": "censor.net"
+    },
+    {
+      "news_title": "Warsaw says explosion in eastern Poland likely caused by drone",
+      "news_link": "https://notesfrompoland.com/2025/08/20/warsaw-says-explosion-in-eastern-poland-likely-caused-by-drone/",
+      "bias": "Center",
+      "source_name": "Notes from Poland"
+    },
+    {
+      "news_title": "Poland On Alert As Unidentified Flying Object Crashes, Explodes Near Ukraine Border",
+      "news_link": "https://www.republicworld.com/world-news/poland-on-alert-as-unidentified-flying-object-crashes-explodes-in-near-ukraine-border",
+      "bias": "Lean Right",
+      "source_name": "Republic World"
+    },
+    {
+      "news_title": "Poland: Alleged Unidentified 'Shahed Drone' Explodes in NATO Territory",
+      "news_link": "https://www.breitbart.com/europe/2025/08/20/poland-alleged-unidentified-shahed-drone-explodes-in-nato-territory/",
+      "bias": "Right",
+      "source_name": "Breitbart"
+    },
+    {
+      "news_title": "Un objeto volador no identificado se estrella y explota en el este de Polonia",
+      "news_link": "https://www.chicagotribune.com/2025/08/20/un-objeto-volador-no-identificado-se-estrella-y-explota-en-el-este-de-polonia/",
+      "bias": "Center",
+      "source_name": "Chicago Tribune"
+    },
+    {
+      "news_title": "An unidentified flying object has crashed and exploded in Poland’s east",
+      "news_link": "https://wtop.com/russia-ukraine-war-news/2025/08/an-unidentified-flying-object-has-crashed-and-exploded-in-polands-east/",
+      "bias": "Center",
+      "source_name": "Washington Top News"
+    },
+    {
+      "news_title": "An unidentified flying object has crashed and exploded in Poland's east",
+      "news_link": "https://abcnews.go.com/International/wireStory/unidentified-flying-object-crashed-exploded-polands-east-124806406",
+      "bias": "Lean Left",
+      "source_name": "abc News"
+    },
+    {
+      "news_title": "Poland Says Unidentified Military Drone Crashes in East",
+      "news_link": "https://www.bloomberg.com/news/articles/2025-08-20/poland-says-unidentified-military-drone-crashes-in-east",
+      "bias": "Lean Left",
+      "source_name": "Bloomberg"
+    },
+    {
+      "news_title": "Mystery Drone Explosion Rocks Eastern Poland Cornfield",
+      "news_link": "https://www.devdiscourse.com/article/law-order/3547757-mystery-drone-explosion-rocks-eastern-poland-cornfield",
+      "bias": "Center",
+      "source_name": "Devdiscourse"
+    },
+    {
+      "news_title": "Early findings show military drone fell in Poland: Prosecutor",
+      "news_link": "https://english.alarabiya.net/News/world/2025/08/20/early-findings-show-military-drone-fell-in-poland-prosecutor-",
+      "bias": "Lean Right",
+      "source_name": "Al Arabiya"
+    },
+    {
+      "news_title": "Mystery Drone Explodes in Poland, Just Miles From Warsaw—Russian Shahed Suspected",
+      "news_link": "https://united24media.com/latest-news/mystery-drone-explodes-in-poland-just-miles-from-warsaw-russian-shahed-suspected-10907",
+      "bias": "Lean Left",
+      "source_name": "united24media.com"
+    },
+    {
+      "news_title": "Early findings show military drone fell in Poland, prosecutor says",
+      "news_link": "https://www.reuters.com/world/early-findings-show-military-drone-fell-poland-prosecutor-says-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "WW3 fears soar as 'Russia drone' explodes in NATO country",
+      "news_link": "https://www.express.co.uk/news/world/2097603/ww3-poland-explosion-osiny-belarus",
+      "bias": "Lean Right",
+      "source_name": "Daily Express"
+    },
+    {
+      "news_title": "Unidentified object explodes in field in eastern Poland",
+      "news_link": "https://www.straitstimes.com/world/europe/unidentified-object-explodes-in-field-in-eastern-poland",
+      "bias": "Lean Right",
+      "source_name": "The Straits Times"
+    },
+    {
+      "news_title": "Mystery explosion caught on CCTV as bizarre blast rocks homes overnight",
+      "news_link": "https://www.mirror.co.uk/news/world-news/breaking-poland-explosion-mystery-over-35760571",
+      "bias": "Lean Left",
+      "source_name": "Daily Mirror"
+    },
+    {
+      "news_title": "Mystery explosion rocks Ukraine's NATO neighbor",
+      "news_link": "https://www.newsweek.com/nato-ukraine-poland-explosion-2116064",
+      "bias": "Center",
+      "source_name": "Newsweek"
+    },
+    {
+      "news_title": "Unidentified Object Explodes in Field in Eastern Poland, PAP Reports",
+      "news_link": "https://www.usnews.com/news/world/articles/2025-08-20/unidentified-object-explodes-in-field-in-eastern-poland-pap-reports",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    }
+  ]
+}

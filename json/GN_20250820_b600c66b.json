@@ -1,0 +1,48 @@
+{
+  "story_id": "GN_20250820_b600c66b",
+  "metadata": {
+    "title": "German prosecutors charge Russian with planning attack on Israeli embassy in Berlin",
+    "timestamp": "2025-08-20T23:25:46.460732",
+    "url": "https://ground.news/article/german-prosecutors-charge-russian-with-planning-attack-on-israeli-embassy-in-berlin_1000fd"
+  },
+  "bias_distribution": {
+    "total_sources": "28",
+    "leaning_left": "9",
+    "center": "6",
+    "leaning_right": "2"
+  },
+  "perspective_summaries": {
+    "left": [
+      "German prosecutors filed terrorism charges against a man identified as Akhmad E., who is suspected of planning an attack on the Israeli Embassy in Berlin.",
+      "Akhmad E. was arrested on Feb. 20 at the airport while preparing to board a flight out of Berlin.",
+      "He is accused of supporting a foreign terrorist organization and preparing a serious act of violence.",
+      "He reportedly sent a video declaring loyalty to the Islamic State group shortly before his departure."
+    ],
+    "center": [
+      "German prosecutors filed terrorism charges against a man identified as Akhmad E., who is suspected of planning an attack on the Israeli Embassy in Berlin.",
+      "Akhmad E. was arrested on Feb. 20 at the airport while preparing to board a flight out of Berlin.",
+      "He is accused of supporting a foreign terrorist organization and preparing a serious act of violence.",
+      "He reportedly sent a video declaring loyalty to the Islamic State group shortly before his departure."
+    ],
+    "right": [
+      "German prosecutors filed terrorism charges against a man identified as Akhmad E., who is suspected of planning an attack on the Israeli Embassy in Berlin.",
+      "Akhmad E. was arrested on Feb. 20 at the airport while preparing to board a flight out of Berlin.",
+      "He is accused of supporting a foreign terrorist organization and preparing a serious act of violence.",
+      "He reportedly sent a video declaring loyalty to the Islamic State group shortly before his departure."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "German prosecutors charge Russian with planning attack on Israeli embassy in Berlin",
+      "news_link": "https://www.reuters.com/world/asia-pacific/german-prosecutors-charge-russian-with-planning-attack-israeli-embassy-berlin-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "Authorities charge man suspected of planning attack in Germany, possibly targeting Israeli Embassy",
+      "news_link": "https://wtop.com/world/2025/08/authorities-charge-man-suspected-of-planning-attack-in-germany-possibly-targeting-israeli-embassy/",
+      "bias": "Center",
+      "source_name": "Washington Top News"
+    }
+  ]
+}

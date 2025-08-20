@@ -1,0 +1,197 @@
+{
+  "story_id": "GN_20250820_206dba9c",
+  "metadata": {
+    "title": "Kneecap Rapper Mo Chara Faces Terrorism Charge over Hezbollah Flag at London Concert",
+    "timestamp": "2025-08-20T23:20:23.255932",
+    "url": "https://ground.news/article/kneecap-rapper-mo-chara-faces-terrorism-charge-over-hezbollah-flag-at-london-concert"
+  },
+  "bias_distribution": {
+    "total_sources": "106",
+    "leaning_left": "19",
+    "center": "29",
+    "leaning_right": "17"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Mo Chara, known as Liam Óg Ó hAnnaidh, faces a terrorism charge for allegedly displaying a Hezbollah flag at a London concert in November 2024.",
+      "Kneecap denied the charge and stated they will 'vehemently defend' themselves against the accusation.",
+      "Prosecutor Michael Bisgrove clarified that the case does not concern support for Palestinians but rather the display of Hezbollah's flag.",
+      "During the previous hearing, it was reported that Ó hAnnaidh allegedly said 'Up Hamas, up Hezbollah' while displaying the flag."
+    ],
+    "center": [
+      "Mo Chara, a member of the Irish rap group Kneecap, faces a terrorism charge for allegedly displaying a Hezbollah flag during a London concert last year.",
+      "Mo Chara, whose real name is Liam Óg Ó hAnnaidh, denies the charge and claims it is politically motivated to silence the group.",
+      "Supporters greeted Mo Chara with cheers and flags outside the court hearing where legal arguments were made to dismiss the case."
+    ],
+    "right": [
+      "Mo Chara, also known as Liam Og O hAnnaidh, is facing a terrorism charge for allegedly waving a Hezbollah flag at a concert in London on November 21, 2024.",
+      "He allegedly said 'Up Hamas, up Hezbollah' during the performance while holding the flag.",
+      "His lawyers claim the charge was filed too late, as he was charged on May 22, 2025, after the six-month limit.",
+      "Prosecutor Michael Bisgrove argues that Chara was charged on May 21, 2025, which is within the time limit."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Kneecap Member’s Legal Team Seeks to Have Terror Charge Thrown Out",
+      "news_link": "https://www.billboard.com/pro/kneecap-mo-chara-terror-charge-thrown-out/",
+      "bias": "Center",
+      "source_name": "Billboard"
+    },
+    {
+      "news_title": "Kneecap’s Mo Chara Will Face Judgment in U.K. Terror Case Next Month, Judge Says",
+      "news_link": "https://www.rollingstone.com/music/music-news/kneecap-mo-chara-ruling-terror-case-next-month-judge-1235411789/",
+      "bias": "Left",
+      "source_name": "RollingStone"
+    },
+    {
+      "news_title": "Kneecap member appears at British court on terror charge",
+      "news_link": "https://www.jpost.com/international/article-864762",
+      "bias": "Center",
+      "source_name": "Jerusalem Post"
+    },
+    {
+      "news_title": "Member of Irish rap group Kneecap appears at UK court on terrorism charge",
+      "news_link": "https://www.reuters.com/business/media-telecom/member-irish-rap-group-kneecap-appears-uk-court-terrorism-charge-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "Member of Irish rap group Kneecap appears in court on terrorism charge",
+      "news_link": "https://www.abc.net.au/news/2025-08-20/kneecap-member-in-court-for-terrorism-charge/105678972",
+      "bias": "Lean Left",
+      "source_name": "ABC Australia"
+    },
+    {
+      "news_title": "Hundreds of protesters turn up to support Irish rapper as he appears in court on terror charge",
+      "news_link": "https://www.cnn.com/2025/08/20/uk/irish-rapper-terrorism-charges-intl-gbr",
+      "bias": "Lean Left",
+      "source_name": "CNN"
+    },
+    {
+      "news_title": "Kneecap rapper faces month-long wait over whether terror charge is thrown out",
+      "news_link": "https://www.irishexaminer.com/news/courtandcrime/arid-41690742.html",
+      "bias": "Lean Left",
+      "source_name": "Irish Examiner"
+    },
+    {
+      "news_title": "Hundreds protest outside court to support Kneecap rapper facing terror charges",
+      "news_link": "https://www.thejc.com/news/uk/hundreds-protest-outside-court-to-support-kneecap-rapper-facing-terror-charges-w39uge12",
+      "bias": "Lean Right",
+      "source_name": "The Jewish Chronicle"
+    },
+    {
+      "news_title": "Liam Óg Ó hAnnaidh: Kneecap rapper bailed on terror charge",
+      "news_link": "https://www.bbc.com/news/articles/c939v4kw2l4o",
+      "bias": "Center",
+      "source_name": "BBC News"
+    },
+    {
+      "news_title": "Kneecap court case LIVE as Mo Chara mobbed as he arrives to face terror charge",
+      "news_link": "https://www.belfastlive.co.uk/news/northern-ireland/live-kneecaps-mo-chara-appear-32309788",
+      "bias": "Center",
+      "source_name": "Belfast Live"
+    },
+    {
+      "news_title": "Kneecap rapper in court on terrorism charge over Hezbollah flag",
+      "news_link": "https://www.djournal.com/news/national/kneecap-rapper-in-court-on-terrorism-charge-over-hezbollah-flag/article_1b2c8ffb-b3f6-5c2d-b8b1-b436ed1a511c.html",
+      "bias": "Center",
+      "source_name": "Daily Journal"
+    },
+    {
+      "news_title": "Kneecap rapper greeted by hundreds of supporters as he arrives at court on terror charge",
+      "news_link": "https://news.sky.com/story/kneecap-rapper-greeted-by-hundreds-of-supporters-as-he-arrives-at-court-on-terror-charge-13415120",
+      "bias": "Center",
+      "source_name": "Sky News UK"
+    },
+    {
+      "news_title": "Kneecap's Mo Chara's court case adjourned after 'technical blunder' argument",
+      "news_link": "https://metro.co.uk/2025/08/20/kneecaps-mo-chara-arrives-court-police-issue-warning-protestors-23955745/",
+      "bias": "Lean Left",
+      "source_name": "Metro News"
+    },
+    {
+      "news_title": "Kneecap's Mo Chara mobbed by fans as he appears in court over terror offence",
+      "news_link": "https://www.mirror.co.uk/3am/celebrity-news/kneecaps-mo-chara-court-live-35760768",
+      "bias": "Lean Left",
+      "source_name": "Daily Mirror"
+    },
+    {
+      "news_title": "Kneecap star Mo Chara faces chaos outside court as crowds swarm rapper",
+      "news_link": "https://www.gbnews.com/celebrity/video-kneecap-star-mo-chara-faces-chaos-westminser-magistrates-court-crowds-swarm-rapper",
+      "bias": "Lean Right",
+      "source_name": "GB News"
+    },
+    {
+      "news_title": "Member of Irish rap band Kneecap appears at UK court on ‘terrorism’ charge",
+      "news_link": "https://www.aljazeera.com/news/2025/8/20/irish-kneecap-rapper-faces-court-on-terror-charge-over-hezbollah-flag",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "Terrorism case against Kneecap’s Mo Chara adjourned by court in London",
+      "news_link": "https://www.irishtimes.com/world/uk/2025/08/20/kneecaps-mo-chara-back-in-london-court-on-terrorism-charges/",
+      "bias": "Lean Left",
+      "source_name": "Irish Times"
+    },
+    {
+      "news_title": "Latest updates as Kneecap's Mo Chara returns to court over terror charge",
+      "news_link": "https://www.thenational.scot/news/25403251.live-updates-kneecaps-mo-chara-court-terror-charge/",
+      "bias": "Lean Left",
+      "source_name": "The National"
+    },
+    {
+      "news_title": "Kneecap rapper in UK court over alleged support for terror group",
+      "news_link": "https://www.euronews.com/culture/2025/08/20/kneecap-rapper-mo-chara-to-appear-in-uk-court-over-alleged-support-for-terror-group",
+      "bias": "Center",
+      "source_name": "Euronews"
+    },
+    {
+      "news_title": "Kneecap’s ‘Mo Chara’ in court: Judgement reserved over technical 'blunder'",
+      "news_link": "https://www.independent.ie/world-news/britain/kneecaps-mo-chara-in-court-judgement-reserved-over-technical-blunder/a862723726.html",
+      "bias": "Lean Right",
+      "source_name": "Irish Independent"
+    },
+    {
+      "news_title": "Kneecap rapper Mo Chara faces terrorism charge over Hezbollah flag at London concert",
+      "news_link": "https://www.france24.com/en/live-news/20250820-kneecap-rapper-faces-court-on-terror-charge-over-hezbollah-flag",
+      "bias": "Center",
+      "source_name": "France24"
+    },
+    {
+      "news_title": "Kneecap rapper faces court on terror charge over Hezbollah flag",
+      "news_link": "https://www.insidenova.com/news/national/kneecap-rapper-faces-court-on-terror-charge-over-hezbollah-flag/article_48f375f9-3812-59d4-83ca-ec10bcedf327.html",
+      "bias": "Center",
+      "source_name": "InsideNoVA.com"
+    },
+    {
+      "news_title": "Kneecap hit out at police Public Order Act conditions for Mo Chara's court appearance: \"There is no basis for this, our last hearing was entirely peaceful\"",
+      "news_link": "https://www.nme.com/news/music/kneecap-hit-out-at-police-public-order-act-conditions-for-mo-charas-court-appearance-there-is-no-basis-for-this-our-last-hearing-was-entirely-peaceful-3885836",
+      "bias": "Center",
+      "source_name": "NME"
+    },
+    {
+      "news_title": "Kneecap rapper to appear in court for alleged support of terrorist group",
+      "news_link": "https://www.standard.co.uk/news/crime/kneecap-hezbollah-london-metropolitan-police-palestine-b1243677.html",
+      "bias": "Center",
+      "source_name": "Evening Standard"
+    },
+    {
+      "news_title": "Ó hAnnaidh due before London court over terrorism charge",
+      "news_link": "https://www.rte.ie/news/2025/0820/1529225-kneecap-o-hannaidh-court/",
+      "bias": "Center",
+      "source_name": "RTÉ"
+    },
+    {
+      "news_title": "Met Police issues warning to protesters ahead of Kneecap member’s court appearance in London",
+      "news_link": "https://www.thejournal.ie/met-police-issues-warning-to-protesters-ahead-of-kneecap-members-court-appearance-6794292-Aug2025/",
+      "bias": "Lean Left",
+      "source_name": "The Journal"
+    },
+    {
+      "news_title": "Kneecap solidarity demonstrations organised in London and Dublin ahead of Liam Óg Ó hAnnaidh aka Mo Chara’s second court appearance",
+      "news_link": "https://www.irishnews.com/news/northern-ireland/kneecap-solidarity-demonstrations-organised-in-london-and-dublin-ahead-of-liam-og-o-hannaidh-aka-mo-charas-second-court-appearance-QRARHRA6BFEFZO444URCS3YJ3A/",
+      "bias": "Lean Left",
+      "source_name": "Irish News"
+    }
+  ]
+}

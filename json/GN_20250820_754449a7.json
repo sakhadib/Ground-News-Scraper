@@ -1,0 +1,72 @@
+{
+  "story_id": "GN_20250820_754449a7",
+  "metadata": {
+    "title": "Erdogan tells Putin Turkey supports Ukraine peace effort",
+    "timestamp": "2025-08-20T23:09:52.689765",
+    "url": "https://ground.news/article/erdogan-tells-putin-turkey-supports-ukraine-peace-effort"
+  },
+  "bias_distribution": {
+    "total_sources": "33",
+    "leaning_left": "6",
+    "center": "2",
+    "leaning_right": "6"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Erdoğan stated that Türkiye supports approaches to maintain permanent peace with the participation of all sides and is closely following the peace process.",
+      "Erdoğan emphasized Türkiye's sincere efforts for a just peace since the start of the Ukraine war.",
+      "President Putin thanked Erdoğan for hosting peace talks and Türkiye’s role in the Istanbul Process.",
+      "Both leaders agreed to continue their dialogue to promote peace between Russia and Ukraine."
+    ],
+    "center": [
+      "Erdoğan stated that Türkiye supports approaches to maintain permanent peace with the participation of all sides and is closely following the peace process.",
+      "Erdoğan emphasized Türkiye's sincere efforts for a just peace since the start of the Ukraine war.",
+      "President Putin thanked Erdoğan for hosting peace talks and Türkiye’s role in the Istanbul Process.",
+      "Both leaders agreed to continue their dialogue to promote peace between Russia and Ukraine."
+    ],
+    "right": [
+      "Erdoğan stated that Türkiye supports approaches to maintain permanent peace with the participation of all sides and is closely following the peace process.",
+      "Erdoğan emphasized Türkiye's sincere efforts for a just peace since the start of the Ukraine war.",
+      "President Putin thanked Erdoğan for hosting peace talks and Türkiye’s role in the Istanbul Process.",
+      "Both leaders agreed to continue their dialogue to promote peace between Russia and Ukraine."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Erdogan Tells Putin Turkey Supports Ukraine Peace Effort",
+      "news_link": "https://www.usnews.com/news/world/articles/2025-08-20/erdogan-tells-putin-turkey-supports-ukraine-peace-effort",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "Turkish, Russian presidents discuss outcome of Alaska summit",
+      "news_link": "https://www.aa.com.tr/en/russia-ukraine-war/turkish-russian-presidents-discuss-outcome-of-alaska-summit/3664595",
+      "bias": "Right",
+      "source_name": "Anadolu Ajansı"
+    },
+    {
+      "news_title": "Erdogan tells Putin Turkey supports Ukraine peace effort",
+      "news_link": "https://www.reuters.com/world/middle-east/erdogan-tells-putin-turkey-supports-ukraine-peace-effort-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "Erdogan and NATO secretary general discuss Ukraine and Black Sea security deal",
+      "news_link": "https://www.the-express.com/news/world-news/180947/erdogan-nato-secretary-general-meet",
+      "bias": "Right",
+      "source_name": "Express US"
+    },
+    {
+      "news_title": "TRT Global - Türkiye backs Alaska summit effort to end Russia-Ukraine war, Erdogan tells Putin in a phone call",
+      "news_link": "https://trt.global/world/article/0d725ecbba50",
+      "bias": "Left",
+      "source_name": "trt.global"
+    },
+    {
+      "news_title": "Erdoğan voices support for peace in call with Putin",
+      "news_link": "https://www.dailysabah.com/politics/diplomacy/erdogan-voices-support-for-peace-in-call-with-putin",
+      "bias": "Right",
+      "source_name": "Daily Sabah"
+    }
+  ]
+}

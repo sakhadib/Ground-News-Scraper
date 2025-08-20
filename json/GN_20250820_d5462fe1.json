@@ -1,0 +1,205 @@
+{
+  "story_id": "GN_20250820_d5462fe1",
+  "metadata": {
+    "title": "Trump administration to screen ‘anti-Americanism’ for immigrants seeking lawful work, citizenship in US",
+    "timestamp": "2025-08-20T23:24:21.756818",
+    "url": "https://ground.news/article/us-to-screen-for-anti-americanism-in-immigration-applications-a-move-critics-liken-to-mccarthyism"
+  },
+  "bias_distribution": {
+    "total_sources": "172",
+    "leaning_left": "25",
+    "center": "67",
+    "leaning_right": "27"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Immigrants seeking legal status in the U.S. will be screened for 'anti-Americanism,' according to authorities.",
+      "Matthew Tragesser, a USCIS spokesman, emphasized that benefits should not go to those who despise America.",
+      "Elizabeth Jacobs noted that this policy could lead to stereotypes and implicit bias in immigration decisions.",
+      "The updated policy allows immigration authorities to consider 'anti-American' activity as an overwhelmingly negative factor in immigration status decisions."
+    ],
+    "center": [
+      "U.S. Citizenship and Immigration Services announced on Friday that immigrants seeking work and citizenship will undergo screening for anti-Americanism and antisemitic views.",
+      "This policy builds on the Trump administration's expanded definition of 'good moral character' for citizenship assessment, although details on anti-Americanism remain unclear.",
+      "USCIS now requires officers to evaluate applicants' community involvement, employment history, and positive contributions beyond mere absence of criminal convictions.",
+      "USCIS spokesman Matthew Tragesser emphasized that government assistance should not be extended to individuals who hold hostile views toward the United States or endorse anti-American beliefs, highlighting the agency’s firm approach.",
+      "Critics warn the subjective nature of the screening may lead to arbitrary denials and constitutional disputes, especially concerning free speech for noncitizens."
+    ],
+    "right": [
+      "The Trump administration is expanding the definition of 'good moral character' for US citizenship applications, as outlined by USCIS in a recent memo.",
+      "USCIS will assess applicants based on their community involvement and contributions, not just the absence of misconduct, according to the agency's guidelines.",
+      "Matthew Tragesser, USCIS chief spokesperson, stated that citizenship should not be granted to those who promote anti-American ideologies.",
+      "Critics argue that the changes to citizenship criteria may lead to arbitrary enforcement and increased denial of citizenship, as expressed by Doug Rand and Gabriel J. Chin."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Migrants Who ‘Despise’ US To Be Denied Benefits Under New Trump Admin Policy",
+      "news_link": "https://dailycaller.com/2025/08/20/anti-american-migrants-denied-benefits/",
+      "bias": "Right",
+      "source_name": "The Daily Caller"
+    },
+    {
+      "news_title": "U.S. to probe \"anti-American\" views of those applying for immigration benefits under Trump directive",
+      "news_link": "https://www.cbsnews.com/news/us-anti-american-views-immigration-benefits/",
+      "bias": "Lean Left",
+      "source_name": "CBS News"
+    },
+    {
+      "news_title": "Trump administration to vet legal immigrant applicants for 'anti-Americanism' and antisemitism",
+      "news_link": "https://www.foxnews.com/us/trump-administration-vet-legal-immigrant-applicants-anti-americanism-antisemitism",
+      "bias": "Right",
+      "source_name": "Fox News"
+    },
+    {
+      "news_title": "Homeland Security to penalize immigrants for ‘anti-American’ behavior, social media…",
+      "news_link": "https://revolver.news/2025/08/homeland-security-to-penalize-immigrants-for-anti-american-behavior-social-media-2/",
+      "bias": "Right",
+      "source_name": "Revolver"
+    },
+    {
+      "news_title": "Here's What US Officials Will Now Screen for in Immigrant Benefit Requests",
+      "news_link": "https://townhall.com/tipsheet/leahbarkoukis/2025/08/20/heres-what-us-officials-will-now-screen-for-in-immigrant-benefit-requests-n2662048",
+      "bias": "Right",
+      "source_name": "Townhall"
+    },
+    {
+      "news_title": "US to screen for ‘anti-Americanism’ in immigration applications",
+      "news_link": "https://www.stuff.co.nz/travel/360798121/us-screen-anti-americanism-immigration-applications",
+      "bias": "Lean Left",
+      "source_name": "Stuff"
+    },
+    {
+      "news_title": "Migrants to be screened for 'anti-Americanism'",
+      "news_link": "https://www.nwitimes.com/article_f1d64b1b-f8a9-50e6-9adc-c0d55db1436d.html",
+      "bias": "Center",
+      "source_name": "The Times of Northwest Indiana"
+    },
+    {
+      "news_title": "US to screen for ‘anti-Americanism’ in immigration applications, a move critics liken to McCarthyism",
+      "news_link": "https://www.cnn.com/2025/08/19/us/us-immigrants-screening-anti-american-hnk",
+      "bias": "Lean Left",
+      "source_name": "CNN"
+    },
+    {
+      "news_title": "Immigrants seeking lawful work, citizenship are now subject to 'anti-Americanism' screening",
+      "news_link": "https://www.siasat.com/immigrants-seeking-lawful-work-citizenship-are-now-subject-to-anti-americanism-screening-3260912/",
+      "bias": "Lean Left",
+      "source_name": "The Siasat Daily"
+    },
+    {
+      "news_title": "Trump administration to screen ‘anti-Americanism’ for immigrants seeking lawful work, citizenship in US",
+      "news_link": "https://indianexpress.com/article/world/us-to-screen-anti-americanism-for-immigrants-lawful-work-citizenship-10199737/",
+      "bias": "Lean Left",
+      "source_name": "Indian Express"
+    },
+    {
+      "news_title": "US to assess ‘just how American’ for decisions on immigration",
+      "news_link": "https://www.dawn.com/news/1931973",
+      "bias": "Lean Left",
+      "source_name": "Dawn"
+    },
+    {
+      "news_title": "US to screen immigration applicants for 'anti-Americanism,' prompting criticism",
+      "news_link": "https://www.indiatoday.in/world/story/us-to-screen-immigration-applicants-for-anti-americanism-prompting-criticism-glbs-2773831-2025-08-20",
+      "bias": "Lean Right",
+      "source_name": "India Today"
+    },
+    {
+      "news_title": "Immigrants seeking lawful work and citizenship are now subject to ‘anti-Americanism’ screening",
+      "news_link": "https://www.pilotonline.com/2025/08/19/immigration-anti-american-screening/",
+      "bias": "Center",
+      "source_name": "The Virginian Pilot"
+    },
+    {
+      "news_title": "'McCarthyism returns': Immigration experts astonished by Trump admin's new move",
+      "news_link": "https://www.rawstory.com/trump-socialism/",
+      "bias": "Left",
+      "source_name": "Raw Story"
+    },
+    {
+      "news_title": "Immigrants seeking work, citizenship now subject to 'anti-Americanism' screening",
+      "news_link": "https://spectrumlocalnews.com/nyc/all-boroughs/politics/2025/08/19/immigrants-citizenship-anti-americanism-screening",
+      "bias": "Center",
+      "source_name": "Spectrum Local News"
+    },
+    {
+      "news_title": "Immigrants Seeking Lawful Work and Citizenship Are Now Subject to 'Anti ...",
+      "news_link": "https://www.usnews.com/news/us/articles/2025-08-19/immigrants-seeking-lawful-work-and-citizenship-are-now-subject-to-anti-americanism-screening",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "Immigrants seeking lawful work and citizenship are now subject to",
+      "news_link": "https://www.arabnews.com/node/2612373/world",
+      "bias": "Lean Right",
+      "source_name": "Arab News"
+    },
+    {
+      "news_title": "Immigrants seeking lawful work and citizenship are now subject to 'anti-Americanism' screening",
+      "news_link": "https://apnews.com/article/immigration-uscis-antiamerican-7240aac0437487ddd5441c49a290db4c",
+      "bias": "Lean Left",
+      "source_name": "Associated Press News"
+    },
+    {
+      "news_title": "Trump team will soon decide what’s ‘anti-American’ when granting citizenship",
+      "news_link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-anti-american-uscis-citizenship-b2810647.html",
+      "bias": "Lean Left",
+      "source_name": "The Independent"
+    },
+    {
+      "news_title": "Trump Moves to Bar Immigrants Engaged in ‘Anti-Americanism.’",
+      "news_link": "https://thenationalpulse.com/2025/08/19/trump-moves-to-bar-immigrants-engaged-in-anti-americanism/",
+      "bias": "Right",
+      "source_name": "The National Pulse"
+    },
+    {
+      "news_title": "NEW: Trump Admin To Crack Down On Visa Applicants Who Display Anti-American Behavior",
+      "news_link": "https://trendingpoliticsnews.com/new-trump-admin-to-crack-down-on-visa-applicants-who-display-anti-american-behavior-cmc/",
+      "bias": "Right",
+      "source_name": "TrendingPolitics"
+    },
+    {
+      "news_title": "Trump admin to vet applicants for ‘anti-American’ views in US immigration cases",
+      "news_link": "https://www.newindianexpress.com/world/2025/Aug/19/trump-admin-to-vet-applicants-for-anti-american-views-in-us-immigration-cases",
+      "bias": "Lean Left",
+      "source_name": "The New Indian Express"
+    },
+    {
+      "news_title": "US to assess ‘anti-Americanism’ in immigration decisions",
+      "news_link": "https://www.straitstimes.com/world/united-states/us-to-assess-anti-americanism-in-immigration-decisions",
+      "bias": "Lean Right",
+      "source_name": "The Straits Times"
+    },
+    {
+      "news_title": "US to assess ‘anti-American’ views on social media in immigration decisions",
+      "news_link": "https://www.scmp.com/news/world/article/3322426/us-assess-anti-american-views-including-social-media-immigration-decisions",
+      "bias": "Center",
+      "source_name": "South China Morning Post"
+    },
+    {
+      "news_title": "DHS to deny immigration benefits to those with 'anti-American' views",
+      "news_link": "https://www.washingtonexaminer.com/policy/immigration/3759918/dhs-deny-immigration-benefits-anti-american-views/",
+      "bias": "Lean Right",
+      "source_name": "Washington Examiner"
+    },
+    {
+      "news_title": "New America First Rules for Immigrants",
+      "news_link": "https://www.independentsentinel.com/new-america-first-rules-for-immigrants/",
+      "bias": "Right",
+      "source_name": "Independent Sentinel"
+    },
+    {
+      "news_title": "Trump Admin to Flag 'Anti-American' Ideologies in Agency's Benefit Reviews - The Virginia Star",
+      "news_link": "https://thevirginiastar.com/uncategorized/trump-admin-to-flag-anti-american-ideologies-in-agencys-benefit-reviews/admin/2025/08/19/",
+      "bias": "Right",
+      "source_name": "The Virginia Star"
+    },
+    {
+      "news_title": "Trump admin to flag \"anti-American\" ideologies in agency's benefit reviews",
+      "news_link": "https://www.newsweek.com/donald-trump-uscis-immigrant-benefit-requests-immigration-americanism-2115890",
+      "bias": "Center",
+      "source_name": "Newsweek"
+    }
+  ]
+}

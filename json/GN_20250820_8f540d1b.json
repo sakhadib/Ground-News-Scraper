@@ -1,0 +1,63 @@
+{
+  "story_id": "GN_20250820_8f540d1b",
+  "metadata": {
+    "title": "German Foreign Minister Says China's 'Assertiveness' Threatens European Interests",
+    "timestamp": "2025-08-20T23:18:55.205509",
+    "url": "https://ground.news/article/foreign-minister-visits-us-troops-wadephul-criticizes-aggressive-actions-by-china-and-north-korea"
+  },
+  "bias_distribution": {
+    "total_sources": "37",
+    "leaning_left": "6",
+    "center": "13",
+    "leaning_right": "4"
+  },
+  "perspective_summaries": {
+    "left": [
+      "China's assertiveness in the disputed South China Sea and tensions in the Taiwan Strait threaten international security and European interests, Germany's foreign minister said on Wednesday.",
+      "What happens in the Indo-Pacific has a direct impact on European security and vice versa, Johann Wadephul said in a speech in Jakarta.",
+      "China's growing military assertiveness in the South China Sea not only threatens Asia's security but also undermines the international rules-based order, Wadephul said after talks with his Indonesian counterpart."
+    ],
+    "center": [
+      "China's assertiveness in the disputed South China Sea and tensions in the Taiwan Strait threaten international security and European interests, Germany's foreign minister said on Wednesday.",
+      "What happens in the Indo-Pacific has a direct impact on European security and vice versa, Johann Wadephul said in a speech in Jakarta.",
+      "China's growing military assertiveness in the South China Sea not only threatens Asia's security but also undermines the international rules-based order, Wadephul said after talks with his Indonesian counterpart."
+    ],
+    "right": [
+      "China's assertiveness in the disputed South China Sea and tensions in the Taiwan Strait threaten international security and European interests, Germany's foreign minister said on Wednesday.",
+      "What happens in the Indo-Pacific has a direct impact on European security and vice versa, Johann Wadephul said in a speech in Jakarta.",
+      "China's growing military assertiveness in the South China Sea not only threatens Asia's security but also undermines the international rules-based order, Wadephul said after talks with his Indonesian counterpart."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "German minister: China's 'assertiveness' threatens European interests",
+      "news_link": "https://www.inquirer.net/453279/german-minister-chinas-assertiveness-threatens-european-interests/",
+      "bias": "Lean Left",
+      "source_name": "Inquirer"
+    },
+    {
+      "news_title": "Indo-Pacific Tensions Impact European Interests, German Minister Warns",
+      "news_link": "https://www.usnews.com/news/world/articles/2025-08-20/indo-pacific-tensions-impact-european-interests-german-minister-warns",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "German foreign minister says China's 'assertiveness' threatens European interests",
+      "news_link": "https://www.channelnewsasia.com/world/german-foreign-minister-johann-wadephul-china-assertiveness-threatens-european-interest-5304491",
+      "bias": "Center",
+      "source_name": "Channel News Asia"
+    },
+    {
+      "news_title": "German minister says China's 'assertiveness' threatens European interests",
+      "news_link": "https://www.insidenova.com/news/national/german-minister-says-chinas-assertiveness-threatens-european-interests/article_418733ce-967d-5ad9-95ec-34b941c4ec8f.html",
+      "bias": "Center",
+      "source_name": "InsideNoVA.com"
+    },
+    {
+      "news_title": "German Minister Says China's 'Assertiveness' Threatens European Interests",
+      "news_link": "https://www.barrons.com/news/german-minister-says-china-s-assertiveness-threatens-european-interests-db9bf762",
+      "bias": "Center",
+      "source_name": "Barron's"
+    }
+  ]
+}
