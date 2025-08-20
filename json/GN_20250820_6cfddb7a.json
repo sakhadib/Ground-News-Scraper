@@ -1,0 +1,169 @@
+{
+  "story_id": "GN_20250820_6cfddb7a",
+  "metadata": {
+    "title": "Bill To Regulate Online Gaming Gets Cabinet Nod, Next Stop Lok Sabha",
+    "timestamp": "2025-08-20T21:28:06.795233",
+    "url": "https://ground.news/article/bill-to-regulate-online-gaming-gets-cabinet-nod-next-stop-lok-sabha_0a448f"
+  },
+  "bias_distribution": {
+    "total_sources": "48",
+    "leaning_left": "6",
+    "center": "4",
+    "leaning_right": "15"
+  },
+  "perspective_summaries": {
+    "left": [
+      "The Union Cabinet approved a Bill to prohibit real money games online, affecting platforms like Dream11 and PokerBaazi, on August 19, 2025.",
+      "This Bill represents a major change in the Union government’s approach to the real money gaming sector.",
+      "The Bill allows e-sports tournaments to collect entry fees without violating the prohibition on real money games.",
+      "Anyone offering such money games could face a jail term of up to three years and a fine, according to the Bill."
+    ],
+    "center": [
+      "India's Union Cabinet approved a bill on Tuesday to regulate online gaming by targeting platforms linked to betting and gambling.",
+      "This legislation emerged due to rising public concerns over harm from real-money gaming, including reported suicides and addictive behaviors among youth.",
+      "The bill, expected to be introduced in the Lok Sabha tomorrow, includes strict penalties, fines, app bans, and prohibits celebrity endorsements of betting-linked games.",
+      "In the financial year 2023-24, India's online gaming sector earned $3.8 billion in revenue, with real-money gaming contributing $2.4 billion and fueling a 23% growth compared to the previous year.",
+      "If enacted, the bill could significantly disrupt the sector, potentially leading to business closures, job losses, and reshaping how companies operate in India’s gaming market."
+    ],
+    "right": [
+      "The Central Government of India has approved a bill to regulate online gaming platforms associated with betting and gambling, introducing strict penalties and fines for violations.",
+      "The bill prohibits celebrities and public figures from endorsing gaming apps tied to betting, aiming to protect youth from exploitation.",
+      "This regulation comes amidst rising concerns about the addictive nature and financial risks posed by unregulated platforms, particularly to younger audiences.",
+      "If passed, this legislation will significantly change India's online gaming landscape, creating a safer environment for young users."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Why India wants to ban online real-money games like fantasy sports, lotteries",
+      "news_link": "https://www.firstpost.com/explainers/india-online-gaming-bill-real-money-games-ban-13926498.html",
+      "bias": "Lean Right",
+      "source_name": "Firstpost News"
+    },
+    {
+      "news_title": "Lok Sabha Passes Bill To Ban Online Games Played With Money",
+      "news_link": "https://www.deccanchronicle.com/nation/lok-sabha-passes-bill-to-ban-online-games-played-with-money-1898635",
+      "bias": "Lean Right",
+      "source_name": "Deccan Chronicle"
+    },
+    {
+      "news_title": "Bill to regulate online gaming introduced in Lok Sabha amid uproar by Opposition",
+      "news_link": "https://theprint.in/india/bill-to-regulate-online-gaming-introduced-in-lok-sabha-amid-uproar-by-opposition/2724854/",
+      "bias": "Lean Right",
+      "source_name": "The Print"
+    },
+    {
+      "news_title": "India seeks ban on online betting apps to curb addiction, frauds",
+      "news_link": "https://www.bangkokpost.com/world/3090058/india-seeks-ban-on-online-betting-apps-to-curb-addiction-frauds",
+      "bias": "Lean Right",
+      "source_name": "Bangkok Post"
+    },
+    {
+      "news_title": "Political Consensus Emerging On Real-Money Gaming Ban Over Social Impact: Govt Sources",
+      "news_link": "https://www.news18.com/business/markets/political-consensus-emerging-on-real-money-gaming-ban-over-social-impact-govt-sources-9516506.html",
+      "bias": "Lean Right",
+      "source_name": "News18 India"
+    },
+    {
+      "news_title": "India Seeks Ban on Online Betting Apps to Curb Addiction, Frauds",
+      "news_link": "https://www.bloomberg.com/news/articles/2025-08-20/india-seeks-online-money-gaming-ban-to-curb-addiction-money-laundering",
+      "bias": "Lean Left",
+      "source_name": "Bloomberg"
+    },
+    {
+      "news_title": "Indian gaming industry bodies plead govt to halt proposed gaming ban",
+      "news_link": "https://www.newindianexpress.com/business/2025/Aug/20/indian-gaming-industry-bodies-plead-govt-to-halt-proposed-gaming-ban",
+      "bias": "Lean Left",
+      "source_name": "The New Indian Express"
+    },
+    {
+      "news_title": "India plans to ban online games played with money",
+      "news_link": "https://thewest.com.au/politics/india-plans-to-ban-online-games-played-with-money-c-19740897",
+      "bias": "Lean Right",
+      "source_name": "The West Australian"
+    },
+    {
+      "news_title": "Cabinet okays online gaming Bill; real money platforms may face ban - The Tribune",
+      "news_link": "https://www.tribuneindia.com/news/business/cabinet-okays-online-gaming-bill-real-money-platforms-may-face-ban/",
+      "bias": "Lean Right",
+      "source_name": "Tribune India"
+    },
+    {
+      "news_title": "Cabinet approves bill to regulate online money gaming platforms",
+      "news_link": "https://www.onmanorama.com/news/india/2025/08/19/online-gaming-regulation-bill.html",
+      "bias": "Lean Left",
+      "source_name": "OnManorama"
+    },
+    {
+      "news_title": "Centre to introduce law to prohibit real money gaming firms, official says",
+      "news_link": "https://www.thehindu.com/news/national/centre-to-introduce-law-to-prohibit-real-money-gaming-firms-official-says/article69953111.ece",
+      "bias": "Lean Left",
+      "source_name": "The Hindu"
+    },
+    {
+      "news_title": "Skill gaming bodies write to Amit Shah to stop real-money gaming ban, warn of large-scale job and investment risks",
+      "news_link": "https://www.moneycontrol.com/news/business/startup/skill-gaming-bodies-write-to-amit-shah-to-stop-real-money-gaming-ban-warn-of-large-scale-job-and-investment-risks-13469294.html",
+      "bias": "Lean Right",
+      "source_name": "Moneycontrol"
+    },
+    {
+      "news_title": "India plans to ban online games played with money, citing addiction risks",
+      "news_link": "https://www.theglobeandmail.com/business/article-india-plans-to-ban-online-games-played-with-money-citing-addiction/",
+      "bias": "Center",
+      "source_name": "The Globe & Mail"
+    },
+    {
+      "news_title": "India Moves to Ban Lucrative Online Money Games",
+      "news_link": "https://www.devdiscourse.com/article/technology/3546783-india-moves-to-ban-lucrative-online-money-games",
+      "bias": "Center",
+      "source_name": "Devdiscourse"
+    },
+    {
+      "news_title": "India's government to propose blanket ban on real-money gaming",
+      "news_link": "https://techcrunch.com/2025/08/19/indias-government-to-propose-blanket-ban-on-real-money-gaming/",
+      "bias": "Center",
+      "source_name": "TechCrunch"
+    },
+    {
+      "news_title": "A Bill to ban online money gaming, regulate e-sports; likely to be introduced in Parliament on Wednesday",
+      "news_link": "https://www.thehindubusinessline.com/info-tech/a-bill-to-ban-online-money-gaming-regulate-e-sports-likely-to-be-introduced-in-parliament-on-wednesday/article69952663.ece",
+      "bias": "Lean Right",
+      "source_name": "The Hindu Business Line"
+    },
+    {
+      "news_title": "Centre may ban all forms of real money games, penalise influencers promoting them",
+      "news_link": "https://indianexpress.com/article/business/centre-ban-real-money-games-penalise-influencers-10199060/",
+      "bias": "Lean Left",
+      "source_name": "Indian Express"
+    },
+    {
+      "news_title": "Cabinet approves bill to regulate online real money gaming platforms; to be tabled in Parliament on August 20",
+      "news_link": "https://www.livemint.com/news/cabinet-approves-bill-to-regulate-online-real-money-gaming-platforms-to-be-tabled-in-parliament-on-august-20-11755604055182.html",
+      "bias": "Center",
+      "source_name": "Live Mint"
+    },
+    {
+      "news_title": "Bill To Regulate Online Gaming Gets Cabinet Nod, Next Stop Lok Sabha",
+      "news_link": "https://www.ndtv.com/india-news/bill-to-regulate-online-gaming-gets-cabinet-nod-next-stop-lok-sabha-9115882",
+      "bias": "Lean Right",
+      "source_name": "NDTV"
+    },
+    {
+      "news_title": "Modi Cabinet approves Gaming Bill to regulate online betting and penalise gambling",
+      "news_link": "https://www.indiatvnews.com/news/india/modi-cabinet-approves-gaming-bill-to-regulate-online-betting-and-penalise-gambling-2025-08-19-1004198",
+      "bias": "Lean Right",
+      "source_name": "India TV News"
+    },
+    {
+      "news_title": "Online Gaming Bill regulating betting apps, penalising gambling, gets Cabinet nod",
+      "news_link": "https://www.indiatoday.in/india/story/online-gaming-bill-regulating-betting-apps-penalising-gambling-gets-cabinet-approval-sources-2773513-2025-08-19",
+      "bias": "Lean Right",
+      "source_name": "India Today"
+    },
+    {
+      "news_title": "What is Online Gaming Bill? Betting, money games and ads to face total ban",
+      "news_link": "https://www.financialexpress.com/india-news/cabinet-clears-online-gaming-bill-to-regulate-betting-apps-lok-sabha/3951133/",
+      "bias": "Lean Right",
+      "source_name": "Financial Express"
+    }
+  ]
+}

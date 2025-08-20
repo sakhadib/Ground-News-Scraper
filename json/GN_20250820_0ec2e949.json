@@ -1,0 +1,149 @@
+{
+  "story_id": "GN_20250820_0ec2e949",
+  "metadata": {
+    "title": "South Africa accuses 6 of massive rhino horn trafficking scheme involving nearly 1,000 horns",
+    "timestamp": "2025-08-20T21:29:49.974648",
+    "url": "https://ground.news/article/south-africa-charges-ex-rhino-rancher-john-hume-over-alleged-964-horn-trafficking-scheme"
+  },
+  "bias_distribution": {
+    "total_sources": "49",
+    "leaning_left": "7",
+    "center": "11",
+    "leaning_right": "7"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Six suspects have been arrested by the Directorate for Priority Crime Investigation in relation to a wildlife trafficking syndicate involving over 900 rhino horns due to a seven-year investigation.",
+      "The suspects face multiple charges, including fraud, theft, and contravention of the National Environmental Management: Biodiversity Act.",
+      "The fraudulent permit scheme allowed for the illegal trade of rhino horns to Southeast Asia, with an estimated 964 horns worth millions of rands involved.",
+      "Forestry, Fisheries and Environment Minister Dion George called the arrests a significant victory in combating international wildlife crime and emphasized South Africa's commitment to protect its natural heritage."
+    ],
+    "center": [
+      "John Hume, 83, was arrested alongside five others for an alleged rhino horn trafficking scheme involving 964 horns worth millions of rands destined for illegal markets in Southeast Asia.",
+      "It is alleged that between 2017 and 2024, the accused operated an international rhino horn trafficking syndicate and defrauded the Department of Forestry, Fisheries, and the Environment by obtaining permits to trade rhino horn locally while intending to channel the horns into illegal international markets.",
+      "South Africa Charges Ex-Rhino Rancher John Hume Over Alleged 964-Horn Trafficking Scheme."
+    ],
+    "right": [
+      "Six people were arrested in Pretoria for allegedly trafficking over 900 rhino horns using fraudulent permits.",
+      "The investigation, which began in 2017, revealed a scheme defrauding the Department of Forestry, Fisheries, and Environment to traffic rhino horns internationally.",
+      "The suspects face multiple charges, including fraud, theft, and violations of the National Environmental Management Biodiversity Act.",
+      "Rhino horns cannot be sold to non-South African citizens due to an international ban on their export."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Rhino horn trafficking: Conservationist John Hume among six accused in Pretoria court",
+      "news_link": "https://iol.co.za/news/crime-and-courts/2025-08-20-rhino-horn-trafficking-conservationist-john-hume-among-six-accused-in-pretoria-court/",
+      "bias": "Center",
+      "source_name": "IOL"
+    },
+    {
+      "news_title": "World’s biggest rhino breeder arrested over ‘£10m horn-smuggling operation’",
+      "news_link": "https://www.telegraph.co.uk/world-news/2025/08/20/world-biggest-rhino-farmer-arrested-10m-horn-smuggling/",
+      "bias": "Lean Right",
+      "source_name": "The Telegraph"
+    },
+    {
+      "news_title": "South Africa accuses 6 of massive rhino horn trafficking scheme involving nearly 1,000 horns",
+      "news_link": "https://abcnews.go.com/International/south-africa-accuses-6-massive-rhino-horn-trafficking/story?id=124802262",
+      "bias": "Lean Left",
+      "source_name": "abc News"
+    },
+    {
+      "news_title": "South Africa moves against rhino horn traffickers",
+      "news_link": "https://www.africanews.com/2025/08/20/south-africa-moves-against-rhino-horn-traffickers/",
+      "bias": "Lean Left",
+      "source_name": "Africa News"
+    },
+    {
+      "news_title": "SA man who bred world’s biggest Rhino herd charged with smuggling R250m of horns",
+      "news_link": "https://www.biznews.com/sarenewal/sa-man-bred-rhino-herd-charged-smuggling-horns",
+      "bias": "Lean Right",
+      "source_name": "BizNews.com"
+    },
+    {
+      "news_title": "TRT Global - South Africa arrests former owner of world's largest rhino farm for trafficking",
+      "news_link": "https://trt.global/afrika-english/article/8e269c139053",
+      "bias": "Left",
+      "source_name": "trt.global"
+    },
+    {
+      "news_title": "Man who bred world’s biggest rhino herd charged with horn smuggling",
+      "news_link": "https://www.japantimes.co.jp/environment/2025/08/20/wildlife/rhino-herd-horn-smuggling/",
+      "bias": "Center",
+      "source_name": "The Japan Times"
+    },
+    {
+      "news_title": "Rhino horn syndicate suspects granted bail",
+      "news_link": "https://www.businesslive.co.za/bd/national/2025-08-19-rhino-horn-syndicate-suspects-granted-bail/",
+      "bias": "Lean Right",
+      "source_name": "Business Live"
+    },
+    {
+      "news_title": "John Hume in court for ‘fraudulent’ rhino horn permit deals worth R250m",
+      "news_link": "https://www.dailymaverick.co.za/article/2025-08-19-rhino-baron-john-hume-in-court-for-964-fraudulent-horn-permit-deals/",
+      "bias": "Center",
+      "source_name": "Daily Maverick"
+    },
+    {
+      "news_title": "Six, including conservationist, granted bail in R250m rhino horn trafficking case",
+      "news_link": "https://www.citizen.co.za/news/south-africa/courts/six-including-conservationist-granted-bail-in-r250m-rhino-horn-trafficking-case/",
+      "bias": "Lean Right",
+      "source_name": "The Citizen"
+    },
+    {
+      "news_title": "Ex-owner of world's largest rhino farm arrested for trafficking",
+      "news_link": "https://www.france24.com/en/live-news/20250819-ex-owner-of-world-s-largest-rhino-farm-arrested-for-trafficking",
+      "bias": "Center",
+      "source_name": "France24"
+    },
+    {
+      "news_title": "Hawks bust rhino trafficking syndicate linked to 964 horns – The Mail & Guardian",
+      "news_link": "https://mg.co.za/the-green-guardian/2025-08-19-hawks-bust-rhino-trafficking-syndicate-linked-to-964-horns/",
+      "bias": "Left",
+      "source_name": "mg.co.za"
+    },
+    {
+      "news_title": "Ex-owner Of World's Largest Rhino Farm Arrested For Trafficking",
+      "news_link": "https://www.barrons.com/news/ex-owner-of-world-s-largest-rhino-farm-arrested-for-trafficking-c3e2bff4",
+      "bias": "Center",
+      "source_name": "Barron's"
+    },
+    {
+      "news_title": "Man Who Bred World’s Biggest Rhino Herd Charged With Horn Smuggling",
+      "news_link": "https://www.bloomberg.com/news/articles/2025-08-19/man-who-bred-world-s-biggest-rhino-herd-charged-with-horn-smuggling",
+      "bias": "Lean Left",
+      "source_name": "Bloomberg"
+    },
+    {
+      "news_title": "News24 | Six arrested for allegedly trafficking over 900 rhino horns with fraudulent permits",
+      "news_link": "https://www.news24.com/southafrica/crime-and-courts/six-arrested-for-allegedly-trafficking-over-900-rhino-horns-with-fraudulent-permits-20250819-0734",
+      "bias": "Center",
+      "source_name": "News24"
+    },
+    {
+      "news_title": "East Africa: Authorities Dismantle Major Transnational Rhino Horn Trafficking Network",
+      "news_link": "https://allafrica.com/stories/202508190417.html",
+      "bias": "Center",
+      "source_name": "allAfrica"
+    },
+    {
+      "news_title": "Inside the Dark World of the Rhino Horn Trade",
+      "news_link": "https://www.nationalgeographic.com/magazine/article/dark-world-of-the-rhino-horn-trade",
+      "bias": "Center",
+      "source_name": "National Geographic"
+    },
+    {
+      "news_title": "Rhino horn trafficking suspects arrested",
+      "news_link": "https://www.timeslive.co.za/news/south-africa/2025-08-19-rhino-horn-trafficking-suspects-arrested/",
+      "bias": "Lean Right",
+      "source_name": "Times Live"
+    },
+    {
+      "news_title": "Hawks crack down on international rhino horn syndicate in Pretoria",
+      "news_link": "https://www.thesouthafrican.com/news/hawks-crack-down-on-international-rhino-horn-syndicate-in-pretoria/",
+      "bias": "Lean Left",
+      "source_name": "The South African"
+    }
+  ]
+}
