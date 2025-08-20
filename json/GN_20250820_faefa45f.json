@@ -1,0 +1,157 @@
+{
+  "story_id": "GN_20250820_faefa45f",
+  "metadata": {
+    "title": "Netanyahu slams Macron for fuelling 'antisemitic fire'",
+    "timestamp": "2025-08-20T20:21:52.306279",
+    "url": "https://ground.news/article/netanyahu-slams-macron-for-fuelling-antisemitic-fire_c10d4e"
+  },
+  "bias_distribution": {
+    "total_sources": "136",
+    "leaning_left": "23",
+    "center": "24",
+    "leaning_right": "24"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Israeli Prime Minister Benjamin Netanyahu criticized President Emmanuel Macron for his plan to recognize a Palestinian state, stating it fuels antisemitism in France.",
+      "Macron announced France's intent to recognize a Palestinian state during a UN meeting in September, prompting backlash from Israel.",
+      "Netanyahu claimed antisemitism has 'surged' in France since Macron's announcement and labeled the move as 'appeasement.'",
+      "He urged Macron to take strong action against antisemitism by the Jewish New Year on September 23."
+    ],
+    "center": [
+      "On August 19, 2025, Israeli Prime Minister Benjamin Netanyahu sent a letter to French President Emmanuel Macron accusing him of fueling antisemitism in France.",
+      "Netanyahu linked Macron's proposal for France to recognize a Palestinian state at a UN meeting to a recent surge in antisemitic incidents across the country.",
+      "He highlighted attacks including a man wearing a kippah robbed in Livry-Gargan, vandalism of Israeli airline offices in Paris, and an arson at a Jewish school in Lyon.",
+      "Netanyahu wrote Macron’s call “pours fuel on this antisemitic fire,” calling it appeasement and stating it rewards Hamas’s terror and incites hatred on France’s streets.",
+      "The letter urged Macron to confront antisemitism decisively by the Jewish New Year on September 23, 2025, warning history will honor action and not indecision."
+    ],
+    "right": [
+      "Israeli Prime Minister Benjamin Netanyahu criticized French President Emmanuel Macron for fueling anti-Semitism through his positions on Israel and Palestine.",
+      "Netanyahu highlighted specific incidents of anti-Semitism in France, including an attack on a man wearing a kippah.",
+      "He urged Macron to take action against the rise of anti-Semitism before Rosh Hashanah, emphasizing that silence from leaders exacerbates the situation.",
+      "Netanyahu contrasted Macron's response to anti-Semitism with that of former U.S. President Donald Trump, whom he praised for taking decisive actions against it."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Netanyahu: Macron \"fuels anti-Semitism\" by recognizing Palestine",
+      "news_link": "https://www.africanews.com/2025/08/20/netanyahu-macron-fuels-anti-semitism-by-recognizing-palestine/",
+      "bias": "Lean Left",
+      "source_name": "Africa News"
+    },
+    {
+      "news_title": "Macron denounces Netanyahu’s ‘abject’ remarks that he fueled antisemitism",
+      "news_link": "https://www.thestar.com/news/world/europe/macron-denounces-netanyahus-abject-remarks-that-he-fueled-antisemitism/article_b30ea017-9bd2-56ea-b833-6653dce7872c.html",
+      "bias": "Lean Left",
+      "source_name": "The Toronto Star"
+    },
+    {
+      "news_title": "Macron denounces Netanyahu's 'abject' remarks that he fueled antisemitism",
+      "news_link": "https://www.kob.com/ap-top-news/macron-denounces-netanyahus-abject-remarks-that-he-fueled-antisemitism/",
+      "bias": "Center",
+      "source_name": "KOB 4"
+    },
+    {
+      "news_title": "‘Erroneous, abject and unacceptable’: France rebukes Israel over antisemitism allegations",
+      "news_link": "https://www.euractiv.com/section/politics/news/erroneous-abject-and-unacceptable-france-rebukes-israel-over-antisemitism-allegations/",
+      "bias": "Lean Left",
+      "source_name": "EURACTIV"
+    },
+    {
+      "news_title": "Israel-France row flares over Palestine recognition",
+      "news_link": "https://www.newarab.com/news/israel-france-row-flares-over-palestine-recognition",
+      "bias": "Lean Left",
+      "source_name": "The New Arab"
+    },
+    {
+      "news_title": "Israel sharpens attack on France over Palestinian state recognition plan",
+      "news_link": "https://www.scmp.com/news/world/middle-east/article/3322439/israel-sharpens-attack-france-over-macrons-palestinian-state-recognition-plan",
+      "bias": "Center",
+      "source_name": "South China Morning Post"
+    },
+    {
+      "news_title": "Israel-France row flares over Macron's move to recognise Palestinian state",
+      "news_link": "https://www.insidenova.com/news/national/israel-france-row-flares-over-macrons-move-to-recognise-palestinian-state/article_1c193fb1-6d62-557f-b1cc-7f0e9d20fbba.html",
+      "bias": "Center",
+      "source_name": "InsideNoVA.com"
+    },
+    {
+      "news_title": "France Rejects Netanyahu’s Antisemitism Claim as “Abject”",
+      "news_link": "https://vinnews.com/2025/08/19/france-rejects-netanyahus-antisemitism-claim-as-abject/",
+      "bias": "Center",
+      "source_name": "VINnews"
+    },
+    {
+      "news_title": "Israel-France Row Flares Over Macron's Move To Recognise Palestinian State",
+      "news_link": "https://www.ibtimes.com/israel-france-row-flares-over-macrons-move-recognise-palestinian-state-3781227",
+      "bias": "Center",
+      "source_name": "IBTimes"
+    },
+    {
+      "news_title": "‘We have no lessons to learn’: France slams Netanyahu for accusing Macron of antisemitism",
+      "news_link": "https://www.aa.com.tr/en/europe/-we-have-no-lessons-to-learn-france-slams-netanyahu-for-accusing-macron-of-antisemitism/3663977",
+      "bias": "Right",
+      "source_name": "Anadolu Ajansı"
+    },
+    {
+      "news_title": "Netanyahu writes harsh letters to ‘weak’ French and Australian leaders over Palestinian State recognition",
+      "news_link": "https://worldisraelnews.com/netanyahu-writes-harsh-letters-to-weak-french-and-australian-leaders-over-palestinian-state-recognition/",
+      "bias": "Right",
+      "source_name": "WIN"
+    },
+    {
+      "news_title": "Netanyahu accuses Macron of fueling antisemitism, further inflaming their feud",
+      "news_link": "https://www.politico.eu/article/benjamin-netanyahu-israel-france-palestine-letter-diplomacy/",
+      "bias": "Lean Left",
+      "source_name": "Politico Europe"
+    },
+    {
+      "news_title": "In letters to Australia, France, Netanyahu says call to recognize Palestinian state",
+      "news_link": "https://www.ynetnews.com/article/syum8vgflg",
+      "bias": "Lean Left",
+      "source_name": "Ynet News"
+    },
+    {
+      "news_title": "Netanyahu to Macron: Recognition of Palestine Fuels Jew-Hatred",
+      "news_link": "https://europeanconservative.com/articles/news-corner/netanyahu-to-macron-recognition-of-palestine-fuels-jew-hatred/",
+      "bias": "Right",
+      "source_name": "The European Conservative"
+    },
+    {
+      "news_title": "France rejects Netanyahu's antisemitism accusations",
+      "news_link": "https://www.dailysabah.com/world/europe/france-rejects-netanyahus-antisemitism-accusations",
+      "bias": "Right",
+      "source_name": "Daily Sabah"
+    },
+    {
+      "news_title": "Netanyahu slams Macron for fuelling 'antisemitic fire'",
+      "news_link": "https://www.france24.com/en/live-news/20250819-netanyahu-slams-macron-for-fuelling-antisemitic-fire",
+      "bias": "Center",
+      "source_name": "France24"
+    },
+    {
+      "news_title": "Israel’s Netanyahu slams France’s Macron for fuelling ‘anti-Semitic fire’",
+      "news_link": "https://www.straitstimes.com/world/europe/israels-netanyahu-slams-frances-macron-for-fuelling-anti-semitic-fire",
+      "bias": "Lean Right",
+      "source_name": "The Straits Times"
+    },
+    {
+      "news_title": "Netanyahu Slams Macron For Fuelling 'Antisemitic Fire'",
+      "news_link": "https://www.barrons.com/news/netanyahu-slams-macron-for-fuelling-antisemitic-fire-f7f7dcbd",
+      "bias": "Center",
+      "source_name": "Barron's"
+    },
+    {
+      "news_title": "i24NEWS obtains Netanyahu letter to Macron accusing failure to tackle anti",
+      "news_link": "https://www.i24news.tv/en/news/international/europe/artc-i24news-obtains-netanyahu-letter-to-macron-accusing-failure-to-tackle-anti-semitism",
+      "bias": "Lean Right",
+      "source_name": "i24NEWS"
+    },
+    {
+      "news_title": "Netanyahu accuses Macron of fuelling antisemitism by recognizing Palestinian state",
+      "news_link": "https://www.lemonde.fr/en/france/article/2025/08/19/netanyahu-accuses-macron-of-fuelling-anti-semitism-by-recognizing-palestinian-state_6744520_7.html",
+      "bias": "Lean Left",
+      "source_name": "Le Monde"
+    }
+  ]
+}
