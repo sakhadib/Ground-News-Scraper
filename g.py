@@ -1,6 +1,9 @@
 import time
 import csv
 import sys
+import os
+import uuid
+from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -115,11 +118,55 @@ def fetch_article_data(url):
 
         print(f"Sources extracted. Total: {len(article_data['sources'])} sources")
 
-        # Save to CSV (10th row)
-        with open('dataset.csv', mode='a', newline='', encoding='utf-8') as file:
-            writer = csv.DictWriter(file, fieldnames=article_data.keys())
-            writer.writerow(article_data)
-        print("Data saved to CSV.")
+        # Generate unique Story ID
+        story_id = f"GN_{datetime.now().strftime('%Y%m%d')}_{str(uuid.uuid4())[:8]}"
+        print(f"Generated Story ID: {story_id}")
+
+        # Save to CSV with improved error handling
+        csv_filename = 'dataset.csv'
+        
+        try:
+            # Check if file exists and if we can write to it
+            file_exists = os.path.exists(csv_filename)
+            
+            # Flatten the sources data for CSV with Story ID as first column
+            flattened_data = {
+                'story_id': story_id,
+                'title': article_data.get('title', ''),
+                'total_source': article_data.get('total_source', ''),
+                'leaning_left': article_data.get('leaning_left', ''),
+                'leaning_right': article_data.get('leaning_right', ''),
+                'center': article_data.get('center', ''),
+                'left_points': ' | '.join(article_data.get('left_points', [])),
+                'center_points': ' | '.join(article_data.get('center_points', [])),
+                'right_points': ' | '.join(article_data.get('right_points', [])),
+                'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            }
+            
+            # Add sources data
+            for i, source in enumerate(article_data.get('sources', []), 1):
+                flattened_data[f'source_{i}_name'] = source.get('source_name', '')
+                flattened_data[f'source_{i}_title'] = source.get('news_title', '')
+                flattened_data[f'source_{i}_link'] = source.get('news_link', '')
+                flattened_data[f'source_{i}_bias'] = source.get('bias', '')
+            
+            # Open file and write data
+            mode = 'a' if file_exists else 'w'
+            with open(csv_filename, mode, newline='', encoding='utf-8') as file:
+                writer = csv.DictWriter(file, fieldnames=flattened_data.keys())
+                
+                # Write header only if file is new
+                if not file_exists:
+                    writer.writeheader()
+                    print("CSV header written.")
+                
+                writer.writerow(flattened_data)
+                print("Data successfully saved to CSV.")
+                
+        except PermissionError:
+            print(f"Permission denied: Cannot write to '{csv_filename}'. Please close the file if it's open in Excel or another application.")
+        except Exception as e:
+            print(f"Error saving to CSV: {e}")
 
     except Exception as e:
         print(f"An error occurred: {e}")
