@@ -1,0 +1,187 @@
+{
+  "story_id": "GN_20250821_1698c99c",
+  "metadata": {
+    "title": "Israel approves settlement project that could divide West Bank",
+    "timestamp": "2025-08-21T16:29:08.152288",
+    "url": "https://ground.news/article/israel-approves-settlement-project-that-could-divide-west-bank_865768"
+  },
+  "bias_distribution": {
+    "total_sources": "259",
+    "leaning_left": "68",
+    "center": "95",
+    "leaning_right": "23"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Israel has granted final approval for a settlement project in the occupied West Bank, which critics say will effectively divide the territory in two and threaten the future of a Palestinian state.",
+      "The Planning and Building Committee approved the project after rejecting last petitions against it, and it includes around 3,500 apartments to expand the settlement of Maale Adumim.",
+      "The settlement development has been under consideration for over two decades but was previously frozen due to U.S. pressure during earlier administrations.",
+      "The international community views Israeli settlement construction as illegal and a barrier to peace, despite the recent approval being characterized by some as a response to western nations recognizing a Palestinian state."
+    ],
+    "center": [
+      "On Wednesday, Israeli authorities granted final approval for a large-scale settlement plan to build approximately 3,500 homes in the E1 area east of Jerusalem, located in the occupied West Bank.",
+      "The plan follows long-standing Israeli ambitions to develop E1, a sensitive tract that critics say would divide the West Bank and isolate East Jerusalem.",
+      "Israel's Finance Minister Bezalel Smotrich, known for his settler advocacy and cabinet role, characterized the approval of new settlements as a deliberate strategy to undermine efforts by Western nations to recognize Palestinian statehood.",
+      "Since October 2023, violence in the West Bank has resulted in the deaths of at least 971 Palestinians, according to health ministry data, with casualties including militants; during the same timeframe, 36 Israelis, among them security personnel, have been killed in attacks by Palestinians or Israeli military actions.",
+      "The Palestinian Authority and international officials warn that the project threatens the two-state solution by fragmenting Palestinian territories and undermining future state viability."
+    ],
+    "right": [
+      "Israel has approved the construction of 3,401 settler units in Maale Adumim, which worsens Palestinian territorial connectivity.",
+      "David Lammy, the Foreign Secretary of Britain, condemned the Israeli settlement plan as a \"flagrant breach of international law\" and stated it would jeopardize the two-state solution.",
+      "International bodies, including the United Nations and European Union, have declared the settlement expansion illegal and detrimental to the peace process, hindering the viability of a Palestinian state.",
+      "The Palestinian Authority warned that the settlement decision creates disconnected \"cantons\" and further entrenches the occupation."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Israel Approves Major Illegal Settlement Plan that Could Split the West Bank in Two",
+      "news_link": "https://www.moroccoworldnews.com/2025/08/238120/israel-approves-major-illegal-settlement-plan-that-could-split-the-west-bank-in-two/",
+      "bias": "Lean Right",
+      "source_name": "Morocco World News"
+    },
+    {
+      "news_title": "UK condemns Israel's approval of plans for new West Bank settlement to 'erase' idea of Palestinian state",
+      "news_link": "https://news.sky.com/story/uk-condemns-israels-approval-of-plans-for-new-west-bank-settlement-to-erase-idea-of-palestinian-state-13415376",
+      "bias": "Center",
+      "source_name": "Sky News UK"
+    },
+    {
+      "news_title": "Evening Brief: National Guard Vehicle Collides with Civilian Car, Israel Approves E1 Settlement Project, NATO Chiefs Hold Virtual Meeting",
+      "news_link": "https://sofrep.com/news/sofrep-daily-2025-aug-20-pm/",
+      "bias": "Lean Right",
+      "source_name": "NEWSREP"
+    },
+    {
+      "news_title": "Smotrich hails approval of West Bank E1 project as a ‘historic’ step",
+      "news_link": "https://worldisraelnews.com/smotrich-hails-approval-of-west-bank-e1-project-as-a-historic-step/",
+      "bias": "Right",
+      "source_name": "WIN"
+    },
+    {
+      "news_title": "Israel pushes ahead with settlement plan to split West Bank",
+      "news_link": "https://presstv.ir/Detail/2025/08/20/753452/Palestine-al-Quds-West-Bank-Israel-Gaza-",
+      "bias": "Right",
+      "source_name": "PressTV"
+    },
+    {
+      "news_title": "Israel moves forward with settlement plans in West Bank",
+      "news_link": "https://www.kcrw.com/news/shows/press-play-with-madeleine-brand/israel-gas-prices-cat-painting/west-bank",
+      "bias": "Lean Left",
+      "source_name": "KCRW"
+    },
+    {
+      "news_title": "Israel Approves Large-Scale Settlement Project In West Bank",
+      "news_link": "https://www.ndtv.com/world-news/israel-approves-large-scale-settlement-development-in-the-west-bank-9125946#publisher=newsstand",
+      "bias": "Lean Right",
+      "source_name": "NDTV"
+    },
+    {
+      "news_title": "After years on hold, Israel revives settlement project that will split the West Bank in two",
+      "news_link": "https://www.sott.net/article/501350-After-years-on-hold-Israel-revives-settlement-project-that-will-split-the-West-Bank-in-two",
+      "bias": "Right",
+      "source_name": "Signs of the Times"
+    },
+    {
+      "news_title": "UK condemns Israel's controversial E1 settlement plan in occupied West Bank",
+      "news_link": "https://www.aa.com.tr/en/europe/uk-condemns-israels-controversial-e1-settlement-plan-in-occupied-west-bank/3664901",
+      "bias": "Right",
+      "source_name": "Anadolu Ajansı"
+    },
+    {
+      "news_title": "Israel approves controversial West Bank settlement project",
+      "news_link": "https://www.cbc.ca/news/world/israel-west-bank-settlement-approval-1.7613371",
+      "bias": "Lean Left",
+      "source_name": "CBC News"
+    },
+    {
+      "news_title": "Israel approves major E1 settlement project in West Bank",
+      "news_link": "https://www.newarab.com/news/israel-approves-major-e1-settlement-project-west-bank",
+      "bias": "Lean Left",
+      "source_name": "The New Arab"
+    },
+    {
+      "news_title": "Israel approves settlement plan to 'erase' idea of Palestinian state",
+      "news_link": "https://azdailysun.com/israel-approves-settlement-plan-to-erase-idea-of-palestinian-state/article_21472cb0-6e4b-512f-8b10-f72067486d3e.html",
+      "bias": "Lean Left",
+      "source_name": "Arizona Daily Sun"
+    },
+    {
+      "news_title": "Israel approves illegal settlement plan that would split occupied West Bank",
+      "news_link": "https://www.aljazeera.com/news/2025/8/20/israel-approves-settlement-plan-which-will-split-occupied-west-bank-in-half",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "Israel approves settlement plan dividing West Bank; Smotrich: 'Erasing Palestinian state'",
+      "news_link": "https://www.haaretz.com/israel-news/2025-08-20/ty-article/.premium/israel-approves-settlement-plan-dividing-west-bank-smotrich-erasing-palestinian-state/00000198-c746-dc9d-abd9-dfde56ea0000",
+      "bias": "Lean Left",
+      "source_name": "Haaretz"
+    },
+    {
+      "news_title": "Israel approves major West Bank settlement project",
+      "news_link": "https://www.rfi.fr/en/middle-east/20250820-israel-approves-major-west-bank-settlement-project",
+      "bias": "Center",
+      "source_name": "Radio France Internationale"
+    },
+    {
+      "news_title": "Israel 'buries idea of Palestinian state' as it approves illegal West Bank settlement",
+      "news_link": "https://www.thenational.scot/news/25404352.israeli-government-approves-illegal-west-bank-settlement/",
+      "bias": "Lean Left",
+      "source_name": "The National"
+    },
+    {
+      "news_title": "Israel approves major settlement that will split the West Bank",
+      "news_link": "https://timesofmalta.com/article/israel-approves-major-settlement-split-west-bank.1114929",
+      "bias": "Center",
+      "source_name": "Times of Malta"
+    },
+    {
+      "news_title": "Israel approves major settlement project that would divide West Bank",
+      "news_link": "https://www.france24.com/en/middle-east/20250820-israel-approves-major-settlement-project-that-would-divide-west-bank",
+      "bias": "Center",
+      "source_name": "France24"
+    },
+    {
+      "news_title": "Israel approves a controversial settlement project that could divide the West Bank",
+      "news_link": "https://www.inquirer.com/news/nation-world/israel-west-bank-e1-settlement-project-palestinians-20250820.html",
+      "bias": "Lean Left",
+      "source_name": "Inquirer"
+    },
+    {
+      "news_title": "Israel approves West Bank settlement expansion project",
+      "news_link": "https://www.theglobeandmail.com/world/article-israel-approves-west-bank-settlement-expansion-project/",
+      "bias": "Center",
+      "source_name": "The Globe & Mail"
+    },
+    {
+      "news_title": "Israel Approves Expansion of Zionist Settlements Near East Jerusalem - teleSUR English",
+      "news_link": "https://www.telesurenglish.net/israel-approves-expansion-of-zionist-settlements-near-east-jerusalem/",
+      "bias": "Left",
+      "source_name": "Telesur"
+    },
+    {
+      "news_title": "'Death knell for Palestinian state': Israel approves controversial E1 West Bank settl",
+      "news_link": "https://www.ynetnews.com/article/b1dp6z7yee",
+      "bias": "Lean Left",
+      "source_name": "Ynet News"
+    },
+    {
+      "news_title": "Israel approves settlement plan to ‘erase’ idea of Palestinian state",
+      "news_link": "https://www.irishtimes.com/world/middle-east/2025/08/20/israel-approves-settlement-plan-to-erase-idea-of-palestinian-state/",
+      "bias": "Lean Left",
+      "source_name": "Irish Times"
+    },
+    {
+      "news_title": "Israel approves settlement project that could divide the West Bank",
+      "news_link": "https://apnews.com/article/israel-palestinians-west-bank-e1-settlements-8a713939ee6f6552381246dacc8a1301",
+      "bias": "Lean Left",
+      "source_name": "Associated Press News"
+    },
+    {
+      "news_title": "Middle East: Israel approves West Bank settlement project",
+      "news_link": "https://www.dw.com/en/middle-east-israel-approves-west-bank-settlement-project/live-73697384",
+      "bias": "Center",
+      "source_name": "Deutsche Welle"
+    }
+  ]
+}

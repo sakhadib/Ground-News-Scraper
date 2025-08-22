@@ -1,0 +1,168 @@
+{
+  "story_id": "GN_20250821_525d6597",
+  "metadata": {
+    "title": "Adam Schiff forms legal defense fund to prepare for Trump attacks",
+    "timestamp": "2025-08-21T16:51:07.691134",
+    "url": "https://ground.news/article/adam-schiff-forms-legal-defense-fund-to-prepare-for-trump-attacks"
+  },
+  "bias_distribution": {
+    "total_sources": "33",
+    "leaning_left": "3",
+    "center": "2",
+    "leaning_right": "19"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Senator Adam Schiff formed a legal defense fund on August 15 to counter investigations from the Trump administration regarding allegations of mortgage fraud, which he denies.",
+      "Donald Trump has accused Schiff of committing mortgage fraud, particularly concerning a refinancing in 2009, a claim Schiff contests as false and politically motivated.",
+      "Schiff stated that the allegations against him are 'transparently false, stale, and long debunked,' emphasizing he will continue to hold Trump accountable despite the investigations.",
+      "Trump has referred to Schiff as 'shifty' and a 'scam artist,' aiming to discredit him amid ongoing legal and political battles."
+    ],
+    "center": [
+      "Senator Adam Schiff formed a legal defense fund on August 15 to counter investigations from the Trump administration regarding allegations of mortgage fraud, which he denies.",
+      "Donald Trump has accused Schiff of committing mortgage fraud, particularly concerning a refinancing in 2009, a claim Schiff contests as false and politically motivated.",
+      "Schiff stated that the allegations against him are 'transparently false, stale, and long debunked,' emphasizing he will continue to hold Trump accountable despite the investigations.",
+      "Trump has referred to Schiff as 'shifty' and a 'scam artist,' aiming to discredit him amid ongoing legal and political battles."
+    ],
+    "right": [
+      "Democratic Senator Adam Schiff of California has formed a legal defense fund in response to a Department of Justice investigation into allegations of mortgage fraud involving his Maryland property.",
+      "President Donald Trump has publicly criticized Schiff, claiming he may be guilty of mortgage fraud and that he designated the Maryland property as his primary home to evade taxes.",
+      "Schiff has denied the fraud allegations, stating that the investigation is a baseless attempt at political retribution and asserting his commitment to accountability.",
+      "A spokesperson for Schiff remarked that the accusations are absolutely and categorically false while the investigation continues."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Adam Schiff Begins Preparing for Legal Defense as DOJ Circles",
+      "news_link": "https://www.westernjournal.com/adam-schiff-begins-preparing-legal-defense-doj-circles/",
+      "bias": "Right",
+      "source_name": "The Western Journal"
+    },
+    {
+      "news_title": "'DEEP TROUBLE': 4 Things to Know About Legal Probes of Adam Schiff",
+      "news_link": "https://www.dailysignal.com/2025/08/20/deep-trouble-4-things-know-legal-probes-adam-schiff/",
+      "bias": "Right",
+      "source_name": "The Daily Signal"
+    },
+    {
+      "news_title": "Adam Schiff fires up legal defense fund as DOJ pursues fraud investigation",
+      "news_link": "https://www.theblaze.com/news/adam-schiff-defense-fund-mortgage",
+      "bias": "Right",
+      "source_name": "The Blaze"
+    },
+    {
+      "news_title": "Adam Schiff forms legal defense fund",
+      "news_link": "https://www.politico.com/news/2025/08/19/adam-schiff-forms-legal-defense-fund-00515046",
+      "bias": "Lean Left",
+      "source_name": "Politico"
+    },
+    {
+      "news_title": "Legal Fund Launched as DOJ Targets Schiff",
+      "news_link": "https://americanfaith.com/legal-fund-launched-as-doj-targets-schiff/",
+      "bias": "Right",
+      "source_name": "American Faith"
+    },
+    {
+      "news_title": "Sen. Adam Schiff creates legal defense fund amid Trump-spurred inquiries",
+      "news_link": "https://www.usatoday.com/story/news/politics/2025/08/20/sen-adam-schiff-legal-defense-trump-accusations/85738895007/",
+      "bias": "Lean Left",
+      "source_name": "USA Today"
+    },
+    {
+      "news_title": "Sen. Schiff Forms Legal Defense Fund For Mortgage Fraud Investigation » Sons of Liberty Media",
+      "news_link": "https://sonsoflibertymedia.com/sen-schiff-forms-legal-defense-fund-for-mortgage-fraud-investigation/",
+      "bias": "Far Right",
+      "source_name": "Sons of Liberty Media"
+    },
+    {
+      "news_title": "Yes, Adam Schiff Can And Should Be Prosecuted For Leaking Classified Info",
+      "news_link": "https://thefederalist.com/2025/08/20/yes-adam-schiff-can-be-prosecuted-for-deliberately-leaking-classified-information-to-hurt-trump/",
+      "bias": "Right",
+      "source_name": "The Federalist"
+    },
+    {
+      "news_title": "Schiff Launches Legal Defense Fund",
+      "news_link": "https://headlines.americanlookout.com/schiff-launches-legal-defense-fund/",
+      "bias": "Far Right",
+      "source_name": "American Lookout"
+    },
+    {
+      "news_title": "The Walls Are Closing in on Adam Schiff and He Knows It",
+      "news_link": "https://pjmedia.com/matt-margolis/2025/08/20/the-walls-are-closing-in-on-adam-schiff-and-he-knows-it-n4942864",
+      "bias": "Far Right",
+      "source_name": "PJ Media"
+    },
+    {
+      "news_title": "Adam Schiff, Facing Criminal Investigation, Forms Legal Defense Fund",
+      "news_link": "https://www.breitbart.com/politics/2025/08/20/adam-schiff-facing-criminal-investigation-forms-legal-defense-fund/",
+      "bias": "Right",
+      "source_name": "Breitbart"
+    },
+    {
+      "news_title": "Adam Schiff Forms Legal Defense Fund",
+      "news_link": "https://politicalwire.com/2025/08/20/adam-schiff-forms-legal-defense-fund/",
+      "bias": "Center",
+      "source_name": "Political Wire"
+    },
+    {
+      "news_title": "Sen. Schiff Forms Legal Defense Fund for Mortgage Fraud Investigation",
+      "news_link": "https://www.frontpagemag.com/sen-schiff-forms-legal-defense-fund-for-mortgage-fraud-investigation/",
+      "bias": "Far Right",
+      "source_name": "Frontpage Mag"
+    },
+    {
+      "news_title": "Adam Schiff forms legal defense fund to prepare for Trump attacks",
+      "news_link": "https://timesofsandiego.com/politics/2025/08/19/adam-schiff-forms-legal-defense-fund-to-prepare-for-trump-attacks/",
+      "bias": "Center",
+      "source_name": "Times of San Diego"
+    },
+    {
+      "news_title": "Schiff starts legal defense fund amid Trump's investigation threats",
+      "news_link": "https://justthenews.com/government/congress/schiff-starts-legal-defense-fund-amid-trumps-investigation-threats",
+      "bias": "Lean Right",
+      "source_name": "Just the News"
+    },
+    {
+      "news_title": "NEW: Adam Schiff Forms Legal Defense Fund As Fraud Probe Heats Up",
+      "news_link": "https://trendingpoliticsnews.com/new-adam-schiff-forms-legal-defense-fund-as-fraud-probe-heats-up-cmc/",
+      "bias": "Right",
+      "source_name": "TrendingPolitics"
+    },
+    {
+      "news_title": "After Trump Threats, Sen. Schiff Forms Legal Defense Fund",
+      "news_link": "https://www.newsmax.com/newsfront/adam-schiff-donald-trump-defense-fund/2025/08/19/id/1223124",
+      "bias": "Right",
+      "source_name": "Newsmax"
+    },
+    {
+      "news_title": "Schiff launches legal defense fund in response to claims Trump is 'weaponizing' justice system",
+      "news_link": "https://www.foxnews.com/politics/schiff-launches-legal-defense-fund-response-claims-trump-weaponizing-justice-system",
+      "bias": "Right",
+      "source_name": "Fox News"
+    },
+    {
+      "news_title": "Adam Schiff Sets Up Legal Defense Fund Amid DOJ Probe Into Finances",
+      "news_link": "https://www.conservativereview.com/adam-schiff-sets-up-legal-defense-fund-amid-doj-probe-into-finances-2673902066.html",
+      "bias": "Right",
+      "source_name": "Conservative Review"
+    },
+    {
+      "news_title": "Trump Foe Forms Legal Defense Fund Amid DOJ Probe Into Finances",
+      "news_link": "https://dailycaller.com/2025/08/19/schiff-legal-defense-fund-doj-probe/",
+      "bias": "Right",
+      "source_name": "The Daily Caller"
+    },
+    {
+      "news_title": "Karma Comes A-Calling: Adam Schiff Creates Legal Defense Fund, Fumes Over Investigations",
+      "news_link": "https://redstate.com/bobhoge/2025/08/19/karma-comes-calling-adam-schiff-creates-legal-defense-fund-fumes-over-investigations-n2193005",
+      "bias": "Right",
+      "source_name": "RedState"
+    },
+    {
+      "news_title": "Adam Schiff Forms Legal Defense Fund to Prepare for Trump Attacks",
+      "news_link": "https://www.notus.org/senate/adam-schiff-legal-defense-fund-formed",
+      "bias": "Lean Left",
+      "source_name": "notus.org"
+    }
+  ]
+}

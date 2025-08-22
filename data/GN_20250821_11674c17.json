@@ -1,0 +1,78 @@
+{
+  "story_id": "GN_20250821_11674c17",
+  "metadata": {
+    "title": "DOJ Seeking Confidential Information From Hospitals on Transgender Youth, Washington Post Reports",
+    "timestamp": "2025-08-21T16:54:19.137687",
+    "url": "https://ground.news/article/governments-demand-for-trans-care-info-sought-addresses-doctors-notes-texts_48f336"
+  },
+  "bias_distribution": {
+    "total_sources": "7",
+    "leaning_left": "5",
+    "center": "1",
+    "leaning_right": "1"
+  },
+  "perspective_summaries": {
+    "left": [
+      "The Justice Department demanded the Children’s Hospital of Philadelphia provide information on gender-affirming care for minors, including patient names and Social Security numbers, according to a subpoena made public in a court filing.",
+      "Washington State Attorney General Nicholas W. Brown's office revealed that the subpoenas aim to support potential legal actions against health care providers offering gender-affirming care.",
+      "Since July, at least 25 hospitals in the U.S. have restricted services for transgender youth following the Supreme Court's decision to uphold Tennessee’s law banning gender-affirming care.",
+      "New York Attorney General Letitia James stated that the federal government is conducting a \"cruel and targeted harassment campaign\" against legitimate health care providers."
+    ],
+    "center": [
+      "The Justice Department demanded the Children’s Hospital of Philadelphia provide information on gender-affirming care for minors, including patient names and Social Security numbers, according to a subpoena made public in a court filing.",
+      "Washington State Attorney General Nicholas W. Brown's office revealed that the subpoenas aim to support potential legal actions against health care providers offering gender-affirming care.",
+      "Since July, at least 25 hospitals in the U.S. have restricted services for transgender youth following the Supreme Court's decision to uphold Tennessee’s law banning gender-affirming care.",
+      "New York Attorney General Letitia James stated that the federal government is conducting a \"cruel and targeted harassment campaign\" against legitimate health care providers."
+    ],
+    "right": [
+      "The Justice Department demanded the Children’s Hospital of Philadelphia provide information on gender-affirming care for minors, including patient names and Social Security numbers, according to a subpoena made public in a court filing.",
+      "Washington State Attorney General Nicholas W. Brown's office revealed that the subpoenas aim to support potential legal actions against health care providers offering gender-affirming care.",
+      "Since July, at least 25 hospitals in the U.S. have restricted services for transgender youth following the Supreme Court's decision to uphold Tennessee’s law banning gender-affirming care.",
+      "New York Attorney General Letitia James stated that the federal government is conducting a \"cruel and targeted harassment campaign\" against legitimate health care providers."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Trump Officials Demanded Confidential Data About Transgender Children Seeking Care",
+      "news_link": "https://dnyuz.com/2025/08/20/trump-officials-demanded-confidential-data-about-transgender-children-seeking-care/",
+      "bias": "Lean Right",
+      "source_name": "DNyuz"
+    },
+    {
+      "news_title": "Justice Department Expands Gender Care Probe as Hospital Fights",
+      "news_link": "https://news.bloomberglaw.com/us-law-week/justice-department-expands-gender-care-probe-as-hospital-fights",
+      "bias": "Lean Left",
+      "source_name": "Bloomberg Law"
+    },
+    {
+      "news_title": "DOJ tells hospitals to turn over information on medical care for trans youth",
+      "news_link": "https://www.washingtonblade.com/2025/08/20/doj-tells-hospitals-to-turn-over-information-on-medical-care-for-trans-youth/",
+      "bias": "Lean Left",
+      "source_name": "Washington Blade: Gay News, Politics, LGBT Rights…"
+    },
+    {
+      "news_title": "DOJ Tried To Get Names And Social Security Numbers Of Trans Kids",
+      "news_link": "https://www.huffpost.com/entry/trump-administration-justice-department-pam-boni-investigation-trans-health-care_n_68a634cfe4b0903a790db10f",
+      "bias": "Left",
+      "source_name": "HuffPost"
+    },
+    {
+      "news_title": "Justice Department Demands Trans Care Info",
+      "news_link": "https://politicalwire.com/2025/08/20/justice-department-demands-trans-care-info/",
+      "bias": "Center",
+      "source_name": "Political Wire"
+    },
+    {
+      "news_title": "DOJ demands private info on trans youth patients from 20 gender-affirming medical providers - LGBTQ Nation",
+      "news_link": "https://www.lgbtqnation.com/2025/08/doj-demands-private-info-on-trans-youth-patients-from-20-gender-affirming-medical-providers/",
+      "bias": "Left",
+      "source_name": "LGBTQ Nation"
+    },
+    {
+      "news_title": "Government’s demand for trans care info sought addresses, doctors’ notes, texts",
+      "news_link": "https://www.washingtonpost.com/nation/2025/08/20/subpoena-transgender-care-minors/",
+      "bias": "Lean Left",
+      "source_name": "The Washington Post"
+    }
+  ]
+}

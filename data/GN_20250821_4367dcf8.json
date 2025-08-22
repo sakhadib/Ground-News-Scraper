@@ -1,0 +1,145 @@
+{
+  "story_id": "GN_20250821_4367dcf8",
+  "metadata": {
+    "title": "US-led coalition captures a senior Islamic State member in Syria",
+    "timestamp": "2025-08-21T16:38:21.126787",
+    "url": "https://ground.news/article/us-led-coalition-captures-a-senior-islamic-state-member-in-syria_6f91b2"
+  },
+  "bias_distribution": {
+    "total_sources": "43",
+    "leaning_left": "13",
+    "center": "8",
+    "leaning_right": "16"
+  },
+  "perspective_summaries": {
+    "left": [
+      "A U.S.-led coalition captured a senior member of the Islamic State group, Abu Hafs al-Qurayshi, during an operation in Atmeh, Syria, as reported by state media and a war monitor.",
+      "The operation occurred before dawn, involved landing troops from helicopters, and lasted for about an hour and a half.",
+      "An Iraqi citizen was killed during the operation, and there is uncertainty regarding the fate of a French-speaking woman who was with al-Qurayshi.",
+      "The Washington-led coalition and the Syrian Democratic Forces have not commented on the incident."
+    ],
+    "center": [
+      "A U.S.-led coalition raided a house in northwest Syria's Atmeh and killed senior Islamic State member Salah Noman on Wednesday.",
+      "The operation followed Iraqi intelligence targeting Noman, known as Ali, who was a high-level IS leader involved in mobilizing cells in Syria.",
+      "Numan was living with his family, was shot dead after jumping from a balcony, and his wives were arrested during the raid near the Turkish border.",
+      "The raid killed another key IS financial official, caused no civilian or coalition casualties, and the U.S. described it as a \"successful operation.\"",
+      "The operation is part of ongoing U.S. efforts against IS, which despite territorial defeats in 2019 retains operational capability and continues to threaten Syria and Iraq."
+    ],
+    "right": [
+      "The U.S. military raided northern Syria, killing a senior ISIS figure who was poised to become the group's next leader, according to a U.S. official reporting to Fox News.",
+      "In addition, a key ISIS financial official was killed during the operation, and both were reportedly planning attacks in Syria and Iraq, as stated by the official.",
+      "The operation caused no civilian casualties and required no medical attention for U.S. or Coalition forces.",
+      "A U.S. official described the raid as a successful operation and emphasized the commitment to pursuing ISIS terrorists to ensure their lasting defeat and protection of the homeland."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Official say US military raid in Syria killed country’s ISIS leader-in-waiting",
+      "news_link": "https://nypost.com/2025/08/20/us-news/officials-say-us-military-raid-in-syria-killed-isis-leader-in-waiting/",
+      "bias": "Lean Right",
+      "source_name": "New York Post"
+    },
+    {
+      "news_title": "U.S. Troops Take Down Senior ISIS Terrorist In Syria, Official Says - Real News Now",
+      "news_link": "https://www.realnewsnow.com/u-s-troops-take-down-senior-isis-terrorist-in-syria-official-says/",
+      "bias": "Far Right",
+      "source_name": "realnewsnow.com"
+    },
+    {
+      "news_title": "US military raid in Syria eliminates ISIS leader-in-waiting, key financier: officials",
+      "news_link": "https://www.foxnews.com/us/us-military-raid-syria-eliminates-isis-leader-waiting-key-financier-officials",
+      "bias": "Right",
+      "source_name": "Fox News"
+    },
+    {
+      "news_title": "US-Led Coalition Captures a Senior Islamic State Member in Syria",
+      "news_link": "https://www.military.com/daily-news/2025/08/20/us-led-coalition-captures-senior-islamic-state-member-syria.html",
+      "bias": "Center",
+      "source_name": "Military.com"
+    },
+    {
+      "news_title": "US Military kills future ISIS leader, financial officer in Syria raid: Report",
+      "news_link": "https://wgxa.tv/news/nation-world/us-military-kills-future-isis-leader-financial-officer-in-syria-raid-report",
+      "bias": "Lean Right",
+      "source_name": "WGXA"
+    },
+    {
+      "news_title": "US-led Coalition conducts air operation in northwestern Syria",
+      "news_link": "https://www.plenglish.com/news/2025/08/20/us-led-coalition-conducts-air-operation-in-northwestern-syria/",
+      "bias": "Lean Left",
+      "source_name": "Prensa Latina"
+    },
+    {
+      "news_title": "U.S.-led Forces Kill Senior Islamic State Leader in Syria Raid",
+      "news_link": "https://europeanconservative.com/articles/news-corner/u-s-led-forces-kill-senior-islamic-state-leader-in-syria-raid/",
+      "bias": "Right",
+      "source_name": "The European Conservative"
+    },
+    {
+      "news_title": "US-led coalition captures a senior ISIL (ISIS) member in Syria: State media",
+      "news_link": "https://www.aljazeera.com/news/2025/8/20/us-led-coalition-captures-a-senior-isil-isis-member-in-syria-state-media",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "Syria says US-led coalition killed senior IS leader in northwest",
+      "news_link": "https://www.rfi.fr/en/middle-east/20250820-syria-says-us-led-coalition-killed-senior-is-leader-in-northwest",
+      "bias": "Center",
+      "source_name": "Radio France Internationale"
+    },
+    {
+      "news_title": "US-led coalition captures a senior ISIS member in Syria",
+      "news_link": "https://english.alarabiya.net/News/middle-east/2025/08/20/usled-coalition-captures-a-senior-isis-member-in-syria",
+      "bias": "Lean Right",
+      "source_name": "Al Arabiya"
+    },
+    {
+      "news_title": "US-led coalition in Syria captures senior IS group commander",
+      "news_link": "https://www.euronews.com/2025/08/20/us-led-coalition-in-syria-captures-leader-of-so-called-islamic-state-group",
+      "bias": "Center",
+      "source_name": "Euronews"
+    },
+    {
+      "news_title": "US forces conduct raid in northern Syria against IS target, sources say",
+      "news_link": "https://denvergazette.com/news/nation-world/us-forces-conduct-raid-in-northern-syria-against-is-target-sources-say/article_f19f4763-328a-56b5-8f3a-c3e18b34641c.html",
+      "bias": "Center",
+      "source_name": "Denver Gazette"
+    },
+    {
+      "news_title": "Senior ISIS member killed in US military operation in Syria, official says",
+      "news_link": "https://azdailysun.com/senior-isis-member-killed-in-us-military-operation-in-syria-official-says/article_7a1f768a-9c1c-53df-9040-5bf711f8c379.html",
+      "bias": "Lean Left",
+      "source_name": "Arizona Daily Sun"
+    },
+    {
+      "news_title": "Capture of Key Islamic State Figure in Northwest Syria Sparks Uncertainty",
+      "news_link": "https://www.devdiscourse.com/article/law-order/3547923-capture-of-key-islamic-state-figure-in-northwest-syria-sparks-uncertainty",
+      "bias": "Center",
+      "source_name": "Devdiscourse"
+    },
+    {
+      "news_title": "Report: Senior ISIS commander arrested in commando raid in north Syria",
+      "news_link": "https://www.israelnationalnews.com/news/413578",
+      "bias": "Lean Right",
+      "source_name": "Arutz Sheva"
+    },
+    {
+      "news_title": "US Raid in North Syria Captures Top ISIS Figures, Kills One in Clash - News From Antiwar.com",
+      "news_link": "https://news.antiwar.com/2025/08/20/us-raid-in-north-syria-captures-top-isis-figures-kills-one-in-clash/",
+      "bias": "Center",
+      "source_name": "Antiwar.com"
+    },
+    {
+      "news_title": "US-led coalition captures a senior Islamic State member in Syria",
+      "news_link": "https://apnews.com/article/syria-iraq-islamic-state-atmeh-coalition-raid-3544e7d1edadb9671a531b734c735323",
+      "bias": "Lean Left",
+      "source_name": "Associated Press News"
+    },
+    {
+      "news_title": "Alleged Islamic State Leader Detained in International Coalition Operation - teleSUR English",
+      "news_link": "https://www.telesurenglish.net/alleged-islamic-state-leader-detained-in-international-coalition-operation/",
+      "bias": "Left",
+      "source_name": "Telesur"
+    }
+  ]
+}

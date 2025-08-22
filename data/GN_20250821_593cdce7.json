@@ -1,0 +1,241 @@
+{
+  "story_id": "GN_20250821_593cdce7",
+  "metadata": {
+    "title": "Israel has begun first stages of its planned assault on Gaza City, says Israeli military spokesman",
+    "timestamp": "2025-08-21T13:15:57.006357",
+    "url": "https://ground.news/article/israel-has-begun-first-stages-of-its-planned-assault-on-gaza-city-says-israeli-military-spokesman"
+  },
+  "bias_distribution": {
+    "total_sources": "150",
+    "leaning_left": "30",
+    "center": "21",
+    "leaning_right": "22"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Israel's military is preparing a significant ground offensive on Gaza City, mobilizing 60,000 reservists, as stated by Israeli military spokesman Brigadier General Effie Defrin.",
+      "Prime Minister Benjamin Netanyahu will hold a security cabinet meeting to approve the operation aimed at controlling Gaza City.",
+      "Hamas has declared the offensive as destined to fail, stating this move is an obstruction to any peace agreements, according to a spokesperson from Hamas.",
+      "Approximately 62,000 Palestinians have died due to the ongoing conflict since October 7, according to Gaza's Health Ministry."
+    ],
+    "center": [
+      "Brigadier General Effie Defrin said Israeli forces began the first stages of an attack on Gaza City and now hold its outskirts, following clashes with Hamas.",
+      "This month, Israel's security cabinet chaired by Prime Minister Benjamin Netanyahu approved a plan to expand the Gaza campaign, and Defence Minister Israel Katz authorised the call-up of around 60,000 reservists.",
+      "Hamas militants emerged from tunnel shafts near Khan Younis, wounding one soldier and lightly wounding two others during clashes as airstrikes hit Al-Zaytoun, Al-Sabra and Al-Shati; five divisions plan to operate in the enclave.",
+      "So far, over 62,000 Palestinians have been killed amid widespread devastation in the Gaza Strip, and most Gazans have been displaced into densely packed coastal areas, prompting many Western allies to urge Israel to reconsider.",
+      "Reserve soldiers were not expected to report until September, allowing Arab mediators to press truce talks as Hamas accepted a 60-day ceasefire proposal despite pressure from Finance Minister Bezalel Smotrich and far-right coalition members to reject truces and pursue annexation plans."
+    ],
+    "right": [
+      "Israel has started initial operations to take control of Gaza City, according to Israeli military spokesman Effie Defrin.",
+      "Tens of thousands of reservists have been called up for the operation, with many not expected to serve in combat until September.",
+      "Israeli troops engaged with Hamas militants near Khan Younis, resulting in injuries to several soldiers, as reported by an Israeli military official.",
+      "Hamas has expressed willingness to release hostages for an end to the war, while Israel insists on the release of all remaining hostages before ending the conflict."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Middle East: Israel begins military operation in Gaza City",
+      "news_link": "https://www.dw.com/en/middle-east-israel-begins-military-operation-in-gaza-city/live-73711480",
+      "bias": "Center",
+      "source_name": "Deutsche Welle"
+    },
+    {
+      "news_title": "Israel's assault on Gaza City has begun — here's what you need to know",
+      "news_link": "https://www.abc.net.au/news/2025-08-21/israel-gaza-city-takeover/105679796",
+      "bias": "Lean Left",
+      "source_name": "ABC Australia"
+    },
+    {
+      "news_title": "IDF says next stage of operation to take control of Gaza City underway",
+      "news_link": "https://www.haaretz.com/israel-news/2025-08-21/ty-article-live/idf-says-next-stage-of-operation-to-take-control-of-gaza-city-underway/00000198-ca4d-d1e9-abf9-db7f1bbd0000",
+      "bias": "Lean Left",
+      "source_name": "Haaretz"
+    },
+    {
+      "news_title": "Israel calls up 60,000 reservists with invasion of Gaza's largest city imminent",
+      "news_link": "https://www.walesonline.co.uk/news/world-news/israel-calls-up-60000-reservists-32318037",
+      "bias": "Lean Left",
+      "source_name": "Wales Online"
+    },
+    {
+      "news_title": "Israel begins first stages of Gaza City takeover operation - as UK condemns settlement plan",
+      "news_link": "https://news.sky.com/story/israel-begins-first-stages-of-gaza-city-takeover-as-uk-condemns-approval-of-west-bank-settlement-plan-13415376",
+      "bias": "Center",
+      "source_name": "Sky News UK"
+    },
+    {
+      "news_title": "BBC World Service - Newshour, Israel says offensive in Gaza City has begun",
+      "news_link": "https://www.bbc.co.uk/programmes/w172zss72sr6j68",
+      "bias": "Center",
+      "source_name": "BBC News"
+    },
+    {
+      "news_title": "Israel Calls Up Reservists Ahead of Gaza City Offensive",
+      "news_link": "https://foreignpolicy.com/2025/08/20/israel-reservists-gaza-city-offensive-west-bank-e1-settlement/",
+      "bias": "Center",
+      "source_name": "Foreign Policy"
+    },
+    {
+      "news_title": "Israeli forces begin Gaza City invasion",
+      "news_link": "https://www.afr.com/world/middle-east/israeli-forces-begin-gaza-city-invasion-20250821-p5mols",
+      "bias": "Lean Right",
+      "source_name": "Australian Financial Review"
+    },
+    {
+      "news_title": "As Israel begins offensive on Gaza City, an exhausted military may face a manpower problem",
+      "news_link": "https://localnews8.com/news/2025/08/20/as-israel-begins-offensive-on-gaza-city-an-exhausted-military-may-face-a-manpower-problem/",
+      "bias": "Center",
+      "source_name": "KIFI"
+    },
+    {
+      "news_title": "Israel says it has taken first steps of military operation in Gaza city",
+      "news_link": "https://www.irishexaminer.com/news/arid-41691045.html",
+      "bias": "Lean Left",
+      "source_name": "Irish Examiner"
+    },
+    {
+      "news_title": "Israeli begins the first stages of its assault on Gaza City | Morning News Bulletin 21 August 2025",
+      "news_link": "https://www.sbs.com.au/news/podcast-episode/morning-news-bulletin-21-august-2025/x58evrsk2",
+      "bias": "Lean Left",
+      "source_name": "SBS News"
+    },
+    {
+      "news_title": "Israeli military to call up 60,000 reservists as it plans new phase of Gaza war",
+      "news_link": "https://www.theoldhamtimes.co.uk/news/national/25403291.israeli-military-call-60-000-reservists-plans-new-phase-gaza-war/",
+      "bias": "Center",
+      "source_name": "theoldhamtimes.co.uk"
+    },
+    {
+      "news_title": "Israel says it has taken first steps of military operation in Gaza City, ‘IDF holding positions on the outskirts’",
+      "news_link": "https://indianexpress.com/article/world/israel-says-it-has-taken-first-steps-of-military-operation-in-gaza-city-10201646/",
+      "bias": "Lean Left",
+      "source_name": "Indian Express"
+    },
+    {
+      "news_title": "Israel begins invasion of Gaza City",
+      "news_link": "https://www.stuff.co.nz/world-news/360798248/israel-begins-invasion-gaza-city",
+      "bias": "Lean Left",
+      "source_name": "Stuff"
+    },
+    {
+      "news_title": "What to know about Israel's plan to call up 60,000 reservists",
+      "news_link": "https://www.theglobeandmail.com/world/video-what-to-know-about-israels-plan-to-call-up-60000-reservists/",
+      "bias": "Center",
+      "source_name": "The Globe & Mail"
+    },
+    {
+      "news_title": "Netanyahu orders faster timetable for Gaza City offensive against Hamas",
+      "news_link": "https://bnonews.com/index.php/2025/08/netanyahu-orders-faster-timetable-for-gaza-city-offensive-against-hamas/",
+      "bias": "Center",
+      "source_name": "BNO News"
+    },
+    {
+      "news_title": "IDF launches invasion of Gaza City, repels massive Hamas attack",
+      "news_link": "https://worldisraelnews.com/idf-launches-invasion-of-gaza-city-repels-massive-hamas-attack/",
+      "bias": "Right",
+      "source_name": "WIN"
+    },
+    {
+      "news_title": "Israel begins planned Gaza City assault as it calls up 60,000 reservists",
+      "news_link": "https://www.aljazeera.com/video/newsfeed/2025/8/20/israel-begins-planned-gaza-city-assault-as-it-calls-up-60000-reservists",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "IDF begins invasion of Gaza City as hostage deal talks continue",
+      "news_link": "https://www.jpost.com/israel-news/defense-news/article-864830",
+      "bias": "Center",
+      "source_name": "Jerusalem Post"
+    },
+    {
+      "news_title": "Israeli military begins new offensive targeting Gaza City",
+      "news_link": "https://www.longwarjournal.org/archives/2025/08/israeli-military-begins-new-offensive-targeting-gaza-city.php",
+      "bias": "Lean Right",
+      "source_name": "FDD's Long War Journal"
+    },
+    {
+      "news_title": "Israel enters first stages of its assault on Gaza City",
+      "news_link": "https://www.msnbc.com/katy-tur/watch/israel-enters-first-stages-of-its-assault-on-gaza-city-245371461966",
+      "bias": "Left",
+      "source_name": "MSNBC"
+    },
+    {
+      "news_title": "Israeli plan that could end the two state solution explained",
+      "news_link": "https://www.channel4.com/news/israeli-plan-that-could-end-the-two-state-solution-explained",
+      "bias": "Lean Left",
+      "source_name": "Channel 4"
+    },
+    {
+      "news_title": "Israel says it’s in control of area in outskirts of Gaza City, ready to call up 60K more troops",
+      "news_link": "https://globalnews.ca/video/11343094/israel-says-its-in-control-of-area-in-outskirts-of-gaza-city-ready-to-call-up-60k-more-troops",
+      "bias": "Lean Left",
+      "source_name": "Global News"
+    },
+    {
+      "news_title": "Israel enters first stage of planned assault on Gaza City",
+      "news_link": "https://www.cnbc.com/2025/08/20/israel-enters-first-stage-of-planned-assault-on-gaza-city.html",
+      "bias": "Center",
+      "source_name": "CNBC"
+    },
+    {
+      "news_title": "Tensions Rise as Israeli Military Pushes into Gaza City",
+      "news_link": "https://www.devdiscourse.com/article/law-order/3548409-tensions-rise-as-israeli-military-pushes-into-gaza-city",
+      "bias": "Center",
+      "source_name": "Devdiscourse"
+    },
+    {
+      "news_title": "Israel Calls Up Tens of Thousands of Reservists Ahead of Gaza Operation’s Next Phase",
+      "news_link": "https://www.theepochtimes.com/world/israel-calls-up-tens-of-thousands-of-reservists-ahead-of-gaza-operations-next-phase-5903585",
+      "bias": "Lean Right",
+      "source_name": "The Epoch Times"
+    },
+    {
+      "news_title": "BREAKING: Israel Commences Assault on Gaza City.",
+      "news_link": "https://thenationalpulse.com/2025/08/20/breaking-israel-commences-assault-on-gaza-city/",
+      "bias": "Right",
+      "source_name": "The National Pulse"
+    },
+    {
+      "news_title": "Israel Has Begun First Stages of Its Planned Assault on Gaza City, Says Israeli Military Spokesman",
+      "news_link": "https://www.usnews.com/news/world/articles/2025-08-20/israel-has-begun-first-stages-of-its-planned-assault-on-gaza-city-says-israeli-military-spokesman",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "Israel Says It Has Taken First Steps of Military Operation in Gaza City",
+      "news_link": "https://www.algemeiner.com/2025/08/20/israel-begins-first-stages-planned-gaza-city-offensive-says-military-spokesman/",
+      "bias": "Lean Right",
+      "source_name": "The Algemeiner"
+    },
+    {
+      "news_title": "Israel begins planned assault on Gaza City as plan approved to 'erase' prospect of Palestinian state",
+      "news_link": "https://www.independent.ie/world-news/middle-east/israel-begins-planned-assault-on-gaza-city-as-plan-approved-to-erase-prospect-of-palestinian-state/a496926015.html",
+      "bias": "Lean Right",
+      "source_name": "Irish Independent"
+    },
+    {
+      "news_title": "Israel has begun first stages of its planned assault on Gaza City, says Israeli military spokesman",
+      "news_link": "https://www.reuters.com/world/middle-east/israel-has-begun-first-stages-its-planned-assault-gaza-city-says-israeli-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "Israel says it has taken first steps of military operation in Gaza City",
+      "news_link": "https://denvergazette.com/news/nation-world/israel-says-it-has-taken-first-steps-of-military-operation-in-gaza-city/article_93488beb-ba5b-5664-8a1e-1a3f24a3d599.html",
+      "bias": "Center",
+      "source_name": "Denver Gazette"
+    },
+    {
+      "news_title": "Israeli Military To Call Up 60,000 Reservists as It Prepares for Gaza City Ethnic Cleansing Campaign",
+      "news_link": "https://scheerpost.com/2025/08/20/israeli-military-to-call-up-60000-reservists-as-it-prepares-for-gaza-city-ethnic-cleansing-campaign/",
+      "bias": "Left",
+      "source_name": "scheerpost.com"
+    },
+    {
+      "news_title": "Israel begins first stages of planned assault on Gaza City, says military spokesman",
+      "news_link": "https://www.newarab.com/news/israel-says-begun-first-stages-planned-assault-gaza-city",
+      "bias": "Lean Left",
+      "source_name": "The New Arab"
+    }
+  ]
+}

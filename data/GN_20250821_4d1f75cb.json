@@ -1,0 +1,253 @@
+{
+  "story_id": "GN_20250821_4d1f75cb",
+  "metadata": {
+    "title": "Webb Telescope Reveals Tiny New Moon Orbiting Uranus",
+    "timestamp": "2025-08-21T16:40:19.564996",
+    "url": "https://ground.news/article/nasas-webb-telescope-discovers-a-new-uranus-moon"
+  },
+  "bias_distribution": {
+    "total_sources": "188",
+    "leaning_left": "37",
+    "center": "79",
+    "leaning_right": "13"
+  },
+  "perspective_summaries": {
+    "left": [
+      "NASA announced the discovery of a new tiny moon orbiting Uranus, which is approximately six miles wide.",
+      "This moon was spotted by the Webb Space Telescope's near-infrared camera during observations in February.",
+      "The discovery increases the total number of known moons of Uranus to 29, named after characters from Shakespeare and Alexander Pope.",
+      "Scientists believe the moon evaded detection due to its faintness and small size, even eluding Voyager 2 during its flyby about 40 years ago."
+    ],
+    "center": [
+      "On Tuesday, NASA announced the James Webb Space Telescope detected a previously unseen moon around Uranus, designated S/2025 U1, raising its known moon count to 29.",
+      "Because of its tiny size—about six miles—and its position inside Uranus' dark inner rings, which include 13 rings, S/2025 U1 remained undetected until Webb's observations.",
+      "Using NIRCam, Webb detected glints of sunlight in a series of 10 40-minute long-exposure images taken during February observations, revealing the 14th small inner moon about 35,000 miles from Uranus' center.",
+      "An official name is now awaiting International Astronomical Union approval and will likely follow the Shakespeare and Alexander Pope naming tradition, while scientists say the discovery highlights the James Webb Space Telescope's reach through its General Observer program.",
+      "Astronomers say the discovery hints at more hidden objects around Uranus and builds on Voyager 2's Jan. 24, 1986 flyby, with James Webb Space Telescope extending that exploration nearly four decades later."
+    ],
+    "right": [
+      "NASA’s Webb Space Telescope has discovered a new tiny moon orbiting Uranus, which measures just six miles wide.",
+      "This new moon increases Uranus's total moon count to 29.",
+      "The new moon is smaller and fainter than the previously known inner moons.",
+      "Unlike previous missions, this discovery highlights the potential for more hidden complexities."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Voyager missed it, but James Webb Just Found Uranus’ hidden moon",
+      "news_link": "https://www.sciencedaily.com/releases/2025/08/250821004237.htm",
+      "bias": "Center",
+      "source_name": "Science Daily"
+    },
+    {
+      "news_title": "NASA’s Webb telescope finds a tiny, new moon",
+      "news_link": "https://www.oregonlive.com/nation/2025/08/nasas-webb-telescope-finds-a-tiny-new-moon.html",
+      "bias": "Center",
+      "source_name": "The Oregonian"
+    },
+    {
+      "news_title": "New 'tiny' moon found orbiting Uranus, bringing satellite family to 29",
+      "news_link": "https://www.freep.com/story/news/nation/2025/08/20/new-moon-orbiting-uranus/85744633007/",
+      "bias": "Lean Left",
+      "source_name": "Detroit Free Press"
+    },
+    {
+      "news_title": "Astronomers Discover a Previously Hidden Moon Orbiting Uranus",
+      "news_link": "https://gizmodo.com/astronomers-discover-a-previously-hidden-moon-orbiting-uranus-2000645669",
+      "bias": "Lean Left",
+      "source_name": "Gizmodo"
+    },
+    {
+      "news_title": "Uranus has a new, hidden moon, James Webb Space Telescope reveals",
+      "news_link": "https://www.livescience.com/space/uranus/uranus-has-a-new-hidden-moon-james-webb-space-telescope-reveals",
+      "bias": "Center",
+      "source_name": "Live Science"
+    },
+    {
+      "news_title": "Webb Space Telescope spots tiny moon orbiting Uranus",
+      "news_link": "https://www.kiro7.com/news/trending/webb-space-telescope-spots-tiny-moon-orbiting-uranus/CYUJXMDEL5BZRE3WZEKSEH45D4/",
+      "bias": "Center",
+      "source_name": "Kiro7"
+    },
+    {
+      "news_title": "Astronomers make 'significant discovery' as they spot new moon orbiting Uranus",
+      "news_link": "https://www.gbnews.com/science/space-breakthrough-moon-uranus-significant-discovery",
+      "bias": "Lean Right",
+      "source_name": "GB News"
+    },
+    {
+      "news_title": "New discovery about Uranus confirmed by NASA - Liverpool Echo",
+      "news_link": "https://www.liverpoolecho.co.uk/news/uk-world-news/new-discovery-uranus-confirmed-nasa-32313966",
+      "bias": "Center",
+      "source_name": "Liverpool Echo"
+    },
+    {
+      "news_title": "Scientists Discover and Photograph New Moon Around Uranus",
+      "news_link": "https://petapixel.com/2025/08/20/scientists-discover-and-photograph-new-moon-around-uranus/",
+      "bias": "Center",
+      "source_name": "PetaPixel"
+    },
+    {
+      "news_title": "NASA’s Webb Telescope Finds New Tiny Moon Around Uranus",
+      "news_link": "https://www.theepochtimes.com/science/nasas-webb-telescope-finds-new-tiny-moon-around-uranus-5903332",
+      "bias": "Lean Right",
+      "source_name": "The Epoch Times"
+    },
+    {
+      "news_title": "JWST Spots Tiny New Moon Just Outside Uranus's Rings, Bringing Total To 29",
+      "news_link": "https://www.iflscience.com/jwst-spots-tiny-new-moon-just-outside-uranuss-rings-bringing-total-to-29-80480",
+      "bias": "Lean Left",
+      "source_name": "IFLScience"
+    },
+    {
+      "news_title": "Webb telescope just peeked at Uranus and got mooned, literally",
+      "news_link": "https://mashable.com/article/james-webb-space-telescope-uranus-moon-discovered",
+      "bias": "Left",
+      "source_name": "Mashable"
+    },
+    {
+      "news_title": "Tiny new moon spotted around Uranus by powerful space telescope",
+      "news_link": "https://www.euronews.com/next/2025/08/20/tiny-new-moon-spotted-around-uranus-by-powerful-space-telescope",
+      "bias": "Center",
+      "source_name": "Euronews"
+    },
+    {
+      "news_title": "James Webb Telescope discovers unknown moon orbiting Uranus",
+      "news_link": "https://www.indiatoday.in/science/story/james-webb-telescope-discovers-unknown-moon-orbiting-uranus-2773936-2025-08-20",
+      "bias": "Lean Right",
+      "source_name": "India Today"
+    },
+    {
+      "news_title": "Newly Discovered Uranus Moon Is Remarkably Small",
+      "news_link": "https://www.newser.com/story/373796/newly-discovered-uranus-moon-is-remarkably-small.html",
+      "bias": "Lean Left",
+      "source_name": "Newser"
+    },
+    {
+      "news_title": "NASA's Webb Telescope spots hidden, tiny Moon orbiting Uranus",
+      "news_link": "https://www.indiatvnews.com/science/nasa-s-webb-telescope-spots-hidden-tiny-moon-orbiting-uranus-2025-08-20-1004274",
+      "bias": "Lean Right",
+      "source_name": "India TV News"
+    },
+    {
+      "news_title": "Scientists spot new moon orbiting Uranus: ‘A significant discovery’",
+      "news_link": "https://nypost.com/2025/08/19/science/scientists-discover-new-moon-orbiting-uranus/",
+      "bias": "Lean Right",
+      "source_name": "New York Post"
+    },
+    {
+      "news_title": "A NASA team may have just discovered a previously unknown moon orbiting Uranus",
+      "news_link": "https://www.koco.com/article/nasa-webb-telescope-discovers-new-moon-orbiting-uranus/65824634",
+      "bias": "Center",
+      "source_name": "Koco News5"
+    },
+    {
+      "news_title": "NASA Telescope Spots a Previously Unknown Moon of Uranus",
+      "news_link": "https://time.com/7310845/nasa-uranus-moon-discovery/",
+      "bias": "Lean Left",
+      "source_name": "Time Magazine"
+    },
+    {
+      "news_title": "New moon discovered orbiting ice giant Uranus",
+      "news_link": "https://news.sky.com/story/new-moon-discovered-orbiting-ice-giant-uranus-13414843",
+      "bias": "Center",
+      "source_name": "Sky News UK"
+    },
+    {
+      "news_title": "The James Webb Space Telescope Finds New Moon Orbiting Uranus",
+      "news_link": "https://www.cnet.com/science/space/the-james-webb-space-telescope-has-found-a-new-moon-orbiting-uranus/",
+      "bias": "Center",
+      "source_name": "cnet"
+    },
+    {
+      "news_title": "Breakthrough discovery as tiny new moon found orbiting Uranus",
+      "news_link": "https://www.the-express.com/news/us-news/180896/new-moon-orbiting-uranus-nasa",
+      "bias": "Right",
+      "source_name": "Express US"
+    },
+    {
+      "news_title": "NASA’s James Webb Space Telescope Discovers New Moon of Uranus",
+      "news_link": "https://www.scientificamerican.com/article/nasas-james-webb-space-telescope-discovers-new-moon-of-uranus/",
+      "bias": "Lean Left",
+      "source_name": "Scientific American"
+    },
+    {
+      "news_title": "NASA's Webb telescope discovers tiny moon around Uranus",
+      "news_link": "https://thewest.com.au/news/world/nasas-webb-telescope-discovers-tiny-moon-around-uranus-c-19740435",
+      "bias": "Lean Right",
+      "source_name": "The West Australian"
+    },
+    {
+      "news_title": "NASA’s James Webb Space Telescope has found a new moon orbiting Uranus.",
+      "news_link": "https://www.theverge.com/news/761837/nasa-james-webb-space-telescope-new-moon-orbiting-uranus",
+      "bias": "Lean Left",
+      "source_name": "The Verge"
+    },
+    {
+      "news_title": "Small but mighty: New moon discovered orbiting Uranus",
+      "news_link": "https://www.cleveland.com/news/2025/08/small-but-mighty-new-moon-discovered-orbiting-uranus.html",
+      "bias": "Center",
+      "source_name": "Cleveland"
+    },
+    {
+      "news_title": "Nasa’s Webb telescope discovers new 'tiny' moon orbiting Uranus",
+      "news_link": "https://www.thejournal.ie/nasas-webb-telescope-discovers-new-tiny-moon-orbiting-uranus-6794193-Aug2025/",
+      "bias": "Lean Left",
+      "source_name": "The Journal"
+    },
+    {
+      "news_title": "Webb telescope spots a new moon orbiting Uranus",
+      "news_link": "https://www.engadget.com/science/space/webb-telescope-spots-a-new-moon-orbiting-uranus-182932627.html",
+      "bias": "Lean Left",
+      "source_name": "Engadget"
+    },
+    {
+      "news_title": "A new moon discovered orbiting Uranus is so small, you could walk it in two hours",
+      "news_link": "https://www.nbcdfw.com/news/national-international/new-small-moon-discovered-orbiting-uranus/3906807/",
+      "bias": "Lean Left",
+      "source_name": "NBC Dallas-Fort Worth"
+    },
+    {
+      "news_title": "Uranus may have a 29th moon",
+      "news_link": "https://www.popsci.com/science/uranus-new-moon-2025/",
+      "bias": "Center",
+      "source_name": "Popular Science"
+    },
+    {
+      "news_title": "NASA’s Webb telescope discovers a new Uranus moon",
+      "news_link": "https://www.upi.com/Science_News/2025/08/19/nasa-uranus-moon/4841755635200/",
+      "bias": "Center",
+      "source_name": "UPI"
+    },
+    {
+      "news_title": "New moon discovered orbiting Uranus is its smallest one",
+      "news_link": "https://www.newscientist.com/article/2493197-new-moon-discovered-orbiting-uranus-is-its-smallest-one/",
+      "bias": "Center",
+      "source_name": "NewScientist"
+    },
+    {
+      "news_title": "Nasa’s Webb telescope finds a new tiny moon around Uranus",
+      "news_link": "https://www.heraldscotland.com/news/national/25402725.nasas-webb-telescope-finds-new-tiny-moon-around-uranus/",
+      "bias": "Lean Left",
+      "source_name": "The Herald Scotland"
+    },
+    {
+      "news_title": "Scientists find tiny new moon around Uranus with the James Webb Space Telescope",
+      "news_link": "https://www.space.com/astronomy/uranus/scientists-find-tiny-new-moon-around-uranus-with-the-james-webb-space-telescope-photos-video",
+      "bias": "Center",
+      "source_name": "Space"
+    },
+    {
+      "news_title": "NASA's Webb telescope finds a new tiny moon around Uranus",
+      "news_link": "https://apnews.com/article/new-moon-uranus-jwst-5b348bb1443477ebad62bed7245abbf3",
+      "bias": "Lean Left",
+      "source_name": "Associated Press News"
+    },
+    {
+      "news_title": "Webb discovers a new moon orbiting Uranus",
+      "news_link": "https://phys.org/news/2025-08-webb-moon-orbiting-uranus.html",
+      "bias": "Center",
+      "source_name": "Phys.org"
+    }
+  ]
+}

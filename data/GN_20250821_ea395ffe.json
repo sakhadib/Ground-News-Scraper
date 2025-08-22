@@ -1,0 +1,223 @@
+{
+  "story_id": "GN_20250821_ea395ffe",
+  "metadata": {
+    "title": "Trump Administration Sanctions ICC Officials for Efforts to Arrest Americans, Israelis",
+    "timestamp": "2025-08-21T16:33:06.293818",
+    "url": "https://ground.news/article/trump-administration-sanctions-icc-officials-for-efforts-to-arrest-americans-israelis_95cdf3"
+  },
+  "bias_distribution": {
+    "total_sources": "143",
+    "leaning_left": "35",
+    "center": "44",
+    "leaning_right": "22"
+  },
+  "perspective_summaries": {
+    "left": [
+      "The Trump administration announced new sanctions on four International Criminal Court officials for pursuing investigations into U.S. and Israeli officials for alleged war crimes.",
+      "The sanctions target two judges and two prosecutors who engaged in prosecuting nationals without consent, according to the U.S. State Department.",
+      "The International Criminal Court denounced the sanctions, calling them 'a flagrant attack against the independence of an impartial judicial institution.'",
+      "United Nations spokesman Stephane Dujarric affirmed that the ICC has the full support of the world body to carry out its work."
+    ],
+    "center": [
+      "On August 20, 2025, the United States implemented new sanctions against four officials associated with the International Criminal Court, including judges and prosecutors from Canada and France.",
+      "The sanctions follow U.S. objections to ICC investigations into alleged war crimes by U.S. and Israeli nationals without the consent of either country, escalating earlier Trump administration measures.",
+      "The targeted officials include French judge Nicolas Guillou, who presided over a pre-trial panel issuing an arrest warrant for Israeli Prime Minister Netanyahu, Canadian judge Kimberly Prost, and two deputy prosecutors from Fiji and Senegal.",
+      "Secretary of State Rubio characterized the Court as a threat to national security, accusing it of being used to pursue legal actions against the United States and its key ally Israel, while Netanyahu praised the sanctions as a firm response to what he called a campaign of false accusations targeting Israel.",
+      "The U.S. barred these ICC officials from entering the country and blocked their assets, intensifying its pressure campaign to impede investigations especially related to Israel and U.S. personnel in Afghanistan."
+    ],
+    "right": [
+      "The International Criminal Court strongly rejected new U.S. sanctions against four officials, calling them an assault on judicial independence and the rules-based international order.",
+      "U.S. Secretary of State Marco Rubio criticized the ICC, stating it is a national security threat for targeting U.S. and Israeli officials.",
+      "The sanctions freeze the assets of the designated judges and prosecutors involved in investigations against Israeli leaders.",
+      "France expressed support for the ICC, condemning the U.S. sanctions and urging Washington to withdraw its penalties."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Trump administration sanctions 4 ICC officials in new ‘flagrant attack’",
+      "news_link": "https://www.thenational.scot/news/25406521.trump-administration-sanctions-icc-officials-new-flagrant-attack/",
+      "bias": "Lean Left",
+      "source_name": "The National"
+    },
+    {
+      "news_title": "Trump administration to impose sanctions on four more ICC officials",
+      "news_link": "https://www3.nhk.or.jp/nhkworld/en/news/20250821_07/",
+      "bias": "Lean Right",
+      "source_name": "NHK World"
+    },
+    {
+      "news_title": "ICC 'deplores' new US sanctions on its judges and prosecutors",
+      "news_link": "https://www.bbc.com/news/articles/c620l3y7ydro",
+      "bias": "Center",
+      "source_name": "BBC News"
+    },
+    {
+      "news_title": "Fijian among four ICC judges sanctioned by US for backing Netanyahu arrest warrants",
+      "news_link": "https://www.rnz.co.nz/international/pacific-news/570641/fijian-among-four-icc-judges-sanctioned-by-us-for-backing-netanyahu-arrest-warrants",
+      "bias": "Center",
+      "source_name": "RNZ"
+    },
+    {
+      "news_title": "US Sanctions Canadian International Criminal Court Judge",
+      "news_link": "https://www.theepochtimes.com/world/us-sanctions-canadian-international-criminal-court-judge-5903761",
+      "bias": "Lean Right",
+      "source_name": "The Epoch Times"
+    },
+    {
+      "news_title": "US sanctions ICC judges for probes into alleged American, Israeli war crimes",
+      "news_link": "https://www.scmp.com/news/world/united-states-canada/article/3322575/us-sanctions-icc-judges-prosecutors-probes-alleged-american-israeli-war-crimes",
+      "bias": "Center",
+      "source_name": "South China Morning Post"
+    },
+    {
+      "news_title": "Canadian judge among 4 ICC officials sanctioned by U.S. over ‘lawfare’ - National",
+      "news_link": "https://globalnews.ca/news/11342379/us-icc-sanctions-canada-afghanistan-israel/",
+      "bias": "Lean Left",
+      "source_name": "Global News"
+    },
+    {
+      "news_title": "US imposes sanctions on four ICC judges, prosecutors over 'threat to Israel'",
+      "news_link": "https://www.presstv.ir/Detail/2025/08/20/753464/US-imposes-new-sanctions-on-four-ICC-judges,-prosecutors",
+      "bias": "Right",
+      "source_name": "PressTV"
+    },
+    {
+      "news_title": "US hits ICC with more sanctions, targets French judge involved in ...",
+      "news_link": "https://www.france24.com/en/americas/20250820-us-hits-icc-with-more-sanctions-targets-french-judge-involved-in-netanyahu-arrest-warrant",
+      "bias": "Center",
+      "source_name": "France24"
+    },
+    {
+      "news_title": "ICC rejects new US sanctions on judges, deputy prosecutors",
+      "news_link": "https://www.aa.com.tr/en/americas/icc-rejects-new-us-sanctions-on-judges-deputy-prosecutors/3664910",
+      "bias": "Right",
+      "source_name": "Anadolu Ajansı"
+    },
+    {
+      "news_title": "Four more World Court officials hit with US sanctions",
+      "news_link": "https://www.businesslive.co.za/bd/world/americas/2025-08-20-four-more-world-court-officials-hit-with-us-sanctions/",
+      "bias": "Lean Right",
+      "source_name": "Business Live"
+    },
+    {
+      "news_title": "U.S. sanctions more ICC judges, prosecutors for probes into alleged American, Israeli war crimes",
+      "news_link": "https://www.tribdem.com/news/u-s-sanctions-more-icc-judges-prosecutors-for-probes-into-alleged-american-israeli-war-crimes/article_ed41aa21-986f-510c-b75a-aa19e44a0f19.html",
+      "bias": "Lean Left",
+      "source_name": "The Tribune-Democrat"
+    },
+    {
+      "news_title": "US ramps up attack on international court over Israel",
+      "news_link": "https://www.heraldpalladium.com/news/national/us-ramps-up-attack-on-international-court-over-israel/article_e5fbba9e-f8be-5964-b6de-46076bf0065c.html",
+      "bias": "Lean Right",
+      "source_name": "The Herald Palladium"
+    },
+    {
+      "news_title": "Trump Admin. Imposes New Sanctions on Four ICC Judges, Prosecutors",
+      "news_link": "https://www.newsmax.com/politics/trump-administration-sanctions-four/2025/08/20/id/1223259/",
+      "bias": "Right",
+      "source_name": "Newsmax"
+    },
+    {
+      "news_title": "ICC condemns new US sanctions as France voices outrage",
+      "news_link": "https://www.dailysabah.com/world/mid-east/icc-condemns-new-us-sanctions-as-france-voices-outrage",
+      "bias": "Right",
+      "source_name": "Daily Sabah"
+    },
+    {
+      "news_title": "Trump administration imposes new sanctions on four ICC judges, prosecutors",
+      "news_link": "https://www.reuters.com/world/asia-pacific/trump-administration-imposes-new-sanctions-four-icc-judges-prosecutors-2025-08-20/",
+      "bias": "Center",
+      "source_name": "Reuters"
+    },
+    {
+      "news_title": "Trump administration sanctions Canadian judge who sits on International Criminal Court",
+      "news_link": "https://www.cbc.ca/news/world/canadian-judge-icc-trump-1.7613704",
+      "bias": "Lean Left",
+      "source_name": "CBC News"
+    },
+    {
+      "news_title": "US expands sanctions targeting International Criminal Court",
+      "news_link": "https://www.aljazeera.com/news/2025/8/20/us-expands-sanctions-targeting-international-criminal-court",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "US sanctions more ICC judges, prosecutors for probes into alleged American, Israeli war crimes",
+      "news_link": "https://www.capitalgazette.com/2025/08/20/trump-sanctions-icc/",
+      "bias": "Center",
+      "source_name": "Capital Gazette"
+    },
+    {
+      "news_title": "Trump administration sanctions ICC officials for efforts to arrest Americans, Israelis",
+      "news_link": "https://thehill.com/homenews/administration/5461738-icc-judges-targeted-sanctions/",
+      "bias": "Center",
+      "source_name": "The Hill"
+    },
+    {
+      "news_title": "US slaps fresh sanctions on four ICC officials, citing actions against 'close ally' Israel",
+      "news_link": "https://www.thejournal.ie/us-fresh-sanctions-international-criminal-court-israel-netanyahu-6795008-Aug2025/",
+      "bias": "Lean Left",
+      "source_name": "The Journal"
+    },
+    {
+      "news_title": "Trump Administration Slaps New Sanctions on Four ICC Officials over Targeting of Israeli Officials",
+      "news_link": "https://english.aawsat.com/world/5177312-trump-administration-slaps-new-sanctions-four-icc-officials-over-targeting-israeli",
+      "bias": "Lean Right",
+      "source_name": "Asharq AL-awsat"
+    },
+    {
+      "news_title": "Trump admin imposes sanctions on more International Criminal Court officials",
+      "news_link": "https://www.cnn.com/2025/08/20/politics/trump-international-criminal-court-sanctions",
+      "bias": "Lean Left",
+      "source_name": "CNN"
+    },
+    {
+      "news_title": "Trump admin. sanctions four more ICC officials",
+      "news_link": "https://www.israelnationalnews.com/news/413592",
+      "bias": "Lean Right",
+      "source_name": "Arutz Sheva"
+    },
+    {
+      "news_title": "US targets more ICC judges including over Israel",
+      "news_link": "https://www.arabnews.com/node/2612454/world",
+      "bias": "Lean Right",
+      "source_name": "Arab News"
+    },
+    {
+      "news_title": "U.S. sanctions four ICC officials, citing actions against U.S. personnel and Israel",
+      "news_link": "https://www.i24news.tv/en/news/international/americas/artc-u-s-sanctions-four-icc-officials-citing-actions-against-u-s-personnel-and-israel",
+      "bias": "Lean Right",
+      "source_name": "i24NEWS"
+    },
+    {
+      "news_title": "Trump administration imposes sanctions on four more ICC officials, including Canadian judge",
+      "news_link": "https://www.theglobeandmail.com/world/article-trump-administration-international-criminal-court-sanctions-israel/",
+      "bias": "Center",
+      "source_name": "The Globe & Mail"
+    },
+    {
+      "news_title": "Trump Administration Just Went Nuclear on International Criminal Court Officials for Targeting Americans",
+      "news_link": "https://townhall.com/tipsheet/jeff-charles/2025/08/20/trump-administration-sanctions-icc-officials-for-trying-to-arrest-israelis-and-americans-n2662098",
+      "bias": "Right",
+      "source_name": "Townhall"
+    },
+    {
+      "news_title": "US sanctions 4 ICC officials over Israel case",
+      "news_link": "https://www.al-monitor.com/originals/2025/08/us-sanctions-4-icc-officials-over-israel-case",
+      "bias": "Lean Left",
+      "source_name": "Al-Monitor"
+    },
+    {
+      "news_title": "Trump Administration Imposes New Sanctions on Four ICC Judges, Prosecutors",
+      "news_link": "https://www.usnews.com/news/world/articles/2025-08-20/trump-administration-imposes-fresh-sanctions-on-four-icc-officials",
+      "bias": "Lean Left",
+      "source_name": "U.S. News"
+    },
+    {
+      "news_title": "Trump slaps sanctions on Canadian International Criminal Court judge",
+      "news_link": "https://www.winnipegfreepress.com/canada/2025/08/20/trump-slaps-sanctions-on-canadian-international-criminal-court-judge",
+      "bias": "Center",
+      "source_name": "Winnipeg Free Press"
+    }
+  ]
+}

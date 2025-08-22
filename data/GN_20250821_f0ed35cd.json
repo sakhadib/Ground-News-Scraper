@@ -1,0 +1,124 @@
+{
+  "story_id": "GN_20250821_f0ed35cd",
+  "metadata": {
+    "title": "Appeals court allows Trump to end temporary protections for migrants from Central America and Nepal",
+    "timestamp": "2025-08-21T16:36:12.467019",
+    "url": "https://ground.news/article/appeals-court-allows-trump-administration-to-end-temporary-protections-for-migrants-from-central-america-and-nepal"
+  },
+  "bias_distribution": {
+    "total_sources": "168",
+    "leaning_left": "31",
+    "center": "82",
+    "leaning_right": "12"
+  },
+  "perspective_summaries": {
+    "left": [
+      "A federal appeals court sided with the Trump administration and stayed a lower court's order for 60,000 migrants from Central America and Nepal.",
+      "The 9th U.S. Circuit Court of Appeals granted an emergency stay pending an appeal regarding the protections.",
+      "Immigrant rights advocates allege that the Trump administration acted unlawfully in ending the protections for migrants from Central America and Nepal.",
+      "The Trump administration's actions are part of a larger effort to conduct mass deportations of immigrants."
+    ],
+    "center": [
+      "On August 20, 2025, a federal appellate court in San Francisco issued a stay on a lower court ruling that had maintained Temporary Protected Status for around 60,000 migrants from Honduras, Nicaragua, and Nepal.",
+      "This ruling came amid the Trump administration's broader effort to end TPS protections and aggressively pursue deportations despite criticisms and legal challenges alleging unlawful motives.",
+      "TPS grants migrants work and travel rights due to unsafe conditions in their home countries, but Secretary Kristi Noem ended protections for 51,000 Hondurans and 3,000 Nicaraguans, citing recovery since Hurricane Mitch in 1998."
+    ],
+    "right": [
+      "The Ninth Circuit Court of Appeals ruled that the Trump administration can end Temporary Protected Status for over 60,000 migrants from Nepal, Nicaragua, and Honduras, lifting a lower court's hold on the termination.",
+      "The ruling affects approximately 7,200 Nepali migrants, with changes set for August 5 and September 8 for Nicaraguan and Honduran migrants respectively.",
+      "The National TPS Alliance claims the TPS termination was influenced by racial bias and notes that many affected migrants have lived in the U.S. for over two decades."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "US Court Allows Trump To End Deportation Protections For 60,000 Immigrants",
+      "news_link": "https://www.ndtv.com/world-news/us-court-allows-trump-to-end-deportation-protections-for-60-000-immigrants-9128424",
+      "bias": "Lean Right",
+      "source_name": "NDTV"
+    },
+    {
+      "news_title": "Trump administration can terminate Temporary Protected Status for more than 60,000 migrants, appeals court rules",
+      "news_link": "https://nypost.com/2025/08/20/us-news/trump-administration-can-terminate-temporary-protected-status-for-more-than-60000-migrants-appeals-court-rules/",
+      "bias": "Lean Right",
+      "source_name": "New York Post"
+    },
+    {
+      "news_title": "Trump can end deportation protections for 60,000 immigrants, appeals court says",
+      "news_link": "https://denvergazette.com/news/nation-world/trump-can-end-deportation-protections-for-60-000-immigrants-appeals-court-says/article_d226b598-945a-5adf-bc4b-032e35d59ddf.html",
+      "bias": "Center",
+      "source_name": "Denver Gazette"
+    },
+    {
+      "news_title": "Appeals court allows end of protected status for migrants from 3 countries",
+      "news_link": "https://www.npr.org/2025/08/21/nx-s1-5509433/appeals-court-allows-protected-status-migrants",
+      "bias": "Lean Left",
+      "source_name": "npr"
+    },
+    {
+      "news_title": "Appeals court OKs termination of TPS for Nepal, Honduras, Nicaragua",
+      "news_link": "https://www.upi.com/Top_News/US/2025/08/21/appeals-court-TPS-Nepal-Honduras-Nicaragua/5721755749253/",
+      "bias": "Center",
+      "source_name": "UPI"
+    },
+    {
+      "news_title": "Trump administration for now can end deportation protections for thousands from Honduras, Nepal and Nicaragua, court says",
+      "news_link": "https://www.cbsnews.com/news/temporary-protected-status-nicaragua-honduras-nepal-ninth-circuit-ruling/",
+      "bias": "Lean Left",
+      "source_name": "CBS News"
+    },
+    {
+      "news_title": "Court Allows Removal of Temporary Protections for 60K from Nepal and Central America",
+      "news_link": "https://www.independentsentinel.com/court-allows-removal-of-temporary-protections-for-60k-from-nepal-and-central-america/",
+      "bias": "Right",
+      "source_name": "Independent Sentinel"
+    },
+    {
+      "news_title": "9th Circuit Says DHS Can Revoke Temporary Status for Hondurans, Nicaraguans, and Nepalese",
+      "news_link": "https://www.theepochtimes.com/us/9th-circuit-says-dhs-can-revoke-temporary-status-for-hondurans-nicaraguans-and-nepalese-5903858",
+      "bias": "Lean Right",
+      "source_name": "The Epoch Times"
+    },
+    {
+      "news_title": "9th Circuit Court Overturns Radical DEI Biden Judge’s Ruling — Gives President Trump GREEN LIGHT to Strip Legal Status from 64,000 Migrants from Honduras, Nicaragua, and Nepal | The Gateway Pundit | by Jim Hᴏft",
+      "news_link": "https://www.thegatewaypundit.com/2025/08/9th-circuit-court-overturns-radical-dei-biden-judges/",
+      "bias": "Far Right",
+      "source_name": "The Gateway Pundit"
+    },
+    {
+      "news_title": "Fed court of appeals grants Trump admin pause on protections for 60K immigrants",
+      "news_link": "https://www.foxnews.com/politics/fed-court-appeals-grants-trump-admin-pause-protections-60k-immigrants",
+      "bias": "Right",
+      "source_name": "Fox News"
+    },
+    {
+      "news_title": "US court allows Trump to end temporary protections for 60,000 migrants",
+      "news_link": "https://www.aljazeera.com/news/2025/8/20/us-court-allows-trump-to-end-temporary-protections-for-60000-migrants",
+      "bias": "Lean Left",
+      "source_name": "Al Jazeera"
+    },
+    {
+      "news_title": "Appeals court allows Trump administration to end temporary protections for migrants from Central America and Nepal, reports AP.",
+      "news_link": "https://www.devdiscourse.com/article/Newsalert/3548512-appeals-court-allows-trump-administration-to-end-temporary-protections-for-migrants-from-central-america-and-nepal-reports",
+      "bias": "Center",
+      "source_name": "Devdiscourse"
+    },
+    {
+      "news_title": "Appeals court allows Trump to end temporary protections for migrants from Central America and Nepal",
+      "news_link": "https://apnews.com/article/trump-migrants-tps-noem-honduras-nicaragua-c6e1924473dba9dea2bc7e3ee8aef861",
+      "bias": "Lean Left",
+      "source_name": "Associated Press News"
+    },
+    {
+      "news_title": "Ninth Circuit rules Trump admin can end protections for Nepali, Nicaraguan and Honduran migrants",
+      "news_link": "https://justthenews.com/government/courts-law/ninth-circuit-rules-trump-admin-can-end-protections-nepali-nicaraguan-and",
+      "bias": "Lean Right",
+      "source_name": "Just the News"
+    },
+    {
+      "news_title": "Donald Trump scores court win as protections blocked for 60,000 migrants",
+      "news_link": "https://www.newsweek.com/trump-immigration-court-protection-blocked-migrants-central-america-2116677",
+      "bias": "Center",
+      "source_name": "Newsweek"
+    }
+  ]
+}
