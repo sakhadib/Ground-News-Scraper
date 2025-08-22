@@ -1,0 +1,46 @@
+{
+  "story_id": "GN_20250822_192656_13a034a1",
+  "metadata": {
+    "title": "Air Canada ramping up operations to near full schedule by Friday",
+    "timestamp": "2025-08-22T19:26:56.442463",
+    "url": "https://ground.news/article/in-the-news-today-air-canada-ramping-up-to-near-full-schedule"
+  },
+  "bias_distribution": {
+    "total_sources": "16",
+    "leaning_left": "8",
+    "center": "2",
+    "leaning_right": "0"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Air Canada expects to be operating close to its full network schedule by Friday.",
+      "The airline announced it is ramping up operations after reaching a tentative deal with the union representing its flight attendants to end a strike.",
+      "The strike disrupted operations, leading to flight cancellations.",
+      "Voting for more than 10,000 flight attendants on a new tentative agreement will begin next week."
+    ],
+    "center": [
+      "Air Canada expects to be operating close to its full network schedule by Friday.",
+      "The airline announced it is ramping up operations after reaching a tentative deal with the union representing its flight attendants to end a strike.",
+      "The strike disrupted operations, leading to flight cancellations.",
+      "Voting for more than 10,000 flight attendants on a new tentative agreement will begin next week."
+    ],
+    "right": [
+      "Air Canada expects to be operating close to its full network schedule by Friday.",
+      "The airline announced it is ramping up operations after reaching a tentative deal with the union representing its flight attendants to end a strike.",
+      "The strike disrupted operations, leading to flight cancellations.",
+      "Voting for more than 10,000 flight attendants on a new tentative agreement will begin next week."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "In the news today: Air Canada ramping up to near full schedule",
+      "news_link": "https://ground.news/interest/winnipeg-free-press",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Air Canada ramping up operations to near full schedule by Friday - Wings Magazine",
+      "news_link": "https://ground.news/interest/wings-magazine",
+      "bias": "unknown"
+    }
+  ]
+}

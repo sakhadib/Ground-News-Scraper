@@ -12,6 +12,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from newspaper import Article
+
 def fetch_article_data(url):
     # Setup WebDriver
     options = webdriver.ChromeOptions()
@@ -130,7 +132,16 @@ def fetch_article_data(url):
                 except Exception as e:
                     source['bias'] = "unknown"
                     print(f"  - Error extracting bias: {e}")
-                
+                    
+                link = str(source['news_link'])
+                article = Article(link)
+                article.download()
+                article.parse()
+                source['actual_title'] = article.title
+                source['authors'] = article.authors
+                source['published_at'] = article.publish_date
+                source['fulltext'] = article.text
+
                 article_data['sources'].append(source)
                 
             except Exception as e:
@@ -142,11 +153,12 @@ def fetch_article_data(url):
 
         # Generate unique Story ID
         story_id = f"GN_{datetime.now().strftime('%Y%m%d_%H%M%S')}_{str(uuid.uuid4())[:8]}"
-        print(f"Generated Story ID: {story_id}")
+        sid = str(story_id)
+        print(f"Generated Story ID: {sid}")
 
         # Prepare structured data for JSON
         structured_data = {
-            'story_id': story_id,
+            'story_id': sid,
             'metadata': {
                 'title': article_data.get('title', ''),
                 'timestamp': datetime.now().isoformat(),
@@ -167,7 +179,7 @@ def fetch_article_data(url):
         }
 
         # Save to JSON file in json/ directory
-        json_filename = os.path.join('json', f"{story_id}.json")
+        json_filename = os.path.join('json', f"{sid}.json")
         
         try:
             # Ensure json directory exists

@@ -1,0 +1,150 @@
+{
+  "story_id": "GN_20250822_191953_47d2edf5",
+  "metadata": {
+    "title": "Thai court clears ex-PM Thaksin Shinawatra in royal insult case, lawyer says",
+    "timestamp": "2025-08-22T19:19:53.909462",
+    "url": "https://ground.news/article/thai-court-clears-ex-pm-thaksin-shinawatra-in-royal-insult-case-lawyer-says"
+  },
+  "bias_distribution": {
+    "total_sources": "42",
+    "leaning_left": "15",
+    "center": "16",
+    "leaning_right": "6"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Thaksin Shinawatra, former Thai Prime Minister, was cleared of charges related to royal insults, according to his lawyer.",
+      "The charges stemmed from a 2015 interview Thaksin gave during his self-imposed exile, where he denied any wrongdoing.",
+      "Thaksin's political influence persists through the ruling Pheu Thai party, which faces challenges amid economic issues and conflicts with Cambodia.",
+      "Thaksin had earlier returned to Thailand to serve an eight-year sentence, later reduced to one year by King Maha Vajiralongkorn."
+    ],
+    "center": [
+      "Thaksin Shinawatra, a former Thai prime minister, was cleared in a royal insult case and could have faced up to 15 years in prison for breaching the country's lese majeste laws.",
+      "Although Thaksin has no official role, he remains politically active and is seen as the power behind the ruling Pheu Thai party, which is losing popularity due to conflicts with Cambodia and economic issues.",
+      "The Supreme Court will decide next month whether Thaksin's hospital stint counts as time served for an earlier conviction, potentially sending him to prison, but he said: \"I am not worried\"."
+    ],
+    "right": [
+      "Thaksin Shinawatra was acquitted of royal defamation charges by the Criminal Court, as confirmed by his lawyer, but no reason was provided for the dismissal.",
+      "This ruling marks a significant moment for the Shinawatra family, who have faced declining popularity in Thai politics after two decades of influence.",
+      "Prosecutions under Thailand's lese-majeste law have sharply increased since 2020, with rights groups stating that over 280 individuals have been prosecuted for violating this law in the last five years.",
+      "The case stems from Thaksin's 2015 comments during an interview with foreign media while in exile."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Thailand: Former PM Thaksin Shinawatra acquitted of royal defamation charges",
+      "news_link": "https://ground.news/interest/le-monde",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Thai ex-PM Thaksin Shinawatra says his royal insult case has been dismissed",
+      "news_link": "https://ground.news/interest/investingcom",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Thai court confirms Thaksin's royal insult case dismissed due to insufficient evidence",
+      "news_link": "https://ground.news/interest/reuters_fa2539",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Former Thai Prime Minister Thaksin Shinawatra says he has been acquitted of royal defamation",
+      "news_link": "https://ground.news/interest/associated-press-news",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Thailand: Court acquits Thaksin Shinawatra in royal insult case",
+      "news_link": "https://ground.news/interest/bbc-news_bf95f4",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Thailand: Former PM Thaksin cleared of lese majeste charges",
+      "news_link": "https://ground.news/interest/deutsche-welle",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Thai Court Clears Thaksin Shinawatra of Royal Insult Charges",
+      "news_link": "https://ground.news/interest/devdiscourse",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Thai ex-PM Thaksin acquitted of royal insult charges",
+      "news_link": "https://ground.news/interest/arab-news",
+      "bias": "Lean Right"
+    },
+    {
+      "news_title": "Breaking: Former Thai prime minister Thaksin Shinawatra cleared of royal insult charges",
+      "news_link": "https://ground.news/interest/abc-australia",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Court clears Thailand’s ex-PM Thaksin Shinawatra in royal insult case",
+      "news_link": "https://ground.news/interest/al-jazeera_1a2e2c",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Thaksin says his royal insult case has been dismissed",
+      "news_link": "https://ground.news/interest/bangkok-post",
+      "bias": "Lean Right"
+    },
+    {
+      "news_title": "Thai court dismisses royal insult case against ex-PM Thaksin",
+      "news_link": "https://ground.news/interest/channel-news-asia",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Thai Ex-PM Thaksin Acquitted Of Royal Insult Charges",
+      "news_link": "https://ground.news/interest/ibtimes",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Judgement day for former Thai PM Thaksin Shinawatra in royal defamation case",
+      "news_link": "https://ground.news/interest/dnyuz",
+      "bias": "Lean Right"
+    },
+    {
+      "news_title": "Verdict due for Thailand’s ex-PM Thaksin Shinawatra in royal insult case",
+      "news_link": "https://ground.news/interest/rocketnews-top-news-stories-from-around-the-globe",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Thailand’s ex-PM Thaksin faces verdict in royal insult case",
+      "news_link": "https://ground.news/interest/the-straits-times_9bb9e6",
+      "bias": "Lean Right"
+    },
+    {
+      "news_title": "Thailand's ex-PM Thaksin faces verdict in royal insult case",
+      "news_link": "https://ground.news/interest/new-strait-times",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Former Thai Leader Thaksin Cleared of Royal Insult Charges",
+      "news_link": "https://ground.news/interest/bloomberg",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Thailand's Ex-PM Thaksin Faces Verdict In Royal Insult Case",
+      "news_link": "https://ground.news/interest/barrons",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Thai Court Clears Ex-PM Thaksin Shinawatra in Royal Insult Case, Lawyer Says",
+      "news_link": "https://ground.news/interest/us-news",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Thailand’s former leader acquitted in royal insult case, but the list of those ensnared by lese majeste laws keeps growing",
+      "news_link": "https://ground.news/interest/cnn",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Thai court to rule on former PM Thaksin's royal insult case",
+      "news_link": "https://ground.news/interest/alkhaleej-today",
+      "bias": "unknown"
+    },
+    {
+      "news_title": "Thailand’s Ex-PM Thaksin Faces Verdict in Royal Insult Case",
+      "news_link": "https://ground.news/interest/laotian-times",
+      "bias": "unknown"
+    }
+  ]
+}

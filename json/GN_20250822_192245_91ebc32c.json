@@ -1,0 +1,94 @@
+{
+  "story_id": "GN_20250822_192245_91ebc32c",
+  "metadata": {
+    "title": "Kim Jong Un says his ‘heart aches’ over North Korean soldiers killed fighting for Russia, in rare admission of losses",
+    "timestamp": "2025-08-22T19:22:45.851151",
+    "url": "https://ground.news/article/kim-jong-un-says-his-heart-aches-over-north-korean-soldiers-killed-fighting-for-russia-in-rare-admission-of-losses_a041b5"
+  },
+  "bias_distribution": {
+    "total_sources": "56",
+    "leaning_left": "6",
+    "center": "15",
+    "leaning_right": "11"
+  },
+  "perspective_summaries": {
+    "left": [
+      "Kim Jong Un awarded medals to North Korean combatants and commanders who fought for Russia.",
+      "Around 600 North Koreans have been killed and over 4,000 wounded while fighting for Russia, according to South Korea's intelligence agency.",
+      "Kim said his 'heart aches' over the North Korean soldiers killed, calling them 'martyrs' in a rare admission of losses."
+    ],
+    "center": [
+      "Kim Jong Un awarded medals to North Korean combatants and commanders who fought for Russia.",
+      "Around 600 North Koreans have been killed and over 4,000 wounded while fighting for Russia, according to South Korea's intelligence agency.",
+      "Kim said his 'heart aches' over the North Korean soldiers killed, calling them 'martyrs' in a rare admission of losses."
+    ],
+    "right": [
+      "North Korean leader Kim Jong Un expressed sorrow for the heroic North Korean troops killed fighting for Russia in Ukraine. He stated his heart aches over their losses, according to KCNA.",
+      "During a ceremony, Kim decorated soldiers and honored fallen troops by laying flowers at a memorial wall.",
+      "Kim recognized the bravery of North Korean troops who participated in the war against Ukraine, stating their actions proved the army's power.",
+      "Approximately 600 North Korean troops have died out of 15,000 deployed to fight for Russia, as reported by South Korean lawmakers."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "North Korea’s Kim decorates soldiers from Russia, consoles children",
+      "news_link": "https://ground.news/interest/arab-news",
+      "bias": "Lean Right"
+    },
+    {
+      "news_title": "North Korea’s Kim Jong Un Decorates Soldiers Who Fought for Russia, KCNA Says",
+      "news_link": "https://ground.news/interest/_3899b7",
+      "bias": "Lean Right"
+    },
+    {
+      "news_title": "Kim Jong Un honors N. Korean troops sent to Russia as ‘great heroes’",
+      "news_link": "https://ground.news/interest/upi_0b956e",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Kim Jong-un welcomes soldiers back from fighting in Ukraine",
+      "news_link": "https://ground.news/interest/euronews",
+      "bias": "Center"
+    },
+    {
+      "news_title": "North Korea’s Kim Jong Un hails troops killed in ‘heroic’ war with Ukraine",
+      "news_link": "https://ground.news/interest/al-jazeera_1a2e2c",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "Kim Jong Un Admits Losses Of North Korean Troops Fighting For Russia",
+      "news_link": "https://ground.news/interest/tippinsights",
+      "bias": "Right"
+    },
+    {
+      "news_title": "North Korea's Kim decorates troops who fought for Russia against Ukraine",
+      "news_link": "https://ground.news/interest/kakecom",
+      "bias": "Center"
+    },
+    {
+      "news_title": "Kim Jong Un says his ‘heart aches’ over North Korean soldiers killed fighting for Russia, in rare admission of losses",
+      "news_link": "https://ground.news/interest/cnn",
+      "bias": "Lean Left"
+    },
+    {
+      "news_title": "North Korea's Kim Jong Un awards soldiers who fought in Russia, KCNA says",
+      "news_link": "https://ground.news/interest/the-star-kuala-lumpur",
+      "bias": "Right"
+    },
+    {
+      "news_title": "North Korea, Kin Jong's Tribute To Kursk Died Soldiers In The War In Ukraine",
+      "news_link": "https://ground.news/interest/real-news-hub",
+      "bias": "unknown"
+    },
+    {
+      "news_title": "Kim Jong -brought up awards to the DPRK soldiers who fought on the side of Russia: Y WSJ pointed out an important “nuance” - Global Happenings",
+      "news_link": "https://ground.news/interest/global-happenings",
+      "bias": "unknown"
+    },
+    {
+      "news_title": "Kim Hails North Korean Troops Involved In Russia' War",
+      "news_link": "https://ground.news/interest/the-vaultz-news",
+      "bias": "unknown"
+    }
+  ]
+}
