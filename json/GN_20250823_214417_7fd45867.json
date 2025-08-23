@@ -1,0 +1,27 @@
+{
+  "story_id": "GN_20250823_214417_7fd45867",
+  "metadata": {
+    "title": "Republican senators depart for Taiwan, Indo-Pacific trip",
+    "timestamp": "2025-08-23T21:44:17.948351",
+    "url": "https://ground.news/article/sen-wicker-sen-fischer-depart-for-taiwan-indo-pacific-trip"
+  },
+  "bias_distribution": {
+    "total_sources": "2",
+    "leaning_left": "0",
+    "center": "2",
+    "leaning_right": "0"
+  },
+  "perspective_summaries": {
+    "left": [],
+    "center": [],
+    "right": []
+  },
+  "sources": [
+    {
+      "news_title": "Sen. Wicker, Sen. Fischer depart for Taiwan, Indo-Pacific trip",
+      "news_link": "https://www.newsnationnow.com/politics/wicker-fischer-taiwan-indo-pacific-trip/",
+      "bias": "Center",
+      "text": null
+    }
+  ]
+}
