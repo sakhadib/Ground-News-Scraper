@@ -1,76 +1,64 @@
-import json
 import os
+import json
 from collections import defaultdict
 
-def process_json_files(directory_path):
-    total_bias_dist = defaultdict(int)
-    source_bias_counts = defaultdict(int)
-    total_sources_count = 0
-    processed_files = 0
+# Path to the folder containing the JSON files
+folder_path = 'json/'
 
-    for filename in os.listdir(directory_path):
-        if filename.endswith('.json'):
-            file_path = os.path.join(directory_path, filename)
-            try:
-                # Try different encodings to handle the file
-                for encoding in ['utf-8', 'latin-1', 'cp1252', 'iso-8859-1']:
-                    try:
-                        with open(file_path, 'r', encoding=encoding) as f:
-                            data = json.load(f)
-                            
-                            # Process bias distribution (from the bias_distribution field)
-                            if 'bias_distribution' in data:
-                                bias_dist = data['bias_distribution']
-                                for key, value in bias_dist.items():
-                                    if key != 'total_sources' and isinstance(value, (int, str)):
-                                        # Convert string values to integers
-                                        try:
-                                            total_bias_dist[key] += int(value)
-                                        except ValueError:
-                                            pass  # Skip non-numeric values
-                            
-                            # Process sources (from the sources array)
-                            if 'sources' in data:
-                                sources = data['sources']
-                                total_sources_count += len(sources)
-                                for source in sources:
-                                    if 'bias' in source:
-                                        bias = source['bias']
-                                        source_bias_counts[bias] += 1
-                            
-                            processed_files += 1
-                            break  # Break out of encoding loop if successful
-                    except UnicodeDecodeError:
-                        continue  # Try next encoding
-                    except json.JSONDecodeError:
-                        print(f"Error decoding JSON in {filename}")
-                        break
-            except Exception as e:
-                print(f"Error processing {filename}: {str(e)}")
-                continue
+def analyze_json_files(folder_path):
+    total_sources = 0
+    non_null_text_sources = 0
+    null_text_sources = 0
+    bias_counts = defaultdict(int)  # To store the count of each bias value
+    
+    # Loop through all files in the folder
+    for file_name in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, file_name)
 
-    return total_bias_dist, source_bias_counts, total_sources_count, processed_files
+        # Only process JSON files
+        if file_name.endswith('.json'):
+            with open(file_path, 'r', encoding='utf-8') as file:
+                try:
+                    data = json.load(file)
+                    sources = data.get("sources", [])
 
-def main():
-    directory = input("Enter the directory path containing JSON files: ")
-    
-    if not os.path.isdir(directory):
-        print("Invalid directory path")
-        return
+                    # Count sources and check 'text' attribute
+                    total_sources += len(sources)
 
-    bias_dist, source_counts, total_sources, processed_files = process_json_files(directory)
+                    for source in sources:
+                        text = source.get("text")
+                        bias = source.get("bias")
+                        
+                        # Counting text values
+                        if text:
+                            non_null_text_sources += 1
+                        else:
+                            null_text_sources += 1
+                        
+                        # Counting bias values
+                        if bias:
+                            bias_counts[bias] += 1
+
+                except json.JSONDecodeError:
+                    print(f"Error decoding JSON in file: {file_name}")
     
-    print(f"\nProcessed {processed_files} files")
-    
-    print("\n1. Total Bias Distribution (from bias_distribution field):")
-    for bias_type, count in bias_dist.items():
-        print(f"  {bias_type}: {count}")
-    
-    print("\n2. Source Bias Counts (from sources array):")
-    for bias, count in source_counts.items():
-        print(f"  {bias}: {count}")
-    
-    print(f"\n3. Total Sources Count: {total_sources}")
+    # Calculate the percentage of sources with non-null text
+    if total_sources > 0:
+        non_null_percentage = (non_null_text_sources / total_sources) * 100
+    else:
+        non_null_percentage = 0
+
+    # Display the results
+    print(f"Total sources: {total_sources}")
+    print(f"Sources with non-null 'text': {non_null_text_sources}")
+    print(f"Sources with null 'text': {null_text_sources}")
+    print(f"Percentage of sources with non-null 'text': {non_null_percentage:.2f}%")
+
+    # Display bias counts
+    print("\nBias counts:")
+    for bias, count in bias_counts.items():
+        print(f"{bias}: {count}")
+
 
 if __name__ == "__main__":
-    main()
+    analyze_json_files(folder_path)
