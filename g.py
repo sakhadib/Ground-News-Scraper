@@ -11,8 +11,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from tqdm import tqdm
 
-from newspaper import Article
+import trafilatura
 
 def fetch_article_data(url):
     # Setup WebDriver
@@ -95,16 +96,20 @@ def fetch_article_data(url):
             print("Right summary button not found. Keeping right_points as empty array.")
 
         # Click on the 'more-stories' button until it disappears or becomes non-clickable
-        while True:
-            try:
-                # Check if the "more stories" button exists and is clickable
-                more_stories_button = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.ID, "more-stories")))
-                ActionChains(driver).move_to_element(more_stories_button).click().perform()
-                time.sleep(2)
-                print("Loading more stories...")
-            except:
-                print("No more stories to load.")
-                break
+        stories_loaded = 0
+        with tqdm(desc="Loading more stories", unit="batch") as pbar:
+            while True:
+                try:
+                    # Check if the "more stories" button exists and is clickable
+                    more_stories_button = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.ID, "more-stories")))
+                    ActionChains(driver).move_to_element(more_stories_button).click().perform()
+                    time.sleep(2)
+                    stories_loaded += 1
+                    pbar.update(1)
+                    pbar.set_postfix({"Batches loaded": stories_loaded})
+                except:
+                    pbar.set_description("Finished loading stories")
+                    break
 
         # Extract Sources using the correct XPath structure
         # Extract Sources using the correct XPath structure
@@ -113,16 +118,17 @@ def fetch_article_data(url):
         # Find all source elements
         source_elements = driver.find_elements(By.ID, "article-summary")
 
-        for source_element in source_elements:
+        for source_element in tqdm(source_elements, desc="Processing sources", unit="source"):
             try:
                 source = {}
                 
                 # Extract news title from the h4 element, relative to the article-summary
                 news_title_element = source_element.find_element(By.XPATH, ".//a/h4")
-                source['news_title'] = news_title_element.text
+                source['news_title'] = news_title_element.text               
+                
                 
                 # Extract news link from the anchor tag, relative to the article-summary
-                news_link_element = source_element.find_element(By.XPATH, ".//a")
+                news_link_element = source_element.find_element(By.XPATH, "./div/a")
                 source['news_link'] = news_link_element.get_attribute('href')
                 
                 # Extract bias from the bias element, relative to the article-summary
@@ -134,13 +140,12 @@ def fetch_article_data(url):
                     print(f"  - Error extracting bias: {e}")
                     
                 link = str(source['news_link'])
-                article = Article(link)
-                article.download()
-                article.parse()
-                source['actual_title'] = article.title
-                source['authors'] = article.authors
-                source['published_at'] = article.publish_date
-                source['fulltext'] = article.text
+                
+                downloaded = trafilatura.fetch_url(link)
+                
+                fulltext = trafilatura.extract(downloaded)
+
+                source['text'] = fulltext
 
                 article_data['sources'].append(source)
                 
