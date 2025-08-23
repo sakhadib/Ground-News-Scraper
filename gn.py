@@ -7,34 +7,17 @@ current_dir = os.path.dirname(os.path.realpath(__file__))
 
 
 gn_sources = [
-    "https://ground.news/article/ghislaine-maxwell-says-she-never-saw-trump-or-clinton-act-inappropriately-denies-client-list-in-doj-transcripts_5fce37",
-    "https://ground.news/article/texas-lawmakers-give-final-approval-to-trump-backed-election-map-sending-it-to-governor_1e3655",
-    "https://ground.news/article/india-says-us-trade-negotiations-are-still-going-on-as-fresh-tariffs-loom_835031",
-    "https://ground.news/article/mamdanis-fundraising-surges-past-cuomo-adams-in-new-york-mayoral-race_8dd7f4",
-    "https://ground.news/article/monitor-visits-jails-in-georgias-fulton-county-and-finds-safety-risks-due-to-understaffing",
-    "https://ground.news/article/new-opm-director-estimates-300-000-federal-job-cuts-this-year-no-plans-to-relocate-jobs-from-dc",
-    "https://ground.news/article/texas-lawmakers-give-final-approval-to-trump-backed-election-map-sending-it-to-governor_1e3655",
-    "https://ground.news/article/trump-administration-halts-offshore-wind-project-in-rhode-island",
-    "https://ground.news/article/pennsylvania-says-it-wont-give-voters-ssns-drivers-license-numbers-to-us-doj_2df31f",
-    "https://ground.news/article/judge-blocks-trump-from-cutting-funding-from-34-cities-and-counties-over-sanctuary-policies_66ca03",
-    "https://ground.news/article/mail-services-halt-us-deliveries-amid-tariff-rate-confusion_5cdeff",
-    "https://ground.news/article/trumps-tariffs-could-reduce-us-deficit-by-4-trillion-cbo-estimates",
     "https://ground.news/article/russia-does-not-want-to-end-the-war-they-are-doing-everything-to-prevent-trump-from-imposing-sanctions-on-them",
-    "https://ground.news/article/consumer-watchdog-ends-investigation-into-buy-now-pay-later-company-linked-to-donald-trump-jr_5a448e",
-    "https://ground.news/article/body-cam-footage-shows-milwaukee-judge-denying-she-hid-an-immigrant-wanted-by-ice",
-    "https://ground.news/article/california-gov-gavin-newsoms-national-profile-soars-with-latest-trump-fight-but-there-are-risks_2c3d6b",
-    "https://ground.news/article/alaska-medical-board-approves-draft-to-discipline-providers-of-gender-affirming-care-for-youth",
+    "https://ground.news/article/putin-said-after-alaska-summit-on-improving-relations-with-the-united-states",
+    "https://ground.news/article/us-raid-in-northern-syria-kills-senior-isis-financier",
+    "https://ground.news/article/jd-vance-told-volodymyr-zelensky-to-behave-during-oval-office-meeting",
+    "https://ground.news/article/sen-wicker-sen-fischer-depart-for-taiwan-indo-pacific-trip",
     "https://ground.news/article/trump-white-house-personnel-honcho-sergio-gor-picked-as-ambassador-to-india-after-post-reporting-on-musk-feud-vetting-controversy",
-    "https://ground.news/article/hhs-moves-to-strip-thousands-of-federal-health-workers-of-union-rights",
-    "https://ground.news/article/trump-says-us-will-impose-tariffs-on-all-foreign-furniture_dbfe93",
-    "https://ground.news/article/michael-faulkender-us-treasury-departments-no-2-official-set-to-depart-wsj-reports_f463ef",
-    "https://ground.news/article/michael-faulkender-us-treasury-departments-no-2-official-set-to-depart-wsj-reports_f463ef",
-    "https://ground.news/article/desantis-responds-to-alligator-alcatraz-ruling-touts-deportation-depot",
-    "https://ground.news/article/trump-administration-says-grants-for-hispanic-serving-colleges-are-unconstitutional-and-it-wont-defend-them-in-court",
-    "https://ground.news/article/missouri-gop-leader-says-lawmakers-will-start-with-a-congressional-map-drawn-in-dc",
-    "https://ground.news/article/trump-says-hell-keep-extending-tiktok-shutdown-deadline_4e9222",
-    "https://ground.news/article/texas-republicans-aim-for-final-passage-of-redistricting-after-california-democrats-counterpunch",
-    "https://ground.news/article/trump-says-putin-may-come-to-world-cup"    
+    "https://ground.news/article/un-backed-hunger-monitor-declares-famine-in-gaza-city-warns-of-rapid-spread_1cad26",
+    "https://ground.news/article/25-people-killed-in-gaza-as-gaza-city-becomes-the-focus-of-famine-and-a-military-offensive_b881ca",
+    "https://ground.news/article/dutch-foreign-minister-resigns-after-failing-to-secure-sanctions-against-israel_8a9eeb",
+    "https://ground.news/article/25-people-killed-in-gaza-as-gaza-city-becomes-the-focus-of-famine-and-a-military-offensive_b881ca",
+    "https://ground.news/article/dutch-foreign-minister-resigns-after-failing-to-secure-sanctions-against-israel_8a9eeb"
 ]
 
 
@@ -47,6 +30,9 @@ try:
     # Start the subprocess to open terminal, activate virtual environment, and run commands sequentially
     for url in gn_sources:
         subprocess.run(f'cd {current_dir} && python g.py "{url}"', shell=True)
+        time.sleep(1)
+        subprocess.run("git add .", shell=True)
+        subprocess.run(f"git commit -m 'Fetch news article {url}'", shell=True)
         time.sleep(1)  # Add 1 second delay between each URL
 except Exception as e:
     print(f"Error: {e}")

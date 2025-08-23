@@ -1,4 +1,4 @@
-gn_sources_23_8_25_21_45 = [
+gn_sources_23_8_25_19_45 = [
     "https://ground.news/article/thai-court-clears-ex-pm-thaksin-shinawatra-in-royal-insult-case-lawyer-says_f8c282",
     "https://ground.news/article/netanyahu-says-israel-to-begin-gaza-ceasefire-negotiations-to-end-war-release-hostages_9a880b",
     "https://ground.news/article/trump-administration-sanctions-icc-officials-for-efforts-to-arrest-americans-israelis_06e367",
@@ -17,4 +17,37 @@ gn_sources_23_8_25_21_45 = [
     "https://ground.news/article/man-appears-in-court-over-palestine-action-raf-brize-norton-break-in_2f5cf6",
     "https://ground.news/article/trumps-tariffs-could-reduce-us-deficit-by-4-trillion-cbo-estimates",
     "https://ground.news/article/judge-blocks-trump-from-cutting-funding-from-34-cities-and-counties-over-sanctuary-policies_66ca03"
+]
+
+
+
+gn_sources_23_8_25_21_24 = [
+    "https://ground.news/article/ghislaine-maxwell-says-she-never-saw-trump-or-clinton-act-inappropriately-denies-client-list-in-doj-transcripts_5fce37",
+    "https://ground.news/article/texas-lawmakers-give-final-approval-to-trump-backed-election-map-sending-it-to-governor_1e3655",
+    "https://ground.news/article/india-says-us-trade-negotiations-are-still-going-on-as-fresh-tariffs-loom_835031",
+    "https://ground.news/article/mamdanis-fundraising-surges-past-cuomo-adams-in-new-york-mayoral-race_8dd7f4",
+    "https://ground.news/article/monitor-visits-jails-in-georgias-fulton-county-and-finds-safety-risks-due-to-understaffing",
+    "https://ground.news/article/new-opm-director-estimates-300-000-federal-job-cuts-this-year-no-plans-to-relocate-jobs-from-dc",
+    "https://ground.news/article/texas-lawmakers-give-final-approval-to-trump-backed-election-map-sending-it-to-governor_1e3655",
+    "https://ground.news/article/trump-administration-halts-offshore-wind-project-in-rhode-island",
+    "https://ground.news/article/pennsylvania-says-it-wont-give-voters-ssns-drivers-license-numbers-to-us-doj_2df31f",
+    "https://ground.news/article/judge-blocks-trump-from-cutting-funding-from-34-cities-and-counties-over-sanctuary-policies_66ca03",
+    "https://ground.news/article/mail-services-halt-us-deliveries-amid-tariff-rate-confusion_5cdeff",
+    "https://ground.news/article/trumps-tariffs-could-reduce-us-deficit-by-4-trillion-cbo-estimates",
+    "https://ground.news/article/russia-does-not-want-to-end-the-war-they-are-doing-everything-to-prevent-trump-from-imposing-sanctions-on-them",
+    "https://ground.news/article/consumer-watchdog-ends-investigation-into-buy-now-pay-later-company-linked-to-donald-trump-jr_5a448e",
+    "https://ground.news/article/body-cam-footage-shows-milwaukee-judge-denying-she-hid-an-immigrant-wanted-by-ice",
+    "https://ground.news/article/california-gov-gavin-newsoms-national-profile-soars-with-latest-trump-fight-but-there-are-risks_2c3d6b",
+    "https://ground.news/article/alaska-medical-board-approves-draft-to-discipline-providers-of-gender-affirming-care-for-youth",
+    "https://ground.news/article/trump-white-house-personnel-honcho-sergio-gor-picked-as-ambassador-to-india-after-post-reporting-on-musk-feud-vetting-controversy",
+    "https://ground.news/article/hhs-moves-to-strip-thousands-of-federal-health-workers-of-union-rights",
+    "https://ground.news/article/trump-says-us-will-impose-tariffs-on-all-foreign-furniture_dbfe93",
+    "https://ground.news/article/michael-faulkender-us-treasury-departments-no-2-official-set-to-depart-wsj-reports_f463ef",
+    "https://ground.news/article/michael-faulkender-us-treasury-departments-no-2-official-set-to-depart-wsj-reports_f463ef",
+    "https://ground.news/article/desantis-responds-to-alligator-alcatraz-ruling-touts-deportation-depot",
+    "https://ground.news/article/trump-administration-says-grants-for-hispanic-serving-colleges-are-unconstitutional-and-it-wont-defend-them-in-court",
+    "https://ground.news/article/missouri-gop-leader-says-lawmakers-will-start-with-a-congressional-map-drawn-in-dc",
+    "https://ground.news/article/trump-says-hell-keep-extending-tiktok-shutdown-deadline_4e9222",
+    "https://ground.news/article/texas-republicans-aim-for-final-passage-of-redistricting-after-california-democrats-counterpunch",
+    "https://ground.news/article/trump-says-putin-may-come-to-world-cup"    
 ]
