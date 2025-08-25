@@ -1,0 +1,84 @@
+{
+  "story_id": "GN_20250825_222756_c35476c2",
+  "metadata": {
+    "title": "Myanmar junta says historic railway bridge 'bombed, destroyed'",
+    "timestamp": "2025-08-25T22:27:56.554954",
+    "url": "https://ground.news/article/myanmar-junta-says-historic-railway-bridge-bombed-destroyed"
+  },
+  "bias_distribution": {
+    "total_sources": "17",
+    "leaning_left": "5",
+    "center": "3",
+    "leaning_right": "4"
+  },
+  "perspective_summaries": {
+    "left": [
+      "The Gokteik Bridge in Shan State has been destroyed amid fighting between Myanmar's military junta and armed resistance groups, leading to significant damage to transport routes.",
+      "Junta spokesperson Zaw Min Tun claimed the Ta'ang National Liberation Army and allied forces bombed the bridge, while the Ta'ang National Liberation Army denied this accusation.",
+      "The destruction of the bridge threatens important transport routes and highlights the ongoing destruction of Myanmar's cultural heritage amid the conflict.",
+      "The civil war in Myanmar continues since the 2021 coup, with the military controlling only 21 percent of the country."
+    ],
+    "center": [
+      "The Gokteik Bridge in Shan State has been destroyed amid fighting between Myanmar's military junta and armed resistance groups, leading to significant damage to transport routes.",
+      "Junta spokesperson Zaw Min Tun claimed the Ta'ang National Liberation Army and allied forces bombed the bridge, while the Ta'ang National Liberation Army denied this accusation.",
+      "The destruction of the bridge threatens important transport routes and highlights the ongoing destruction of Myanmar's cultural heritage amid the conflict.",
+      "The civil war in Myanmar continues since the 2021 coup, with the military controlling only 21 percent of the country."
+    ],
+    "right": [
+      "The Gokteik Bridge in Myanmar has been damaged, with the military junta blaming the Ta'ang National Liberation Army for the destruction caused by mines.",
+      "The Ta'ang National Liberation Army accused the junta of damaging the bridge while targeting its base with a drone strike, according to spokesperson Lway Yay Oo.",
+      "The Gokteik Bridge, a historic structure completed in 1900, connects Mandalay to northern Shan State and is a significant tourist attraction.",
+      "The junta has faced ongoing civil conflict since the 2021 coup, with a general election planned for December under criticism from Western countries."
+    ]
+  },
+  "sources": [
+    {
+      "news_title": "Myanmar junta, rebels trade blame for damage to iconic bridge",
+      "news_link": "https://www.bangkokpost.com/world/3092830/myanmar-junta-rebels-trade-blame-for-damage-to-iconic-bridge",
+      "bias": "Lean Right",
+      "text": "Myanmar’s military government and a rebel group it’s fighting traded blame Monday for damage to an iconic colonial-era train bridge that connects the northern Shan state to the the second biggest city of Mandalay.\nMajor General Zaw Min Tun, chief spokesman of the National Defense and Security Council, said the group damaged the structure with mines. The group, Ta’ang National Liberation Army, accused the government of accidentally causing the damage with an attack drone that was targeting its base, according to AFP.\nSince its completion in 1900, the 690-metre viaduct has been considered Myanmar’s highest bridge, attracting local and international visitors. TNLA controlled the nearby town Nawnghkio until the military recaptured it in July after months of fighting.\nThe regime has been struggling with a civil war and resulting economic decline since it seized power in 2021. Junta chief Min Aung Hlaing last month lifted a state of emergency to pave the way for a long-promised general election, scheduled for December, which Western countries including the US have criticised as illegitimate.\nThe government said in a release that a 20-metre section was damaged between the viaduct’s structure and a pier on the Shan state side. Zaw Min Tun said it could take time to make repairs, given that ethnic armed groups including the TNLA operate in the area."
+    },
+    {
+      "news_title": "Gokteik Bridge, Myanmar’s highest rail crossing, destroyed in civil war",
+      "news_link": "https://indianexpress.com/article/world/gokteik-bridge-myanmar-destroyed-10210607/",
+      "bias": "Lean Left",
+      "text": null
+    },
+    {
+      "news_title": "Myanmar Junta, Rebels Trade Blame for Damage of Iconic Bridge",
+      "news_link": "https://www.bloomberg.com/news/articles/2025-08-25/myanmar-junta-rebels-trade-blame-for-damage-of-iconic-bridge",
+      "bias": "Lean Left",
+      "text": null
+    },
+    {
+      "news_title": "Myanmar junta says historic railway bridge 'bombed, destroyed'",
+      "news_link": "https://www.channelnewsasia.com/asia/myanmar-junta-says-historic-railway-bridge-bombed-destroyed-5311646",
+      "bias": "Center",
+      "text": "Myanmar junta says historic railway bridge 'bombed, destroyed'\nMyanmar's ruling military junta said on Sunday (Aug 24) a colonial-era bridge that was once the world's highest railway trestle had been \"bombed and destroyed\" by anti-coup armed groups.\nA civil war has consumed Myanmar since a 2021 coup deposed the civilian government, with the military battling a myriad of pro-democracy guerrillas and ethnic armed organisations.\nJunta spokesman Zaw Min Tun said in a video statement to media that the Ta'ang National Liberation Army (TNLA) and People's Defence Forces had \"bombed and destroyed\" Gokteik bridge.\nAnother statement by the junta said the bridge had been \"exploded with mines\".\nStanding 102 metres above a gorge, the Gokteik Viaduct is the highest bridge in Myanmar and was the tallest railway trestle in the world when it opened in 1901 during the British colonial era.\nVideos and photos on social media showed the bridge partly collapsed and damaged. The bridge connects Mandalay to northern Shan State by rail and draws a number of tourists.\nA TNLA spokesperson rejected the accusations and said it was the junta that had bombed the bridge.\n\"(The) Myanmar army tried to bomb our bases... this morning by using drones. They bombed our troops, but their bomb also hit Gokteik bridge,\" Lway Yay Oo said.\nThe nearby towns of Nawnghkio and Kyaukme have seen heavy fighting between the TNLA and the junta in recent weeks.\nThe junta had claimed to have recaptured Nawnghkio in July."
+    },
+    {
+      "news_title": "Myanmar Military Says Historic Railway Bridge \"Bombed, Destroyed\" By Armed Groups",
+      "news_link": "https://www.ndtv.com/world-news/myanmar-military-says-railway-bridge-bombed-destroyed-by-armed-groups-9151268#publisher=newsstand",
+      "bias": "Lean Right",
+      "text": null
+    },
+    {
+      "news_title": "Iconic Myanmar Railway Bridge Destroyed Amid Escalating Conflict",
+      "news_link": "https://www.outlookindia.com/international/iconic-myanmar-railway-bridge-destroyed-amid-escalating-conflict",
+      "bias": "Lean Left",
+      "text": "Myanmar’s junta says anti-coup forces destroyed the historic Gokteik Bridge, while rebels blame a junta airstrike.\nThe colonial-era viaduct, once the world’s tallest railway trestle, was a key transport link and tourist landmark.\nThe blast comes amid heavy fighting in Shan State, where resistance groups continue to challenge military control.\nMyanmar’s ruling military junta announced on Sunday that the historic Gokteik Bridge — once the world’s tallest railway trestle — has been “bombed and destroyed” in the ongoing conflict between the army and anti-coup armed groups.\nThe country has been engulfed in civil war since the February 2021 military coup that ousted the elected civilian government, sparking nationwide resistance by pro-democracy militias and long-standing ethnic armed organisations.\nJunta spokesman Zaw Min Tun, in a video statement, accused the Ta’ang National Liberation Army (TNLA) and People’s Defence Forces (PDF) of planting explosives that brought down the colonial-era bridge. Another statement from the military said the structure was “exploded with mines.”\nHowever, the TNLA denied the accusation, blaming the junta itself for the damage. “The Myanmar army tried to bomb our bases this morning using drones. They bombed our troops, but their bomb also hit Gokteik Bridge,” TNLA spokesperson Lway Yay Oo said.\nStanding 102 metres (334 feet) above a deep gorge, the Gokteik Viaduct is Myanmar’s tallest railway bridge and was considered the world’s highest railway trestle when it opened in 1901 under British colonial rule. Stretching across the rugged terrain between Mandalay and Shan State, the bridge has long been both a crucial transport link and a tourist attraction.\nVideos and photos circulating on social media appeared to show the bridge partially collapsed and heavily damaged.\nThe destruction comes amid fierce battles in northern Shan State, particularly around the towns of Nawnghkio and Kyaukme, where clashes between the TNLA and junta forces have intensified in recent weeks. The military claimed to have retaken Nawnghkio in July, but resistance groups continue to mount offensives.\nThe loss of the Gokteik Bridge not only marks the destruction of a century-old landmark but also threatens vital transport and supply routes in Myanmar’s embattled north.\nAs both sides trade blame, the collapse of the iconic viaduct underscores how Myanmar’s civil war is tearing apart not only its political and social fabric but also its historical and cultural heritage"
+    },
+    {
+      "news_title": "Myanmar's iconic Gokteik bridge 'bombed, destroyed' by rebels",
+      "news_link": "https://www.nst.com.my/world/region/2025/08/1265044/myanmars-iconic-gokteik-bridge-bombed-destroyed-rebels",
+      "bias": "Center",
+      "text": "News\nRegional\nNorthern\nEast Coast\nSouthern\nBorneo\nCentral\nBusiness Times\nLife & Times\nSports\nWorld\nHeard The News?\n180 Years\n1Klassifieds\nNST TV\nOpinion\nGallery\nVouchers\nNST Podcast\nMore\nCOVID-19 Vaccine\nNews\nNST Viral\nCrime & Courts\nNation\nGovernment / Public Policy\nPolitics\nNST Special\nRegional\nVIEW ALL NEWS\nBusiness\nBusiness\nProperty\nCars Bikes Trucks\nLife & Times\nBots\nHeal\nFlair\nJom!\nGroove\nSunday Vibes\nVIEW ALL LIFE & TIMES\nSports\nFootball\nBadminton\nRacquet Sports\nCycling\nGolf\nMotor Sports\nCricket\nHockey\neSports\nOthers\nVIEW ALL SPORTS\nWorld\nWorld\nAsean\nVIEW ALL WORLD\nNST Podcast\nNST TV\nOpinion\nLeader\nLetters\nColumnists\nVIEW ALL OPINION\nVouchers\nGallery\nPhotos\nInfographics\nContact Us\nGet Mobile App\nNews\nCrime & Courts\nGovt / Public Policy\nNation\nPolitics\nBusiness\nBusiness Times\nProperty\nCars Bikes Trucks\nLife & Times\nSunday Vibes\nBots\nHeal\nFlair\nJom!\nGroove\nSports\nFootball\nBadminton\nTennis\nCycling\nGolf\nMMA\nMotorSport\nCricket\nOthers\nWorld\nWorld\nRegion\nRadio\nGet Audio+\nHot FM\nBuletin FM\nFly FM\nEight FM\nMolek FM\nOpinion\nColumnists\nLetters\nLeader\nGallery\nPhotos\nInfographics\nNST Podcast\nNST TV\nEducation\nVoucher"
+    },
+    {
+      "news_title": "Myanmar junta says historic railway bridge 'bombed, destroyed' - Thai Newsroom",
+      "news_link": "https://thainewsroom.com/2025/08/25/myanmar-junta-says-historic-railway-bridge-bombed-destroyed/",
+      "bias": "unknown",
+      "text": "By AFP and published by CNA\nMYANMAR’S ruling military junta said on Sunday (Aug. 24) a colonial-era bridge that was once the world’s highest railway trestle had been “bombed and destroyed” by anti-coup armed groups.\nA civil war has consumed Myanmar since a 2021 coup deposed the civilian government, with the military battling a myriad of pro-democracy guerrillas and ethnic armed organisations.\nJunta spokesman Zaw Min Tun said in a video statement to media that the Ta’ang National Liberation Army (TNLA) and People’s Defence Forces had “bombed and destroyed” Gokteik bridge.\nAnother statement by the junta said the bridge had been “exploded with mines”.\nStanding 102 metres above a gorge, the Gokteik Viaduct is the highest bridge in Myanmar and was the tallest railway trestle in the world when it opened in 1901 during the British colonial era.\nVideos and photos on social media showed the bridge partly collapsed and damaged. The bridge connects Mandalay to northern Shan State by rail and draws a number of tourists.\nA TNLA spokesperson rejected the accusations and said it was the junta that had bombed the bridge.\n“(The) Myanmar army tried to bomb our bases… this morning by using drones. They bombed our troops, but their bomb also hit Gokteik bridge,” Lway Yay Oo said.\nThe nearby towns of Nawnghkio and Kyaukme have seen heavy fighting between the TNLA and the junta in recent weeks.\nThe junta had claimed to have recaptured Nawnghkio in July.\nCAPTION:\nThe Gokteik Viaduct is a remarkable railway bridge located in Nawnghkio, in the western part of Shan State, Myanmar. Serving as a critical link between Pyin Oo Lwin and Lashio, the viaduct stands as the highest bridge in Myanmar and was once the largest railway trestle in the world when it was completed. Its construction began in 1899, undertaken by the Pennsylvania and Maryland Bridge Construction Company, with components fabricated by the Pennsylvania Steel Company and transported from the United States. The bridge was officially opened in 1901, with the construction overseen by Sir Arthur Rendel, an engineer for the Burma Railway Company. Photos shared on Facebook by Amazing Myanmar\nWatch video of the Gokteik Bridge shared on YouTube by Lior Shafir\nAlso read:\nJapan says ‘seriously concerned’ about Myanmar elections without release of those detained\n‘Escaping hell’: Myanmar scam centre workers plead to go home\nAttorney-General weighing whether to send Thaksin’s lese majeste case to Appellate Court\nPaetongtarn urged to keep distance from dad to make decision on her own\nPaetongtarn’s refusal to step down means predicted survival in court: Academic\nPaetongtarn advised to admit making mistake during chitchat with Hun Sen\nThai army warns Cambodia might not fully implement agreements\nPhumtham orders governors to watch out for Typhoon Kajiki"
+    }
+  ]
+}
